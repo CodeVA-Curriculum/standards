@@ -105,4 +105,29 @@
       - "Scholars and Inventors: Benjamin Franklin, Benjamin Banneker, Thomas Jefferson, George Washington Carver, Booker T. Washington, Orville and Wilbur Wright, Steve Jobs, Jonas Salk, Thomas Edison, Alexander Graham Bell, and Mary Jackson;"
       - "Explorers and Adventurers: Meriwether Lewis, William Clark, and Sacagawea, Neil Armstrong, Amelia Earhart;"
       - "Reformers and Champions: Abraham Lincoln, Theodore “Teddy” Roosevelt, Helen Keller, Thurgood Marshall, Rosa Parks, Jackie Robinson, Cesar Chavez, Dr. Martin Luther King, Jr., Sen. Daniel Inouye, John F. Kennedy, and Barack Obama." 
+      
+  - id: 2.HSS.GE.11
+    title: 2.11
+    text: The student will apply history and social science skills to develop geographic mapping skills using world maps and globes by 
+    subs: 
+      - locating the countries of North America and the bordering oceans; 
+      - identifying major rivers, mountain ranges, lakes, and other physical features in the United States. 
 
+  - id: 2.HSS.GE.12
+    title: 2.12
+    text: The student will apply history and social science skills to connect geography to landmarks and historic events, including, but not limited to 
+    subs: 
+      - Jefferson Memorial and Lincoln Memorial;
+      - Valley Forge and George Washington’s crossing of the Delaware River; and
+      - Yellowstone National Park. 
+
+  - id: 2.HSS.EC.13
+    title: 2.13
+    text: The student will apply history and social science skills to understand basic economic principles by
+    subs:
+      - identifying natural resources (e.g., water, soil, wood, coal), human resources (i.e., people at work), and capital resources (e.g., machines, tools, computers, buildings); 
+      - distinguishing between needs and wants;
+      - distinguishing between the use of barter and the use of money in the exchange for goods and services and describing how money makes trading easier than barter; and
+      - explaining that scarcity (limited resources) requires people to make choices about producing and consuming goods and services.
+
+    

@@ -1,1 +1,94 @@
+- id: 1.MT.NS.1
+  title: 1.1
+  text: The student will
+  subs: []
+    - count forward orally by ones to 110, starting at any number between 0 and 110; 
+    - write the numerals 0 to 110 in sequence and out-of-sequence;
+    - count backward orally by ones when given any number between 1 and 30; and
+    - ) count forward orally by ones, twos, fives, and tens to determine the total number of objects to 110.
 
+- id: 1.MT.NS.2
+  title: 1.2
+  text: The student, given up to 110 objects, will 
+  subs: []
+    - group a collection into tens and ones and write the corresponding numeral; 
+    - compare two numbers between 0 and 110 represented pictorially or with concrete objects, using the words greater than, less than or equal to; and 
+    - order three or fewer sets from least to greatest and greatest to least. 
+
+- id: 1.MT.NS.3
+  title: 1.3
+  text: The student, given an ordered set of ten objects and/or pictures, will indicate the ordinal position of each object, first through tenth.
+  subs: []
+
+  - id: 1.MT.NS.4
+  title: 1.4
+  text: The student will 
+  subs: 
+    - represent and solve practical problems involving equal sharing with two or four sharers; and
+    - represent and name fractions for halves and fourths, using models.
+
+
+- id: 1.MT.NS.5
+  title: 1.5
+  text: The student, given a familiar problem situation involving magnitude, will
+  subs: 
+    -  "select a reasonable order of magnitude from three given quantities: a one-digit numeral, a two-digit numeral, and a three-digit numeral (e.g., 5, 50, 500); and" 
+    - explain the reasonableness of the choice.
+    
+- id: 1.MT.CE.6
+  title: 1.6
+  text: The student will create and solve single-step story and picture problems using addition and subtraction within 20.
+  subs: []
+
+  - id: 1.MT.CE.7
+  title: 1.7
+  text: The student will
+  subs:
+    - recognize and describe with fluency part-whole relationships for numbers up to 10; and
+    - demonstrate fluency with addition and subtraction within 10.
+
+- id: 1.MT.MG.8
+  title: 1.8
+  text: The student will determine the value of a collection of like coins (pennies, nickels, or dimes) whose total value is 100 cents or less.
+  subs: []
+
+- id: 1.MT.MG.9
+  title: 1.9
+  text: The student will investigate the passage of time and
+  subs: 
+    - tell time to the hour and half-hour, using analog and digital clocks; and
+    - read and interpret a calendar.
+
+  - id: 1.MT.MG.10
+  title: 1.10
+  text: The student will use nonstandard units to measure and compare length, weight, and volume. 
+  subs: []
+
+- id: 1.MT.MG.11
+  title: 1.11
+  text: The student will
+  subs: 
+    - identify, trace, describe, and sort plane figures (triangles, squares, rectangles, and circles) according to number of sides, vertices, and angles; and
+    - identify and describe representations of circles, squares, rectangles, and triangles in different environments, regardless of orientation, and explain reasoning.
+
+- id: 1.MT.PS.12
+  title: 1.12
+  text: The student will
+  subs: 
+    -  collect, organize, and represent various forms of data using tables, picture graphs, and object graphs; and
+    - read and interpret data displayed in tables, picture graphs, and object graphs, using the vocabulary more, less, fewer, greater than, less than, and equal to.
+
+  - id: 1.MT.PA.13
+  title: 1.13
+  text: The student will sort and classify concrete objects according to one or two attributes.
+  subs: []
+
+- id: 1.MT.PA.14
+  title: 1.14
+  text: The student will identify, describe, extend, create, and transfer growing and repeating patterns.
+  subs: []
+
+- id: 1.MT.PA.15
+  title: 1.15
+  text: The student will demonstrate an understanding of equality through the use of the equal symbol.
+  subs: []

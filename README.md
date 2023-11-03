@@ -29,7 +29,7 @@ The four fields are required--all standards must define an `id` (in the correct 
 | `id`  | The unique identifier for the standard. The format is `[grade].[subject].[strand].[number]`. See `id_key.yaml` for permitted subject and standard abbreviations and their definitions. | `- id: 3.MT.NS.1` |
 | `title` | The title for the standard that will be displayed on the website. This title should match the name of the standard in the official VDOE document. | `title: K.1` |
 | `text` | The text of the standard as written in the official VDOE document | `text: The student will...` |
-| `subs` | A list of sub-standards as defined in the official VDOE document. The list must be enclosed in `[` and `]`, and each sub-standard should be enclosed in `"` and `"` and followed by a comma. | See `kindergarten/science.yaml` |
+| `subs` | A list of sub-standards as defined in the official VDOE document. | See `kindergarten/science.yaml` |
 
 
 ## Contributing

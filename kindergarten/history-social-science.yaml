@@ -1,6 +1,6 @@
 - id: K.HS.SK.0
     title: Skills K
-    text: The student will apply history and social science skills to the content by ...
+    text: The student will apply history and social science skills to the content by
     subs:
       - viewing and exploring information sources, including, but not limited to artifacts, primary and secondary sources, charts, graphs, and diagrams;
       - applying geographic skills to identify and understand geographic features;
@@ -14,7 +14,7 @@
 
   - id: K.HS.CV.1
     title: K.2
-    text: The student will apply history and social science skills to practice citizenship in the classroom by...
+    text: The student will apply history and social science skills to practice citizenship in the classroom by
     subs:
       - taking responsibility for one’s actions;
       - practicing honesty and showing kindness to oneself and others; 
@@ -24,7 +24,7 @@
 
   - id: K.HS.CV.2
     title: K.2
-    text: The student will apply history and social science skills to explain how communities honor state and national traditions and recognize designated Virginia holidays, including but not limited to..
+    text: The student will apply history and social science skills to explain how communities honor state and national traditions and recognize designated Virginia holidays, including but not limited to
     subs:
       - Labor Day;
       - Columbus Day (Yorktown Victory Day); 
@@ -41,7 +41,7 @@
 
   - id: K.HS.CV.3
     title: K.3
-    text: The student will apply history and social science skills to define patriotism and explain how communities express patriotism by...
+    text: The student will apply history and social science skills to define patriotism and explain how communities express patriotism by
     subs:
       - identifying the American and Virginia flags;
       - identifying national and state symbols, including, but not limited to the bald eagle, the dogwood, and the cardinal;
@@ -50,7 +50,7 @@
 
   - id: K.HS.HS.4
     title: K.4
-    text: The student will apply history and social science skills to recognize Virginia’s earliest communities by...
+    text: The student will apply history and social science skills to recognize Virginia’s earliest communities by
     subs:
       - identifying examples of historic events, stories, and legends;
       - identifying early communities, changemakers, and contributions of leaders, including, but not limited to Indigenous tribes, farmers, traders, early settlers, minorities, women, and children;
@@ -59,7 +59,7 @@
 
   - id: K.HS.HS.5
     title: K.5
-    text: The student will apply history and social science skills to understand and explain what makes communities unique by...
+    text: The student will apply history and social science skills to understand and explain what makes communities unique by
     subs:
       - explaining the roles of important local community members, such as, but not limited to medical personnel, first responders, teachers, and business leaders;
       - identifying historic events; and
@@ -72,7 +72,7 @@
 
   - id: K.HS.GE.7
     title: K.7
-    text: The student will apply history and social science skills to demonstrate an understanding of maps and globes by...
+    text: The student will apply history and social science skills to demonstrate an understanding of maps and globes by
     subs:
       - identifying the similarities and differences between a map and a globe;
       - identifying basic map symbols;
@@ -81,7 +81,7 @@
 
   - id: K.HS.EC.8
     title: K.8
-    text: The student will apply history and social science skills to demonstrate an understanding of primary economic principles by...
+    text: The student will apply history and social science skills to demonstrate an understanding of primary economic principles by
     subs:
       - describing ways people work to earn and save money to buy the things they need and want; and
       - recognizing that Americans are free to make choices about what to buy and that they must make choices because they cannot have everything they want.

@@ -1,4 +1,4 @@
-  - id: 1.HS.SK.0
+  - id: 1.HSS.SK.0
     title: Skills 1
     text: The student will apply history and social science skills to practice citizenship in the classroom by
     subs: 
@@ -10,7 +10,7 @@
       - participating in classroom decision-making by voting; and
       - understanding that local and state government representatives are elected by citizens who vote.
 
-  - id: 1.HS.CV.1
+  - id: 1.HSS.CV.1
     title: 1.1
     text: The student will apply history and social science skills to practice citizenship in the classroom by 
     subs: 
@@ -22,5 +22,73 @@
       - participating in classroom decision-making by voting; and
       - understanding that local and state government representatives are elected by citizens who vote. 
 
-  - id: 1.HSS.HY.2
+  - id: 1.HSS.CV.2
+    title: 1.2
+    text: The student will apply history and social science skills to explain how communities honor local and national traditions and recognize designated Virginia holidays, including, but not limited to
+    subs: 
+      - Labor Day;
+      - Columbus Day (Yorktown Victory Day); 
+      - Election Day;
+      - Veterans Day;
+      - Thanksgiving Day;
+      - Christmas Day;
+      - New Year’s Day;
+      - Martin Luther King, Jr. Day;
+      - George Washington Day (commonly known as Presidents’ Day); 
+      - Memorial Day;
+      - Juneteenth; and 
+      - Independence Day.
 
+  - id: 1.HSS.CV.3
+    title: 1.3
+    text: The student will apply history and social science skills to describe the symbols and traditions that honor and foster patriotism in the United States by
+    subs: 
+      - learning the Pledge of Allegiance and the National Anthem and the ways people express respect for the American flag;
+      - explaining the symbolism of the colors, stars, and stripes of the American flag; 
+      - identifying the Virginia flag, state capitol building, the cardinal as the state bird, and the dogwood as the state flower; and
+      - explaining why people use symbols and have traditions.
+
+  - id: 1.HSS.HY.4
+    title: 1.4
+    text: The student will apply history and social science skills to understand Virginia’s history 
+    subs: 
+      - identifying and describing important events and locations throughout the early history of the Commonwealth, including, but not limited to Werowocomoco and the first English colony in North America at Jamestown;
+      - describing how life in various Virginia communities has changed over time; and
+      - identifying local cities or counties on a map of Virginia.
+
+  - id: 1.HSS.HY.5
+    title: 1.5
+    text: The student will apply history and social science skills to describe contributions of Virginia’s diverse people and the stories of changemakers in the history of Virginia and their contributions to our Commonwealth, including, but not limited to 
+    subs:
+      - "Indigenous people:Chief Powhatan and Pocahontas;"  
+      - "Explorers: John Smith and Christopher Newport;"
+      - "Presidents: George Washington, Thomas Jefferson, James Madison, and James Monroe; and"
+      - "Barrier Breakers: John Mercer Langston, Booker T. Washington, Maggie L. Walker, Barbara Johns, Arthur R. Ashe, Jr., and L. Douglas Wilder."
+
+  - id: 1.HSS.GE.6
+    title: 1.6
+    text: The student will apply history and social science skills to develop geographic skills by
+    subs:
+      - using basic map symbols, including references to land, water, cities, and roads; 
+      - using cardinal directions on maps; 
+      - locating Virginia, the United States, continents, and oceans on maps and globes; and
+      - constructing simple maps and including a title, map legend or key, and compass rose.
+
+  - id: 1.HSS.GE.7
+    title: 1.7
+    text: The student will apply history and social science skills to connect geography to historic events of Virginia and the United States by
+    subs: 
+      - identifying landforms and bodies of water of Virginia and describing how they affect the way people live; 
+      - understanding that the location of Virginia determines its climate and results in four distinct seasons;
+      - locating the site of the Jamestown colony; and 
+      - locating Richmond and Washington, D.C., on Virginia and United States maps. 
+
+  - id: 1.HSS.EC.8
+    title: 1.8
+    text: The student will apply history and social science skills to explain how individuals make economic choices to meet their basic needs by
+    subs:
+      - identifying the difference between goods and services; 
+      - describing how people can be both consumers and producers; 
+      - describing ways people work to earn and save money to purchase goods and services;
+      - describing goods and services produced in Virginia; and  
+      - describing why people must make choices, prioritizing needs over wants.  

@@ -1,0 +1,68 @@
+- id: 1.CS.AP.1
+  title: 1.1
+  text: The student will construct sets of step-by-step instructions (algorithms) either independently or collaboratively, including 
+  subs: 
+    - sequencing (including ordinal numbers); and;
+    - simple loops (patterns and repetition).
+
+- id: 1.CS.AP.2
+  title: 1.2
+  text: The student will construct programs to accomplish tasks as a means of creative expression using a block based programming language or unplugged activities, either independently or collaboratively including
+  subs: 
+    - sequencing, ordinal numbers; and
+    - simple loops (patterns and repetition).
+
+- id: 1.CS.AP.3
+  title: 1.3
+  text: The student will analyze, correct, and improve (debug) an algorithm that includes sequencing.
+  subs: []
+
+- id: 1.CS.AP.4
+  title: 1.4
+  text: The student will plan and create a design document to illustrate thoughts, ideas, and stories in a sequential (step-by-step) manner (e.g., story map, storyboard, sequential graphic organizer).
+  subs: []
+
+- id: 1.CS.AP.5
+  title: 1.5
+  text: The student will categorize a group of items based on one or two attributes or the actions of each item, with or without a computing device.
+  subs: []
+
+- id: 1.CS.AP.6
+  title: 1.6
+  text: The student will acknowledge that materials are created by others (e.g., author, illustrator)
+  subs: []
+
+- id: 1.CS.CS.7
+  title: 1.3
+  text: The student will identify components of computing systems that are common among different types of computing devices including desktop and laptop computers, tablets, and mobile phones.
+  subs: []
+
+- id: 1.CS.CS.8
+  title: 1.8
+  text: The student will identify, using accurate terminology, simple hardware and software problems that may occur during use (e.g., app or program is not working as expected, no sound is coming from the device, the device won't turn on).
+  subs: []
+
+- id: 1.CS.CY.9
+  title: 1.9
+  text: The student will describe what is allowed and what is not allowed at school associated with the use of technology.
+  subs: []
+
+  - id: 1.CS.CY.10
+  title: 1.10
+  text: The student will identify and use strong passwords, explain why strong passwords should be used (e.g., protect name, address, and telephone number).
+  subs: []
+  
+  - id: 1.CS.DA.11
+  title: 1.11
+  text: The student will identify and interpret data and organize it in a chart or graph in order to make a prediction, with or without a computing device.
+  subs: []
+
+  - id: 1.CS.IC.12
+  title: 1.12
+  text: The student will identify and explain responsible behaviors associated with using information and technology.
+  subs: []
+
+  - id: 1.CS.NI.13
+  title: 1.13
+  text: The student will, in a whole class environment, discuss how information can be communicated electronically (e.g., email, social media).
+  subs: []

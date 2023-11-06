@@ -1,0 +1,91 @@
+- id: 3.CS.AP.1
+  title: 3.1
+  text: The student will construct sets of step-by-step instructions (algorithms), both independently and collaboratively
+  subs: 
+    - using sequencing;
+    - using loops (a wide variety of patterns such as repeating patterns or growing patterns); and
+    - using events. 
+
+- id: 3.CS.AP.2
+  title: 3.2
+  text: The student will construct programs to accomplish tasks as a means of creative expression using a block or text based programming language, both independently and collaboratively
+  subs: 
+    - using sequencing;
+    - using loops (a wide variety of patterns such as repeating patterns or growing patterns); and 
+    - identifying events. 
+
+- id: 3.CS.AP.3
+  title: 3.3
+  text: The student will analyze, correct, and improve (debug) an algorithm that includes sequencing, events, and loops.
+  subs: []
+
+- id: 3.CS.AP.4
+  title: 3.4
+  text: The student will create a plan as part of the iterative design process, independently and/or collaboratively, using a variety of strategies (e.g., pair programming, storyboard, flowchart, pseudocode, story map).
+  subs: []
+
+- id: 3.CS.AP.5
+  title: 3.5
+  text: The student will compare and contrast a group of items based on attributes or actions classified into at least two sets and two subsets.
+  subs: []
+
+- id: 3.CS.AP.6
+  title: 3.6
+  text: The student will break down (decompose) a larger problem into smaller subproblems, independently or collaboratively
+  subs: []
+
+- id: 3.CS.AP.7
+  title: 3.7
+  text: The student will give credit to sources when borrowing or changing ideas (e.g., using information and pictures created by others, using music created by others, remixing programming projects).
+  subs: []
+
+ - id: 3.CS.CS.8
+  title: 3.8
+  text: The student will model how a computing system works including input and output
+  subs: []
+
+- id: 3.CS.CS.9
+  title: 3.9
+  text: The student will identify, using accurate terminology, simple hardware and software problems that may occur during use, and apply strategies for solving problems (e.g., rebooting the device, checking for power, checking network availability, closing and reopening an app).
+  subs: []
+
+- id: 3.CS.CY.10
+  title: 3.10
+  text: The student will identify problems that relate to inappropriate use of computing devices and networks.
+  subs: []
+
+- id: 3.CS.CY.11
+  title: 3.11
+  text: The student will create examples of strong passwords, explain why strong passwords should be used, and demonstrate proper use and protection of personal passwords.
+  subs: []
+
+- id: 3.CS.DA.12
+  title: 3.12
+  text: The student will use a computer to observe and analyze data in order to draw conclusions and make predictions.
+  subs: []
+
+- id: 3.CS.DA.13
+  title: 3.13
+  text: The student will create an artifact using computing systems to model the attributes and behaviors associated with a concept (e.g., day and night, animal life cycles, plant life cycles).
+  subs: []
+
+- id: 3.CS.IC.14
+  title: 3.14
+  text: The student will identify computing technologies that have changed the world and express how those technologies influence, and are influenced by, cultural practices.
+  subs: []
+
+- id: 3.CS.IC.15
+  title: 3.15
+  text: The student will identify the positive and negative impacts of the pervasiveness of computers and computing in daily life (e.g., downloading videos and audio files, electronic appliances, wireless Internet, mobile computing devices, GPS systems, wearable computing).
+  subs: []
+
+- id: 3.CS.IC.16
+  title: 3.16
+  text: The student will identify social and ethical issues that relate to computing devices and networks.
+  subs: []
+
+- id: 3.CS.NI.17
+  title: 3.17
+  text: The students will discuss in partners and as a class that information can be transmitted using computing devices via a network (e.g., email, blogging, video messaging).
+  subs: []
+  

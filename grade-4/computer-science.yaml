@@ -1,0 +1,97 @@
+- id: 4.CS.AP.1
+  title: 4.1
+  text: The student will construct sets of step-by-step instructions (algorithms) both independently and collaboratively
+  subs: 
+    - using sequencing; 
+    - using loops;
+    - using variables to store and process data; and 
+    - performing number calculations on variables (e.g., addition, subtraction, multiplication and division).
+
+- id: 4.CS.AP.2
+  title: 4.2
+  text: The student will construct programs to accomplish a task as a means of creative expression using a block or text based programming language, both independently and collaboratively
+  subs: 
+    - using sequencing; 
+    - using loops;
+    - using variables to store and process data; and 
+    - performing number calculations on variables (e.g., addition, subtraction, multiplication and division).
+
+- id: 4.CS.AP.3
+  title: 4.3
+  text: The student will analyze, correct, and improve (debug) an algorithm that includes sequencing, events, loops and variables.
+  subs: []
+
+- id: 4.CS.AP.4
+  title: 4.4
+  text: The student will create a plan as part of the iterative design process, both independently and collaboratively using strategies such as pair programming (e.g., storyboard, flowchart, pseudocode, story map).
+  subs: []
+
+- id: 4.CS.AP.5
+  title: 4.5
+  text: The student will classify and arrange a group of items based on the attributes or actions.
+  subs: []
+  
+- id: 4.CS.AP.6
+  title: 4.6
+  text: The student will break down (decompose) a larger problem into smaller subproblems, both independently and collaboratively.
+  subs: []
+  
+- id: 4.CS.AP.7
+  title: 4.7
+  text: The student will give credit to sources when borrowing or changing ideas (e.g., using information, pictures created by others, using music created by others, remixing programming projects).
+  subs: []
+  
+- id: 4.CS.CS.8
+  title: 4.8
+  text: The student will model how a computing system works including input and output, processors, and sensors.
+  subs: []
+  
+- id: 4.CS.CS.9
+  title: 4.9
+  text: The student will identify, using accurate terminology, simple hardware and softwareproblems that may occur during use, and apply strategies for solving problems (e.g.,rebooting the device, checking for power, checking for network availability, closingand reopening an app).
+  subs: []
+  
+- id: 4.CS.CY.10
+  title: 4.10
+  text: The student will identify and explain problems that relate to inappropriate use of computing devices and networks.
+  subs: []
+  
+- id: 4.CS.CY.11
+  title: 4.11
+  text: The student will create examples of strong passwords, explain why strong passwords should be used, and demonstrate proper use and protection of personal passwords.
+  subs: []
+  
+- id: 4.CS.DA.12
+  title: 4.12
+  text: The student will use a computer to observe, analyze, and manipulate data in order to draw conclusions and make predictions.
+  subs: []
+  
+- id: 4.CS.DA.13
+  title: 4.13
+  text: The student will create an artifact using computing systems to model the attributes and behaviors associated with a concept (e.g., solar system). 
+  subs: []
+  
+- id: 4.CS.DA.14
+  title: 4.14
+  text: The student will use numeric values to represent non-numeric ideas in the computer (binary, ASCII, pixel attributes such as RGB).
+  subs: []
+  
+- id: 4.CS.IC.15
+  title: 4.15
+  text: The student will give examples of computing technologies that have changed the world and express how those technologies influence, and are influenced by, cultural practices.
+  subs: []
+  
+- id: 4.CS.IC.16
+  title: 4.16
+  text: The student will describe the positive and negative impacts of the pervasiveness of computers and computing in daily life (e.g., downloading videos and audio files, electronic appliances, wireless Internet, mobile computing devices, GPS systems, wearable computing).
+  subs: []
+  
+- id: 4.CS.IC.17
+  title: 4.17
+  text: The student will describe social and ethical issues that relate to computing devices and networks.
+  subs: []
+  
+- id: 4.CS.NI.18
+  title: 4.18
+  text: The student will identify and explain different ways information can be transmitted using computing devices via a network (e.g., email, images, and videos).
+  subs: []

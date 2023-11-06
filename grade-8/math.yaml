@@ -1,1 +1,114 @@
+- id: 8.MT.NS.1
+  title: 8.1
+  text: The student will compare and order real numbers.
+  subs: []
 
+- id: 8.MT.NS.2
+  title: 8.2
+  text: The student will describe the relationships between the subsets of the real number system.
+  subs: []
+
+- id: 8.MT.NS.3
+  title: 8.3
+  text: The student will
+  subs: 
+    - estimate and determine the two consecutive integers between which a square root lies; and
+    - determine both the positive and negative square roots of a given perfect square.
+
+- id: 8.MT.CE.4
+  title: 8.4
+  text: The student will solve practical problems involving consumer applications.
+  subs: []
+
+- id: 8.MT.MG.5
+  title: 8.5
+  text: The student will use the relationships among pairs of angles that are vertical angles, adjacent angles, supplementary angles, and complementary angles to determine the measure of unknown angles.
+  subs: []
+
+- id: 8.MT.MG.6
+  title: 8.6
+  text: The student will
+  subs: 
+    - solve problems, including practical problems, involving volume and surface area ofcones and square-based pyramids; and
+    - describe how changing one measured attribute of a rectangular prism affects the volume and surface area.
+
+- id: 8.MT.MG.7
+  title: 8.7
+  text: The student will
+  subs: 
+    - given a polygon, apply transformations, to include translations, reflections, and dilations, in the coordinate plane; and
+    - identify practical applications of transformations.
+
+- id: 8.MT.MG.8
+  title: 8.2
+  text: The student will construct a three-dimensional model, given the top or bottom, side, and front views.
+  subs: []
+
+- id: 8.MT.MG.9
+  title: 8.9
+  text: The student will
+  subs: 
+    - verify the Pythagorean Theorem; and
+    - apply the Pythagorean Theorem.
+
+- id: 8.MT.MG.10
+  title: 8.10
+  text: The student will solve area and perimeter problems, including practical problems, involving composite plane figures.
+  subs: []
+
+- id: 8.MT.PS.11
+  title: 8.11
+  text: The student will
+  subs: 
+    - compare and contrast the probability of independent and dependent events; and 
+    - determine probabilities for independent and dependent events. 
+
+- id: 8.MT.PS.12
+  title: 8.12
+  text: The student will
+  subs: 
+    - represent numerical data in boxplots;
+    - make observations and inferences about data represented in boxplots; and
+    - compare and analyze two data sets using boxplots.
+
+- id: 8.MT.PS.13
+  title: 8.13
+  text: The student will
+  subs: 
+    - represent data in scatterplots; 
+    - make observations about data represented in scatterplots; and
+    - use a drawing to estimate the line of best fit for data represented in a scatterplot.
+
+- id: 8.MT.PA.14
+  title: 8.14
+  text: The student will
+  subs: 
+    - evaluate an algebraic expression for given replacement values of the variables; and
+    - simplify algebraic expressions in one variable.
+
+- id: 8.MT.PA.15
+  title: 8.15
+  text: The student will
+  subs: 
+    - determine whether a given relation is a function; and
+    - determine the domain and range of a function.
+
+- id: 8.MT.PA.16
+  title: 8.16
+  text: The student will
+  subs: 
+    - recognize and describe the graph of a linear function with a slope that is positive, negative, or zero;
+    - identify the slope and y-intercept of a linear function, given a table of values, a graph, or an equation in y = mx + b form;
+    - determine the independent and dependent variable, given a practical situation modeled by a linear function;
+    - graph a linear function given the equation in y = mx + b form; and
+    - make connections between and among representations of a linear function using verbal descriptions, tables, equations, and graphs. 
+
+- id: 8.MT.PA.17
+  title: 8.17
+  text: The student will solve multistep linear equations in one variable with the variable on one or both sides of the equation, including practical problems that require the solution of a multistep linear equation in one variable.
+  subs: []
+
+- id: 8.MT.PA.18
+  title: 8.18
+  text: The student will solve multistep linear inequalities in one variable with the variable on one or both sides of the inequality symbol, including practical problems, and graph the solution on a number line. 
+  subs: []

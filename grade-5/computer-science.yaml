@@ -1,1 +1,94 @@
+- id: 5.CS.AP.1
+  title: 5.1
+  text: The student will construct sets of step-by-step instructions (algorithms) both independently and collaboratively, 
+  subs:
+    - using sequencing;
+    - using loops;
+    - using variables to store and process data;
+    - performing number calculations on variables (addition, subtraction, multiplication and division); and
+    - using conditionals (if-statements).
+  
+- id: 5.CS.AP.2
+  title: 5.2
+  text: The student will construct programs to accomplish a task as a means of creative expression using a block or text based programming language, both independently and collaboratively 
+  subs:
+    - using sequencing;
+    - using loops;
+    - using variables to store and process data;
+    - performing number calculations on variables (addition, subtraction, multiplication and division); and
+    - using conditionals (if-statements).
 
+- id: 5.CS.AP.3
+  title: 5.3
+  text: The student will analyze, correct, and improve (debug) an algorithm that includes sequencing, events, loops, conditionals, and variables.
+  subs: []
+
+- id: 5.CS.AP.4
+  title: 5.4
+  text: The student will create a plan as part of the iterative design process, both independently and collaboratively using different strategies (e.g., pair programming, storyboard, flowchart, pseudocode, story map).
+  subs: []
+  
+- id: 5.CS.AP.5
+  title: 5.5
+  text: The student will break down (decompose) a larger problem into smaller subproblems, both independently and collaboratively.
+  subs: []
+
+- id: 5.CS.AP.6
+  title: 5.6
+  text: The student will give credit to sources when borrowing or changing ideas (e.g., usinginformation, pictures created by others, using music created by others, remixingprogramming projects).
+  subs: []
+
+- id: 5.CS.CS.7
+  title: 5.7
+  text: The student will model how a computing system works including input and output, processors, sensors, and storage.
+  subs: []
+  
+- id: 5.CS.CS.8
+  title: 5.8
+  text: The student will identify, using accurate terminology, simple hardware and software problems that may occur during use and apply strategies for solving problems (e.g., rebooting the device, checking for power, checking network availability, closing and reopening an app.).
+  subs: []
+
+- id: 5.CS.CY.9
+  title: 5.9
+  text: The student will evaluate and solve problems that relate to inappropriate use of computing devices and networks.
+  subs: []
+
+- id: 5.CS.CY.10
+  title: 5.10
+  text: The student will determine whether passwords are strong, explain why strong passwords should be used, and demonstrate proper use and protection of personal passwords.
+  subs: []
+  
+- id: 5.CS.DA.11
+  title: 5.11
+  text: The student will use a computer to observe, analyze, and manipulate data in order to draw conclusions and make predictions.
+  subs: []
+
+- id: 5.CS.DA.12
+  title: 5.12
+  text: The student will create an artifact using computing systems to model the attributes and behaviors associated with a concept (e.g., plate tectonics).
+  subs: []
+
+- id: 5.CS.DA.13
+  title: 5.13
+  text: The student will use numeric values to represent non-numeric ideas in the computer (e.g., binary, ASCII, pixel attributes such as RGB).
+  subs: []
+  
+- id: 5.CS.IC.14
+  title: 5.14
+  text: The student will give examples and explain how computer science has changed the world and express how computing technologies influence, and are influenced by, cultural practices.
+  subs: []
+
+- id: 5.CS.IC.15
+  title: 5.15
+  text: The student will evaluate and describe the positive and negative impacts of the pervasiveness of computers and computing in daily life (e.g., downloading videos and audio files, electronic appliances, wireless Internet, mobile computing devices, GPS systems, wearable computing).
+  subs: []
+
+- id: 5.CS.IC.16
+  title: 5.16
+  text: The student will explain social and ethical issues that relate to computing devices and networks.
+  subs: []
+  
+- id: 5.CS.NI.17
+  title: 5.17
+  text: The student will compare and contrast the difference between a local network and a worldwide network.
+  subs: []

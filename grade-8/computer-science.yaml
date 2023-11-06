@@ -1,0 +1,69 @@
+- id: 8.CS.AP.1
+  title: 8.1
+  text: The student will construct programs to accomplish a task as a means of creative expression or scientific exploration using a block based or text based programming language, both independently and collaboratively,
+  subs: 
+    - combining control structures such as if-statements and loops including nested conditionals and loops; 
+    - using clearly named variables that represent different data types, including numeric and non-numeric data, and perform operations on their values; and
+    - create procedures with parameters
+
+- id: 8.CS.AP.2
+  title: 8.2
+  text: The student will systematically test and refine programs using a range of test cases.
+  subs: []
+
+- id: 8.CS.AP.3
+  title: 8.3
+  text: The student will explain how effective communication between participants is required for successful collaboration when developing programs.
+  subs: []
+
+- id: 8.CS.AP.4
+  title: 8.4
+  text: The student will use flowcharts and/or pseudocode to address complex problems as algorithms.
+  subs: []
+  
+- id: 8.CS.CS.5
+  title: 8.5
+  text: The student will, using the elements of computing devices such as primary memory, secondary storage, processor, input and output devices, and network connectivity, analyze the advantages and limitations of a given computing system.
+  subs: []
+
+- id: 8.CS.CY.6
+  title: 8.6
+  text: The student will evaluate physical and digital security measures used to protect electronic information.
+  subs: []
+
+- id: 8.CS.CY.7
+  title: 8.7
+  text: The student will identify impacts of hacking, ransomware, scams, fake vulnerability scans, and the ethical and legal concerns involved. Exclusion: Students do not need to implement solutions.
+  subs: []
+
+- id: 8.CS.DA.8
+  title: 8.8
+  text: The student will
+  subs: 
+    - explain the difference between a model and a simulation; and 
+    - create computational models to conduct simulations.
+
+- id: 8.CS.IC.9
+  title: 8.9
+  text: The student will describe tradeoffs between allowing information to be public and\ keeping information private.
+  subs: []
+
+- id: 8.CS.IC.10
+  title: 8.10
+  text: The student will evaluate online and print sources for appropriateness and credibility.
+  subs: []
+
+- id: 8.CS.IC.11
+  title: 8.11
+  text: The student will discuss the social impacts and ethical considerations associated with the field of cybersecurity. 
+  subs: []
+  
+- id: 8.CS.IC.12
+  title: 8.12
+  text: The student will explore careers related to the field of cybersecurity.
+  subs: []
+  
+- id: 8.CS.NI.13
+  title: 8.13
+  text: The student will identify existing cybersecurity concerns associated with Internet use and Internet-based systems and potential options to address these issues.
+  subs: []

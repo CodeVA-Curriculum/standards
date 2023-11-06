@@ -1,0 +1,60 @@
+  - id: 4.MU.CP.1
+    title: 4.1
+    text: The student will improvise and compose music.
+    subs: 
+      - Improvise melodies and rhythms using a variety of sound sources.
+      - Compose short melodic and rhythmic phrases within specified guidelines. 
+
+  - id: 4.MU.CP.2
+    title: 4.2
+    text: The student will apply a creative process for music.
+    subs:
+      - Describe ideas for creating music as a group.
+      - Describe elements of a creative process for music.
+      - Reflect on the process and outcome of creating music and revise work based on peer and teacher feedback.
+
+  - id: 4.MU.CC.3
+    title: 4.3
+    text: The student will analyze and evaluate music. 
+    subs:
+      - Identify instruments from a variety of music ensembles both visually and aurally.
+      - Distinguish between major and minor tonality.
+      - Listen to, compare, and contrast music compositions from a variety of cultures and time periods.
+      - Identify elements of music through listening using music terminology.
+      - Identify rondo form (ABACA).
+      - Review criteria used to evaluate compositions and performances.
+      - Describe performances and offer constructive feedback.
+
+  - id: 4.MU.CC.4
+    title: 4.4
+    text: The student will explain personal preferences for musical works and performances using music terminology.
+    subs: []
+
+  - id: 4.MU.CC.5
+    title: 4.5
+    text: The student will apply collaboration and communication skills for music rehearsal and performance.
+    subs:
+      - Demonstrate audience and participant etiquette appropriate for the purposes and settings in which music is performed.
+      - Explain active listening for musical understanding.
+      - Give and receive age-appropriate feedback on performance.
+
+  - id: 4.MU.HC.6
+    title: 4.6
+    text: The student will explore historical and cultural aspects of music.
+    subs: 
+      - Describe music compositions from different periods of music history. 
+      - Describe musical styles from a variety of time periods and places.
+      - Listen to and describe music from a variety of world cultures.
+      - Examine how music from popular culture reflects the past and influences the present.
+      - Explain how criteria used to value music may vary between people and communities.
+
+  - id: 4.MU.HC.7
+    title: 4.7
+    text: The student will explain how music is an integral part of one’s life and community.
+    subs: []
+
+  - id: 4.MU.HC.8
+    title: 4.8
+    text: The student will describe digital citizenship for exploring music topics.
+    subs: []
+    

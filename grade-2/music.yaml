@@ -1,0 +1,124 @@
+  - id: 2.MU.CP.1
+    title: 2.1
+    text: The student will improvise and compose music.
+    subs:
+      - Improvise simple rhythmic question-and-answer phrases.
+      - Improvise accompaniments, including ostinatos.
+      - Improvise to enhance stories, songs, and poems.
+      - Compose simple pentatonic melodies represented by a variety of notational systems.
+
+  - id: 2.MU.CP.2
+    title: 2.2
+    text: The student will apply a creative process for music.
+    subs: 
+      - Brainstorm ideas for creating music.
+      - Describe steps taken in the creation of music.
+      - Develop questions for evaluating and revising music ideas as a group.
+
+  - id: 2.MU.CC.3
+    title: 2.3
+    text: The student will analyze music. 
+    subs: 
+      - Identify selected instruments visually and aurally.
+      - Describe sudden and gradual changes in dynamics and tempo using music terminology.
+      - Identify and categorize selected musical forms.
+      - Use music vocabulary to describe music.
+      
+  - id: 2.MU.CC.4
+    title: 2.4
+    text: The student will describe how music evokes personal ideas and emotions.
+    subs: []
+
+  - id: 2.MU.CC.5
+    title: 2.5
+    text: The student will demonstrate collaboration and communication skills for music rehearsal and performance.
+    subs:
+      - Use audience and participant etiquette appropriate for the purposes and settings in which music is performed.
+      - Use active listening as a musician.
+      - Work together to reach a common goal.
+
+  - id: 2.MU.HC.6
+    title: 2.6
+    text: The student will explore historical and cultural aspects of music.
+    subs:
+      - Identify music representing heritage, customs, and traditions of a variety of cultures.
+      - Explore styles of musical examples from various historical periods.
+
+
+  - id: 2.MU.HC.7
+    title: 2.7
+    text: The student will describe roles of music and musicians in communities.
+    subs: []
+
+  - id: 2.MU.HC.8
+    title: 2.8
+    text: The student will identify appropriate sources for listening to music.
+    subs: []
+
+  - id: 2.MU.IA.9
+    title: 2.9
+    text: The student will identify how individuals create music.
+    subs: []
+
+  - id: 2.MU.IA.10
+    title: 2.10
+    text: The student will identify how music can be created using technology tools.
+    subs: [] 
+
+  - id: 2.MU.IA.11
+    title: 2.11
+    text: The student will identify relationships between music and other fields of knowledge. 
+    subs: []
+
+  - id: 2.MU.TA.12
+    title: 2.12
+    text: The student will demonstrate music literacy. 
+    subs:
+      - Identify written melodic patterns that move upward, downward, and stay the same.
+      - Use the musical alphabet to notate melodic patterns.
+      - Read and notate melodies based on a pentatonic scale.
+      - Read and notate rhythmic patterns that include half notes, half rests, whole notes, and whole rests.
+      - Use basic music symbols.
+
+  - id: 2.MU.TA.13
+    title: 2.13
+    text: The student will develop skills for individual and ensemble singing performance. 
+    subs: 
+      - Sing melodic patterns that move upward, downward, and stay the same.
+      - Sing melodies within the range of a sixth.
+      - Increase pitch accuracy while singing phrases and simple songs.
+      - Demonstrate expressive singing by changing dynamics and tempo.
+
+  - id: 2.MU.TA.14
+    title: 2.14
+    text: The student will develop skills for individual and ensemble instrumental performance. 
+    subs: 
+      - Play melodic patterns that move upward, downward, and stay the same.
+      - Play expressively, following changes in dynamics and tempo.
+      - Accompany songs and chants with ostinatos and single-chords.
+      - Use proper playing techniques.
+
+  - id: 2.MU.TA.15
+    title: 2.15
+    text: The student will classify, perform, and count rhythmic patterns.
+    subs: 
+      - Use a counting system.
+      - Include patterns that suggest duple and triple meter.
+      - Use instruments, body percussion, and voice.
+      - Include half notes, half rests, whole notes, and whole rests.
+
+  - id: 2.MU.TA.16
+    title: 2.16
+    text: The student will understand and apply the difference between melodic rhythm and steady beat using body percussion, instruments, and voice.
+    subs: []
+
+  - id: 2.MU.TA.17
+    title: 2.17
+    text: The student will respond to music with movement.
+    subs: 
+      - Use locomotor and non-locomotor movements of increasing complexity.
+      - Demonstrate expressive qualities of music including, changes in dynamics and tempo.
+      - Create movement to illustrate AB and ABA musical forms.
+      - Perform dances and other musical activities.
+
+    

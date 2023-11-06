@@ -1,0 +1,111 @@
+- id: 3.MT.NS.1
+  title: 3.1
+  text: The student will
+  subs: 
+    - read, write, and identify the place and value of each digit in a six-digit whole number, with and without models;
+    - round whole numbers, 9,999 or less, to the nearest ten, hundred, and thousand; and
+    - compare and order whole numbers, each 9,999 or less. 
+
+- id: 3.MT.NS.2
+  title: 3.2
+  text: The student will
+  subs: 
+    - name and write fractions and mixed numbers represented by a model;
+    - represent fractions and mixed numbers with models and symbols; and
+    - compare fractions having like and unlike denominators, using words and symbols (>, <, =, or ≠), with models.
+
+- id: 3.MT.CE.3
+  title: 3.3
+  text: The student will
+  subs: 
+    - estimate and determine the sum or difference of two whole numbers; and
+    - create and solve single-step and multistep practical problems involving sums or differences of two whole numbers, each 9,999 or less.
+  
+- id: 3.MT.CE.4
+  title: 3.4
+  text: The student will 
+  subs: 
+    - represent multiplication and division through 10 × 10, using a variety of approaches and models; 
+    - create and solve single-step practical problems that involve multiplication and division through 10 x 10; and 
+    - demonstrate fluency with multiplication facts of 0, 1, 2, 5, and 10; and
+    - solve single-step practical problems involving multiplication of whole numbers, where one factor is 99 or less and the second factor is 5 or less.
+
+- id: 3.MT.CE.5
+  title: 3.5
+  text: The student will solve practical problems that involve addition and subtraction with proper fractions having like denominators of 12 or less.
+  subs: []
+
+- id: 3.MT.MG.6
+  title: 3.6
+  text: The student will
+  subs: 
+    - determine the value of a collection of bills and coins whose total value is $5.00 or less;
+    - compare the value of two sets of coins or two sets of coins and bills; and 
+    - make change from $5.00 or less. 
+  
+ - id: 3.MT.MG.7
+  title: 3.7
+  text: The student will estimate and use U.S. Customary and metric units to measure
+  subs:
+    - length to the nearest half inch, inch, foot, yard, centimeter, and meter; and
+    - liquid volume in cups, pints, quarts, gallons, and liters.
+
+- id: 3.MT.MG.8
+  title: 3.8
+  text: The student will estimate and 
+  subs: 
+    - measure the distance around a polygon in order to determine its perimeter using U.S. Customary and metric units; and 
+    - count the number of square units needed to cover a given surface in order to determine its area. 
+
+- id: 3.MT.MG.9
+  title: 3.9
+  text: The student will
+  subs: 
+    - tell time to the nearest minute, using analog and digital clocks; 
+    - solve practical problems related to elapsed time in one-hour increments within a 12-hour period; and
+    - identify equivalent periods of time and solve practical problems related to equivalent periods of time. 
+  
+- id: 3.MT.MG.10
+  title: 3.10
+  text: The student will read temperature to the nearest degree.
+  subs: []
+
+- id: 3.MT.MG.11
+  title: 3.11
+  text: The student will identify and draw representations of points, lines, line segments, rays, and angles.
+  subs: []
+
+- id: 3.MT.MG.12
+  title: 3.12
+  text: The student will
+  subs: 
+    -  define polygon; 
+    - identify and name polygons with 10 or fewer sides; and
+    - combine and subdivide polygons with three or four sides and name the resulting polygon(s). 
+  
+- id: 3.MT.MG.13
+  title: 3.13
+  text: The student will identify and describe congruent and noncongruent figures.
+  subs: []
+
+- id: 3.MT.PS.14
+  title: 3.14
+  text: The student will investigate and describe the concept of probability as a measurement of chance and list possible outcomes for a single event.
+  subs: []
+
+- id: 3.MT.PS.15
+  title: 3.15
+  text: The student will
+  subs: 
+    - collect, organize, and represent data in pictographs or bar graphs; and 
+    - read and interpret data represented in pictographs and bar graphs.
+  
+- id: 3.MT.PA.16
+  title: 3.16
+  text:  The student will identify, describe, create, and extend patterns found in objects, pictures, numbers and tables.
+  subs: []
+
+- id: 3.MT.PA.17
+  title: 3.17
+  text:  The student will create equations to represent equivalent mathematical relationships. 
+  subs: []

@@ -1,0 +1,97 @@
+- id: 6.MT.NS.1
+  title: 6.1
+  text: The student will represent relationships between quantities using ratios, and will use
+appropriate notations, such as a/b, a to b, and a:b.
+  subs: []
+
+- id: 6.MT.NS.2
+  title: 6.2
+  text: The student will
+  subs: 
+    - represent and determine equivalencies among fractions, mixed numbers, decimals, and percents; and
+    - compare and order positive rational numbers.
+
+- id: 6.MT.NS.3
+  title: 6.3
+  text: The student will
+  subs: 
+    - identify and represent integers;
+    - compare and order integers; and
+    - identify and describe absolute value of integers
+
+- id: 6.MT.NS.4
+  title: 6.4
+  text: The student will recognize and represent patterns with whole number exponents and perfect squares.
+  subs: []
+
+- id: 6.MT.CE.5
+  title: 6.5
+  text: The student will 
+  subs: 
+    - multiply and divide fractions and mixed numbers; 
+    - solve single-step and multistep practical problems involving addition, subtraction, multiplication, and division of fractions and mixed numbers; and
+    - solve multistep practical problems involving addition, subtraction, multiplication, and division of decimals.
+
+- id: 6.MT.CE.6
+  title: 6.6
+  text: The student will
+  subs: 
+    - add, subtract, multiply, and divide integers;
+    - solve practical problems involving operations with integers; and
+    - simplify numerical expressions involving integers
+
+- id: 6.MT.MG.7
+  title: 6.7
+  text: The student will
+  subs: 
+    - derive π (pi);
+    - solve problems, including practical problems, involving circumference and area of a circle; and
+    - solve problems, including practical problems, involving area and perimeter of triangles and rectangles.
+
+- id: 6.MT.MG.8
+  title: 6.8
+  text: The student will
+  subs: 
+    - identify the components of the coordinate plane; and
+    - identify the coordinates of a point and graph ordered pairs in a coordinate plane.
+
+- id: 6.MT.MG.9
+  title: 6.9
+  text: The student will determine congruence of segments, angles, and polygons.
+  subs: []
+
+- id: 6.MT.PS.10
+  title: 6.10
+  text: The student, given a practical situation, will
+  subs: 
+    - represent data in a circle graph;
+    - make observations and inferences about data represented in a circle graph; and
+    - compare circle graphs with the same data represented in bar graphs, pictographs, and line plots.
+
+- id: 6.MT.PS.11
+  title: 6.11
+  text: The student will
+  subs: 
+    - represent the mean of a data set graphically as the balance point; and
+    - determine the effect on measures of center when a single value of a data set is added, removed, or changed. 
+
+- id: 6.MT.PA.12
+  title: 6.12
+  text: The student will
+  subs: 
+    - represent a proportional relationship between two quantities, including those arising from practical situations;
+    - determine the unit rate of a proportional relationship and use it to find a missing value in a ratio table;
+    - determine whether a proportional relationship exists between two quantities; and
+    - make connections between and among representations of a proportional relationship between two quantities using verbal descriptions, ratio tables, and graphs.
+
+- id: 6.MT.PA.13
+  title: 6.13
+  text: The student will solve one-step linear equations in one variable, including practical problems that require the solution of a one-step linear equation in one variable.
+  subs: []
+
+- id: 6.MT.PA.14
+  title: 6.14
+  text: The student will
+  subs: 
+    - represent a practical situation with a linear inequality in one variable; and
+    - solve one-step linear inequalities in one variable, involving addition or subtraction, and graph the solution on a number line.

@@ -1,0 +1,111 @@
+  - id:K.MU.CP.1
+    title: K.1
+    text: The student will improvise and compose music.
+    subs: 
+      - Improvise simple movement.
+      - Improvise melodic or rhythmic patterns.
+      - Improvise using instruments, voice, and music to enhance stories and poems.
+
+  - id: K.MU.CP.2
+    title: K.2
+    text: The student will apply a creative process for music.
+    subs: 
+      - Ask questions about music.
+      - Identify ways to create music.
+      - Share ideas with a group.
+
+  - id: K.MU.CC.3
+    title: K.3
+    text: The student will analyze music.
+    subs: 
+      - Identify selected instruments visually and aurally.
+      - Classify sound sources as vocal, instrumental, or environmental. 
+      - Recognize basic contrasts in music, including fast/slow, high/low, loud/soft, and same/different.
+
+  - id: K.MU.CC.4
+    title: K.4
+    text: The student will express personal feelings evoked by a musical experience.
+    subs: []
+
+  - id: K.MU.CC.5
+    title: K.5
+    text: The student will identify how people work as a team while participating in music experiences.
+    subs: []
+
+  - id: K.MU.HC.6
+    title: K.6
+    text: The student will explore historical and cultural aspects of music.
+    subs:
+      - Listen to and recognize patriotic songs.
+      - Respond to music from a variety of time periods and places.
+
+  - id: K.MU.HC.7
+    title: K.7
+    text: The student will identify how music is part of personal and community events.
+    subs: []
+
+  - id: K.MU.HC.8
+    title: K.8
+    text: The student will identify the value of creating personal music.
+    subs: []
+
+  - id: K.MU.IA.9
+    title: K.9
+    text: The student will identify people who create music (e.g., singers, instrumentalists, composers, conductors).
+    subs: []
+
+  - id: K.MU.IA.10
+    title: K.10
+    text: The student will identify technology tools for creating music.
+    subs: []
+
+  - id: K.MU.IA.11
+    title: K.11
+    text: The student will recognize relationships between music and other fields of knowledge.
+    subs: []
+
+  - id: K.MU.TA.12
+    title: K.12
+    text: The student will explore music literacy, including high and low pitches and rhythms represented by a variety of notational systems.
+    subs: []
+
+  - id: K.MU.TA.13
+    title: K.13
+    text: The student will develop skills for individual and ensemble singing performance.
+    subs: 
+      - Sing songs using echo and ensemble singing.
+      - Sing at the appropriate time following a musical introduction.
+      - Match pitches within an appropriate range.
+      - Demonstrate expressive qualities of music, including loud/soft and fast/slow.
+
+  - id: K.MU.TA.14
+    title: K.14
+    text: The student will develop skills for individual and ensemble instrumental performance.
+    subs: 
+      - Demonstrate high and low.
+      - Demonstrate loud/soft and fast/slow.
+      - Accompany songs and chants using body percussion as well as instruments.
+
+  - id: K.MU.TA.15
+    title: K.15
+    text: The student will identify and perform rhythmic patterns.
+    subs: 
+      - Include patterns that suggest duple and triple meter.
+      - Use instruments, body percussion, and voice.
+      - Include sounds and silence.
+
+  - id: K.MU.TA.16
+    title: K.16
+    text: The student will demonstrate a steady beat using movement, body percussion, instruments, and voice.
+    subs: []
+
+  - id: K.MU.TA.17
+    title: K.17
+    text: The student will respond to music with movement.
+    subs: 
+      - Use locomotor and non-locomotor movements.
+      - Demonstrate expressive qualities of music, including loud/soft and fast/slow.
+      - Illustrate moods and contrast in music and children’s literature.
+      - Perform dances and other music activities.
+
+

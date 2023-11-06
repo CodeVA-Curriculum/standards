@@ -1,1 +1,81 @@
+- id: 7.CS.AP.1
+  title: 7.1
+  text: The student will construct programs to accomplish a task as a means of creative expression or scientific exploration using a block based or text based programming language, both independently and collaboratively,
+  subs: 
+    - combining control structures such as if-statements and loops including compound conditionals; and 
+    - creating clearly named variables that represent different data types, including numeric and non-numeric data, and perform operations on their values.
+  
+- id: 7.CS.AP.2
+  title: 7.2
+  text: The student will document programs to make them easier to follow, test, and debug.
+  subs: []
 
+- id: 7.CS.AP.3
+  title: 7.3
+  text: The student will distribute tasks and maintain a project timeline when collaboratively developing computational artifacts.
+  subs: []
+
+- id: 7.CS.AP.4
+  title: 7.4
+  text: The student will decompose problems and subproblems into parts to facilitate the design, implementation, and review of programs.
+  subs: []
+
+- id: 7.CS.CS.5
+  title: 7.5
+  text: The student will describe how the Internet connects devices and networks all over the world. Exclusion: Specific devices used to implement the Internet are beyond the scope of these standards.
+  subs: []
+  
+- id: 7.CS.Cy.6
+  title: 7.6
+  text: The student will describe how physical and digital security measures protect electronic information.
+  subs: []
+
+- id: 7.CS.CY.7
+  title: 7.7
+  text: The student will identify existing cybersecurity concerns associated with Internet use and Internet-based systems and potential options to address these issues.
+  subs: []
+
+- id: 7.CS.DA.8
+  title: 7.8
+  text: The student will discuss the correctness of a model representing a system by comparing the model’s generated results with data that were observed in the system being modeled.
+  subs: []
+  
+- id: 7.CS.DA.9
+  title: 7.9
+  text: The student will refine computational models based on the data they have generated.
+  subs: []
+
+- id: 7.CS.IC.10
+  title: 7.10
+  text: The student will explain how advances in technology have contributed to Virginia’s prosperity and role in the global economy.
+  subs: []
+
+- id: 7.CS.IC.11
+  title: 7.11
+  text: The student will describe the development of new technologies in communication, entertainment, and business and their impact on American life.
+  subs: []
+  
+- id: 7.CS.IC.12
+  title: 7.12
+  text: The student will explore careers related to the Internet.
+  subs: []
+
+- id: 7.CS.NI.13
+  title: 7.13
+  text: The student will outline the advantages and disadvantages of transmitting information over the Internet, including speed, reliability, cost, and security.
+  subs: []
+
+- id: 7.CS.NI.14
+  title: 7.14
+  text: The student will explain why protocols are necessary in data transmission. Model the role of protocols in transmitting data across networks and the Internet.
+  subs: []
+  
+- id: 7.CS.NI.15
+  title: 7.15
+  text: The student will model how information is broken down into smaller pieces, transmitted as packets through multiple devices over networks and the Internet, and reassembled at the destination.
+  subs: []
+
+- id: 7.CS.AP.7
+  title: 7.7
+  text: 
+  subs: []

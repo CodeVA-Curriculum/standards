@@ -1,0 +1,121 @@
+- id: 5.MT.NS.1
+  title: 5.1
+  text: The student, given a decimal through thousandths, will round to the nearest whole number, tenth, or hundredth
+  subs: []
+
+- id: 5.MT.NS.2
+  title: 5.2
+  text: The student will
+  subs: 
+    - represent and identify equivalencies among fractions and decimals, with and without models; and
+    - compare and order fractions, mixed numbers, and/or decimals in a given set, from least to greatest and greatest to least.
+
+- id: 5.MT.NS.3
+  title: 5.3
+  text: The student will
+  subs: 
+    - identify and describe the characteristics of prime and composite numbers; and
+    - identify and describe the characteristics of even and odd numbers.
+
+- id: 5.MT.CE.4
+  title: 5.4
+  text: The student will create and solve single-step and multistep practical problems involving addition, subtraction, multiplication, and division of whole numbers.
+  subs: []
+
+- id: 5.MT.CE.5
+  title: 5.5
+  text: The student will
+  subs: 
+    - estimate and determine the product and quotient of two numbers involving decimals; and
+    - create and solve single-step and multistep practical problems involving addition, subtraction, and multiplication of decimals, and create and solve single-step practical problems involving division of decimals.
+
+- id: 5.MT.CE.6
+  title: 5.6
+  text: The student will
+  subs: 
+    - solve single-step and multistep practical problems involving addition and subtraction with fractions and mixed numbers; and 
+    - solve single-step practical problems involving multiplication of a whole number, limited to 12 or less, and a proper fraction, with models.
+
+- id: 5.MT.CE.7
+  title: 5.7
+  text: The student will simplify whole number numerical expressions using the order of operations.
+  subs: []
+
+- id: 5.MT.MG.8
+  title: 5.8
+  text: The student will
+  subs: 
+    - solve practical problems that involve perimeter, area, and volume in standard units of measure; and
+    - differentiate among perimeter, area, and volume and identify whether the application of the concept of perimeter, area, or volume is appropriate for a given situation.
+
+- id: 5.MT.MG.9
+  title: 5.9
+  text: The student will
+  subs: 
+    - given the equivalent measure of one unit, identify equivalent measurements within the metric system; and
+    - solve practical problems involving length, mass, and liquid volume using metric units. 
+
+- id: 5.MT.MG.10
+  title: 5.10
+  text: The student will identify and describe the diameter, radius, chord, and circumference of a circle.
+  subs: []
+
+- id: 5.MT.MG.11
+  title: 5.11
+  text: The student will solve practical problems related to elapsed time in hours and minutes within a 24-hour period.
+  subs: []
+
+- id: 5.MT.MG.12
+  title: 5.12
+  text: The student will classify and measure right, acute, obtuse, and straight angles.
+  subs: []
+
+- id: 5.MT.MG.13
+  title: 5.13
+  text: The student will
+  subs: 
+    - classify triangles as right, acute, or obtuse and equilateral, scalene, or isosceles; and
+    - investigate the sum of the interior angles in a triangle and determine an unknown angle measure. 
+
+- id: 5.MT.MG.14
+  title: 5.14
+  text: The student will
+  subs: 
+    - recognize and apply transformations, such as translation, reflection, and rotation; and
+    - investigate and describe the results of combining and subdividing polygons.
+
+- id: 5.MT.PS.15
+  title: 5.15
+  text: The student will determine the probability of an outcome by constructing a sample space or using the Fundamental (Basic) Counting Principle.
+  subs: []
+
+- id: 5.MT.PS.16
+  title: 5.1
+  text: The student, given a practical problem, will
+  subs:
+    - represent data in line plots and stem-and-leaf plots; 
+    - interpret data represented in line plots and stem-and-leaf plots; and
+    - compare data represented in a line plot with the same data represented in a stem-andleaf plot.
+
+- id: 5.MT.PS.17
+  title: 5.17
+  text: The student, given a practical context, will
+  subs: 
+    - describe mean, median, and mode as measures of center;
+    - describe mean as fair share;
+    - describe the range of a set of data as a measure of spread; and 
+    - determine the mean, median, mode, and range of a set of data.
+
+- id: 5.MT.PA.18
+  title: 5.18
+  text: The student will identify, describe, create, express, and extend number patterns found in objects, pictures, numbers and tables.
+  subs: []
+
+- id: 5.MT.PA.19
+  title: 5.19
+  text: The student will
+  subs: 
+    - investigate and describe the concept of variable;
+    - write an equation to represent a given mathematical relationship, using a variable
+    - use an expression with a variable to represent a given verbal expression involving one operation; and
+    - create a problem situation based on a given equation, using a single variable and one operation.

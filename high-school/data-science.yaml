@@ -1,0 +1,64 @@
+- id: HS.DS.CXT.1
+  title: DS.1
+  text: The student will identify specific examples of real-world problems that can be effectively addressed using data science.
+  subs: []
+
+- id: HS.DS.CXT.2
+  title: DS.2
+  text: The student will be able to formulate a top down plan for data collection and analysis, with quantifiable results, based on the context of a problem.
+  subs: []
+
+- id: HS.DS.BI.3
+  title: DS.3
+  text: The student will recognize the importance of data literacy and develop an awareness of how the analysis of data can be used in problem solving to effect change and create innovative solutions.
+  subs: []
+
+- id: HS.DS.BI.4
+  title: DS.4
+  text: The student will be able to identify data biases in the data collection process, and understand the implications and privacy issues surrounding data collection and processing.
+  subs: []
+
+- id: HS.DS.COM.5
+  title: DS.5
+  text: The student will use storytelling as a strategy to effectively communicate with data.
+  subs: []
+
+- id: HS.DS.COM.6
+  title: DS.6
+  text: The student will justify the design, use, and effectiveness of different forms of data visualizations.
+  subs: []
+
+- id: HS.DS.MOD.7
+  title: DS.7
+  text: The student will be able to assess reliability of source data in preparation for mathematical modeling.
+  subs: []
+
+- id: HS.DS.MOD.8
+  title: DS.8
+  text: The student will be able to acquire and prepare big data sets for modeling and analysis.
+  subs: []
+
+- id: HS.DS.MOD.9
+  title: DS.9
+  text: The student will select and analyze data models to make predictions, while assessing accuracy and sources of uncertainty.
+  subs: []
+
+- id: HS.DS.MOD.10
+  title: DS.10
+  text: The student will be able to summarize and interpret data represented in both conventional and emerging visualizations.
+  subs: []
+
+- id: HS.DS.MOD.11
+  title: DS.11
+  text: The student will select statistical models and use goodness of fit testing to extract actionable knowledge directly from data.
+  subs: []
+
+- id: HS.DS.DC.12
+  title: DS.12
+  text: The student will be able to select and utilize appropriate technological tools and functions within those tools to process and prepare data for analysis.
+  subs: []
+
+- id: HS.DS.DC.13
+  title: DS.13
+  text: The student will be able to select and utilize appropriate technological tools and functions within those tools to analyze and communicate data effectively.
+  subs: []

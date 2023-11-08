@@ -1,0 +1,111 @@
+- id: 4.MT.NS.1
+  title: 4.1
+  text: The student will
+  subs: 
+    - demonstrate fluency with multiplication facts through 12 x 12, and the corresponding division facts;
+    - estimate and determine sums, differences, and products of whole numbers;
+    - estimate and determine quotients of whole numbers, with and without remainders; and
+    - create and solve single-step and multistep practical problems involving addition, subtraction, and multiplication, and single-step practical problems involving division with whole numbers.
+
+- id: 4.MT.NS.2
+  title: 4.2
+  text: The student will
+  subs: 
+    - determine common multiples and factors, including least common multiple and greatest common factor;
+    - add and subtract fractions and mixed numbers having like and unlike denominators; and
+    - solve single-step practical problems involving addition and subtraction with fractions and mixed numbers. 
+
+- id: 4.MT.NS.3
+  title: 4.3
+  text: The student will
+  subs: 
+    - read, write, represent, and identify decimals expressed through thousandths;
+    - round decimals to the nearest whole number;
+    - compare and order decimals; and
+    - given a model, write the decimal and fraction equivalents.
+
+- id: 4.MT.CE.4
+  title: 4.4
+  text: The student will
+  subs: 
+    - demonstrate fluency with multiplication facts through 12 x 12, and the corresponding division facts; 
+    - estimate and determine sums, differences, and products of whole numbers;
+    - estimate and determine quotients of whole numbers, with and without remainders; and
+    - create and solve single-step and multistep practical problems involving addition, subtraction, and multiplication, and single-step practical problems involving division with whole numbers.
+
+- id: 4.MT.CE.5
+  title: 4.5
+  text: The student will
+  subs: 
+    - determine common multiples and factors, including least common multiple and greatest common factor;
+    - add and subtract fractions and mixed numbers having like and unlike denominators; and
+    - solve single-step practical problems involving addition and subtraction with fractions and mixed numbers. 
+
+- id: 4.MT.CE.6
+  title: 4.6
+  text: The student will
+  subs: 
+    - add and subtract with decimals; and
+    - solve single-step and multistep practical problems involving addition and subtraction with decimals.
+  
+- id: 4.MT.MG.7
+  title: 4.7
+  text: The student will solve practical problems that involve determining perimeter and area in U.S. Customary and metric units.
+  subs: []
+
+- id: 4.MT.MG.8
+  title: 4.8
+  text: The student will
+  subs: 
+    - estimate and measure length and describe the result in U.S. Customary and metric units;
+    - estimate and measure weight/mass and describe the result in U.S. Customary and metric units;
+    - given the equivalent measure of one unit, identify equivalent measures of length, weight/mass, and liquid volume between units within the U.S. Customary system; and
+    - solve practical problems that involve length, weight/mass, and liquid volume in U.S. Customary units. 
+
+- id: 4.MT.MG.9
+  title: 4.9
+  text: The student will solve practical problems related to elapsed time in hours and minutes within a 12-hour period.
+  subs: []
+  
+- id: 4.MT.MG.10
+  title: 4.10
+  text: The student will
+  subs: 
+    - identify and describe points, lines, line segments, rays, and angles, including endpoints and vertices; and
+    - identify and describe intersecting, parallel, and perpendicular lines.
+
+- id: 4.MT.MG.11
+  title: 4.11
+  text: The student will identify, describe, compare, and contrast plane and solid figures according to their characteristics (number of angles, vertices, edges, and the number and shape of faces) using concrete models and pictorial representations. 
+  subs: []
+
+- id: 4.MT.MG.12
+  title: 4.12
+  text: The student will classify quadrilaterals as parallelograms, rectangles, squares, rhombi, and/or trapezoids. 
+  subs: []
+  
+- id: 4.MT.PS.13
+  title: 4.13
+  text: The student will
+  subs: 
+    - determine the likelihood of an outcome of a simple event; 
+    - represent probability as a number between 0 and 1, inclusive; and
+    - create a model or practical problem to represent a given probability. 
+
+- id: 4.MT.PS.14
+  title: 4.14
+  text: The student will
+  subs: 
+    - collect, organize, and represent data in bar graphs and line graphs;
+    - interpret data represented in bar graphs and line graphs; and
+    - compare two different representations of the same data (e.g., a set of data displayed on a chart and a bar graph, a chart and a line graph, or a pictograph and a bar graph).
+
+- id: 4.MT.PA.15
+  title: 4.15
+  text: The student will identify, describe, create, and extend patterns found in objects, pictures, numbers, and tables.
+  subs: []
+  
+- id: 4.MT.PA.16
+  title: 4.16
+  text: The student will recognize and demonstrate the meaning of equality in an equation. 
+  subs: []

@@ -12,6 +12,11 @@ CSF:
     inherit: CS
     subject: CS
     grades: HS
+CSP:
+    title: Computer Science Principles
+    inherit: CS
+    subject: CS
+    grades: HS
 CSE:
     title: Middle School CS Elective
     inherit: CS

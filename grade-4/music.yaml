@@ -57,4 +57,78 @@
     title: 4.8
     text: The student will describe digital citizenship for exploring music topics.
     subs: []
-    
+
+  - id: 4.MU.IA.9
+    title: 4.9
+    text: The student will identify skills learned in music class that relate to a variety of career options.
+    subs: []
+
+  - id: 4.MU.IA.10
+    title: 4.10
+    text: The student will compare and contrast digital and traditional methods for creating music.
+    subs: []
+
+  - id: 4.MU.IA.11
+    title: 4.11
+    text: The student will explore connections between music and other fields of knowledge for the development of problem-solving skills.
+    subs: []
+
+  - id: 4.MU.TA.12
+    title: 4.12
+    text: The student will demonstrate music literacy. 
+    subs: 
+      - Read melodies based on a hexatonic scale.
+      - Use traditional notation to write melodies containing stepwise motion.
+      - Read two-note accompaniment patterns (bordun).
+      - Read and notate rhythmic patterns that include dotted quarter note followed by an eighth note.
+      - Use a system to sight-read melodic and rhythmic patterns.
+	    - Identify the meaning of the upper and lower numbers of simple time signatures (2/4), 3/4, 4/4).
+	    - Identify dynamic markings (e.g., p, mp, mf, f).
+
+  - id: 4.MU.TA.13
+    title: 4.13
+    text: The student will develop skills for individual and ensemble singing performance. 
+    subs:
+      - Sing with a clear tone quality and correct intonation.
+      - Sing diatonic melodies.
+      - Sing melodies notated in varying forms.
+      - Sing with expression using dynamics and phrasing.
+      - Sing in simple harmony.
+      - Demonstrate proper posture for singing.
+
+  - id: 4.MU.TA.14
+    title: 4.14
+    text: The student will develop skills for individual and ensemble instrumental performance. 
+    subs:
+      - Play music of increasing difficulty in two-part ensembles.
+      - Play melodies of increasing difficulty notated in varying forms.
+      - Play a given melody on an instrument.
+      - Play with expression using dynamics and phrasing.
+      - Accompany songs and chants with tonic, subdominant, and dominant chords.
+      - Demonstrate proper playing techniques.
+
+  - id: 4.MU.TA.15
+    title: 4.15
+    text: The student will classify, perform, and count rhythmic patterns. 
+    subs: 
+      - Use a counting system.
+      - Include patterns that suggest duple and triple meter.
+      - Use instruments, body percussion, and voice.
+      - Include dotted quarter note followed by an eighth note.
+
+  - id: 4.MU.TA.16
+    title: 4.16
+    text: The student will demonstrate meter.
+    subs: 
+      - Apply strong and weak beats.
+      - Perform and illustrate sets of beats grouped in twos and threes.
+
+  - id: 4.MU.TA.17
+    title: 4.17
+    text: The student will respond to music with movement.
+    subs: 
+      - Perform non-choreographed and choreographed movements.
+      - Perform dances and other music activities.
+      - Create movement to illustrate rondo (ABACA) musical form. 
+
+

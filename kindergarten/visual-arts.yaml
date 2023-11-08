@@ -1,1 +1,103 @@
+- id: KG.VA.CP.1
+  title: KG.1
+  text: The student will apply creative thinking to artmaking.
+  subs: 
+    - Draw from imagination
+    - Create works of art that represent personal responses to art-making challenges. 
 
+- id: KG.VA.CP.2
+  title: KG.2
+  text: The student will apply a creative process for artmaking.
+  subs: 
+    - Ask questions about art and artmaking.
+    - Generate multiple ideas for an art challenge.
+    - Share ideas with a group.
+
+- id: KG.VA.CC.3
+  title: KG.3
+  text: The student will analyze and interpret artwork using art vocabulary. 
+  subs: 
+    - Describe works of art.
+    - Describe objects in the environment by their visual qualities (e.g., location, size, color, texture, line, shape, pattern).
+    - Describe ideas, experiences, and feelings expressed in personal and other works of art. 
+
+- id: KG.VA.CC.4
+  title: KG.4
+  text: The student will describe personal connections to and interests in visual art.
+  subs: []
+
+- id: KG.VA.CC.5
+  title: KG.5
+  text: The student will describe how artists work together in a creative community. 
+  subs: []
+
+- id: KG.VA.HC.6
+  title: KG.6
+  text: The student will explore cultural and historical influences of art.
+  subs: 
+    - Describe the concept that people in all cultures create works of art.
+    - Respond to art from a variety of time periods and places.
+
+- id: KG.VA.HC.7
+  title: KG.7
+  text: The student will identify a variety of purposes for creating works of art including art to commemorate personal and community events.
+  subs: []
+
+- id: KG.VA.HC.8
+  title: KG.8
+  text: The student will identify information about art from provided resources.
+  subs: []
+  
+- id: KG.VA.IA.9
+  title: KG.9
+  text: The student will identify people, including oneself, who make art as artists.
+  subs: []
+
+- id: KG.VA.IA.10
+  title: KG.10
+  text: The student will identify works of art created with contemporary media.
+  subs: []
+
+- id: KG.VA.KG.11
+  title: KG.11
+  text: The student will recognize connections between the arts, incorporating or responding to music, theatre, or dance in their artwork.
+  subs: []
+
+- id: KG.VA.TA.12
+  title: KG.12
+  text: The student will identify and use the following in works of art: 
+  subs: 
+    - Color—red, blue, yellow, green, orange, violet, brown, black, white.
+    - Line—straight/curved, thick/thin, long/short, up/down/across.
+    - Shape—circle, square, triangle, rectangle, oval.
+    - Texture—visual, tactile.
+    - Pattern—occurring naturally, made by people.
+
+- id: KG.VA.TA.13
+  title: KG.13
+  text: The student will identify spatial relationships for composition.
+  subs: 
+    - Identify spatial relationships—left, right, top, bottom, side, center, front, back, over, and under.
+    - Make observations of objects in space
+
+- id: KG.VA.TA.14
+  title: KG.14
+  text: The student will create drawings from observation.
+  subs: []
+
+- id: KG.VA.TA.15
+  title: KG.15
+  text: The student will use motor skills to create two-dimensional and three-dimensional works of art (e.g., pinching, pulling, squeezing, twisting, pounding, rolling, folding, cutting, modeling, stamping).
+  subs: []
+
+- id: KG.VA.TA.16
+  title: KG.16
+  text: The student will explore a variety of media, techniques, and processes to create twodimensional and three-dimensional artwork.
+  subs: []
+  
+- id: KG.VA.CP.1
+  title: KG.16
+  text: The student will create artworks inspired by a variety of sources and subjects.
+  subs: 
+    - Depict the human figure.
+    - Use nature as inspiration.

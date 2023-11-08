@@ -7,6 +7,10 @@ CS:
         DA: Data & Analysis
         IC: Impacts of Computing
         NI: Networking & the Internet
+CSF:
+    title: Computer Science Foundations
+    inherit: CS
+    grades: HS
 MT:
     title: Mathematics
     strands:
@@ -15,6 +19,15 @@ MT:
         MG: Measurement & Geometry
         PS: Probability & Statistics
         PA: Patterns, Functions, & Algebra
+DS:
+    title: Data Science
+    grades: HS
+    strands:
+        CXT: Data in Context
+        BI: Data Bias
+        COM: Data & Communication
+        MOD: Data Modeling
+        DC: Data & Computing
 SC:
     title: Science
     strands:

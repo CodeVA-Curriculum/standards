@@ -1,0 +1,70 @@
+- id: HS.ALG1.EO.1
+  title: A.1
+  text: The student will
+  subs:
+    - represent verbal quantitative situations algebraically; and
+    - evaluate algebraic expressions for given replacement values of the variables.
+
+- id: HS.ALG1.EO.2
+  title: A.2
+  text: The student will perform operations on polynomials, including
+  subs: 
+    - applying the laws of exponents to perform operations on expressions;
+    - adding, subtracting, multiplying, and dividing polynomials; and
+    - factoring completely first- and second-degree binomials and trinomials in one variable.
+
+- id: HS.ALG1.EO.3
+  title: A.3
+  text: The student will simplify
+  subs:
+    - square roots of whole numbers and monomial algebraic expressions
+    - cube roots of integers; and
+    - numerical expressions containing square or cube roots
+
+- id: HS.ALG1.EI.4
+  title: A.4
+  text: The student will solve
+  subs:
+    - multistep linear equations in one variable algebraically;
+    - quadratic equations in one variable algebraically;
+    - literal equations for a specified variable;
+    - systems of two linear equations in two variables algebraically and graphically; and
+    - practical problems involving equations and systems of equations.
+
+- id: HS.ALG1.EI.5
+  title: A.5
+  text: The student will
+  subs:
+    - solve multistep linear inequalities in one variable algebraically and represent the solution graphically;
+    - represent the solution of linear \inequalities in two variables graphically;
+    - solve practical problems involving inequalities; and
+    - represent the solution to a system of inequalities graphically.
+
+- id: HS.ALG1.EI.6
+  title: A.6
+  text: The student will
+  subs:
+    - determine the slope of a line when given an equation of the line, the graph of the line, or two points on the line;
+    - write the equation of a line when given the graph of the line, two points on the line, or the slope and a point on the line; and
+    - graph linear equations in two variables.
+
+- id: HS.ALG1.FN.7
+  title: A.7
+  text: The student will investigate and analyze linear and quadratic function families and their characteristics both algebraically and graphically, including
+  subs:
+    - determining whether a relation is a function;
+    - domain and range;
+    - zeros;
+    - intercepts;
+    - values of a function for elements in its domain; and
+    - connections between and among multiple representations of functions using verbal descriptions, tables, equations, and graphs
+
+- id: HS.ALG1.ST.8
+  title: A.8
+  text: The student, given a data set or practical situation, will analyze a relation to determine whether a direct or inverse variation exists, and represent a direct variation algebraically and graphically and an inverse variation algebraically.
+  subs: []
+
+- id: HS.ALG1.ST.9
+  title: A.9
+  text: The student will collect and analyze data, determine the equation of the curve of best fit in order to make predictions, and solve practical problems, using mathematical models of linear and quadratic functions.
+  subs: []

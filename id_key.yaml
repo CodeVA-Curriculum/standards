@@ -25,6 +25,15 @@ MT:
         MG: Measurement & Geometry
         PS: Probability & Statistics
         PA: Patterns, Functions, & Algebra
+ALG1:
+    title: Algebra 1
+    strands:
+        EO: Expressions & Operations
+        EI: Equations & Inequalities
+        FN: Functions
+        ST: Statistics
+    subject: MT
+    grades: HS
 DS:
     title: Data Science
     grades: HS

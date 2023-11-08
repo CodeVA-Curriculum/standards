@@ -1,0 +1,127 @@
+- id: MS.CSE.AP.1
+  title: MSCSE.1
+  text: The student will design and iteratively develop programs that combine control
+structures, including loops and conditionals.
+  subs: []
+
+- id: MS.CSE.AP.2
+  title: MSCSE.2
+  text: The student will investigate variables and data types, including simple operations on strings.
+  subs: []
+
+- id: MS.CSE.AP.3
+  title: MSCSE.3
+  text: The student will implement a program that accepts input values, stores them in appropriately named variables, and produces output.
+  subs: []
+
+- id: MS.CSE.AP.4
+  title: MSCSE.4
+  text: The student will document programs in order to make them easier to trace, test, and debug.
+
+- id: MS.CSE.IC.5
+  title: MSCSE.5
+  text: The student will discuss issues of bias and accessibility in the design of existing technologies.
+  subs: []
+
+- id: MS.CSE.IC.6
+  title: MSCSE.6
+  text: The student will describe and explain the history of computer science, including naming significant historical figures and describing their impact on the field.
+  subs: []
+
+- id: MS.CSE.AP.7
+  title: MSCSE.7
+  text: The student will use flowcharts and/or pseudocode to address complex problems as algorithms.
+  subs: []
+
+- id: MS.CSE.AP.8
+  title: MSCSE.8
+  text: The student will incorporate existing code, media, and libraries into original programs, and give attribution.
+  subs: []
+
+- id: MS.CSE.AP.9
+  title: MSCSE.9
+  text: The student will systematically test and refine programs using a range of test cases.
+  subs: []
+
+- id: MS.CSE.NI.10
+  title: MSCSE.10
+  text: The student will model the role of protocols in transmitting data across networks and the Internet.
+  subs: []
+
+- id: MS.CSE.CY.11
+  title: MSCSE.11
+  text: The student will apply multiple methods of encryption to model the secure transmission of information.
+  subs: []
+
+- id: MS.CSE.CY.12
+  title: MSCSE.12
+  text: The student will explain how physical and digital security measures protect electronic information.
+  subs: []
+
+- id: MS.CSE.DA.13
+  title: MSCSE.13
+  text: The student will collect data using computational tools and transform the data to make it more useful and reliable.
+  subs: []
+
+- id: MS.CSE.DA.14
+  title: MSCSE.14
+  text: The student will refine computational models based on the data they have generated.
+  subs: []
+
+- id: MS.CSE.DA.15
+  title: MSCSE.15
+  text: The student will represent data using multiple encoding schemes.
+  subs: []
+
+- id: MS.CSE.IC.16
+  title: MSCSE.16
+  text: The student will compare tradeoffs associated with computing technologies that affect people's everyday activities and career options.
+  subs: []
+
+- id: MS.CSE.IC.17
+  title: MSCSE.17
+  text: The student will collaborate with many contributors through strategies such as crowdsourcing or surveys when creating a computational artifact or visualization.
+  subs: []
+
+- id: MS.CSE.IC.18
+  title: MSCSE.18
+  text: The student will describe tradeoffs between allowing information to be public and keeping information private and secure.
+  subs: []
+
+- id: MS.CSE.SYS.19
+  title: MSCSE.19
+  text: The student will systematically identify and correct problems with computing devices and their components.
+  subs: []
+
+- id: MS.CSE.SYS.20
+  title: MSCSE.20
+  text: The student will explore the relationship between hardware and software using the Internet of Things.
+  subs: []
+
+- id: MS.CSE.AP.21
+  title: MSCSE.21
+  text: The student will
+  subs:
+    - work in a team to distribute tasks;
+    - maintain a timeline; and
+    - use iterative design to solve problems, including peer review and feedback.
+
+- id: MS.CSE.AP.22
+  title: MSCSE.22
+  text: The student will decompose problems and subproblems into parts to facilitate the design, implementation, and review of programs.
+  subs: []
+
+- id: MS.CSE.AP.23
+  title: MSCSE.23
+  text: The student will create procedures with parameters to organize code and make it easier to reuse.
+  subs: []
+
+- id: MS.CSE.SYS.24
+  title: MSCSE.24
+  text: The student will recommend improvements to the design of computing devices, based on an analysis of how users interact with the devices.
+  subs: []
+
+- id: MS.CSE.SYS.25
+  title: MSCSE.25
+  text: The student will design projects that combine hardware and software components to collect and exchange data.
+  subs: []

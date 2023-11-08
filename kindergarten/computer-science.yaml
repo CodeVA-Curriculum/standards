@@ -18,12 +18,12 @@
   text: The student will categorize a group of items based on one attribute or the action of each item, with or without a computing device.
   subs: []
 
-- id: K.CS.CS.5
+- id: K.CS.SYS.5
   title: K.5
   text: The student will identify components of computing systems (e.g., keyboard, mouse, desktop computer, laptop computer, tablet, and printer).
   subs: []
 
-- id: K.CS.CS.6
+- id: K.CS.SYS.6
   title: K.6
   text: The student will identify, using accurate terminology, simple hardware and software problems that may occur during use (e.g., app or program is not working as expected, no sound is coming from a device, device will not turn on).
   subs: []

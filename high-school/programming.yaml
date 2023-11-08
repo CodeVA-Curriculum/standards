@@ -1,0 +1,108 @@
+- id: HS.PRG.CY.1
+  title: PRG.1
+  text: The student will describe and use best practices of program development that make some common flaws less likely and explain how this improves computer security.
+  subs: []
+
+- id: HS.PRG.DA.2
+  title: PRG.2
+  text: The student will create programs that model the relationships among different elements in collections of real-world data.
+  subs: []
+
+- id: HS.PRG.DA.3
+  title: PRG.3
+  text: The student will translate numbers between machine representations and human-accessible representations.
+  subs: []
+
+- id: HS.PRG.AP.4
+  title: PRG.4
+  text: The student will design and implement a program working individually and in teams using a text-based language.
+  subs: []
+
+- id: HS.PRG.AP.5
+  title: PRG.5
+  text: The student will explain the software life cycle and how it applies to iterative development processes.
+  subs: []
+
+- id: HS.PRG.AP.6
+  title: PRG.6
+  text: The student will design and implement an algorithm
+  subs:
+    - with compound conditional execution, and analyze and evaluate complex Boolean conditions; and
+    - using complex iteration, including nested loops
+
+- id: HS.PRG.AP.7
+  title: PRG.7
+  text: The student will implement programs that accept input from a variety of sources and produce output based on that input.
+  subs: []
+
+- id: HS.PRG.AP.8
+  title: PRG.8
+  text: The student will trace the execution of iterative and recursive algorithms, illustrating output and changes in values of named variables.
+  subs: []
+
+- id: HS.PRG.AP.9
+  title: PRG.9
+  text: The student will perform complex computations
+  subs:
+    - on numbers, including modular division and random number generation; and
+    - on strings, including substring manipulation and processing individual characters.
+
+- id: HS.PRG.AP.10
+  title: PRG.10
+  text: The student will demonstrate an understanding of different data types by using appropriate constructs to convert between them when appropriate.
+  subs: []
+
+- id: HS.PRG.AP.11
+  title: PRG.11
+  text: The student will analyze a large-scale computational problem, identify generalizable patterns, and implement a solution.
+  subs: []
+
+- id: HS.PRG.AP.12
+  title: PRG.12
+  text: The student will implement an algorithm that uses existing functions and accesses existing libraries or APIs to satisfy its requirements.
+  subs: []
+
+- id: HS.PRG.AP.13
+  title: PRG.13
+  text: The student will write functions, both with and without parameters, and both with and without return values, that represent abstractions useful to the solution of a larger problem.
+  subs: []
+
+- id: HS.PRG.AP.14
+  title: PRG.14
+  text: The student will create programs demonstrating an understanding of the interactions between classes in object-oriented design, and by implementing classes with instance data and methods to satisfy a design specification.
+  subs: []
+
+- id: HS.PRG.AP.15
+  title: PRG.15
+  text: The student will use code written by others by reading the documentation and incorporating it into their programs using proper citation of the reused code.
+  subs: []
+
+- id: HS.PRG.AP.16
+  title: PRG.16
+  text: The student will read and store data in 1D and 2D collections, and design and implement algorithms to process and manipulate those collections.
+  subs: []
+
+- id: HS.PRG.AP.17
+  title: PRG.17
+  text: The student will adapt classic algorithms for use in a particular context and analyze them for effectiveness and efficiency.
+  subs: []
+
+- id: HS.PRG.AP.18
+  title: PRG.18
+  text: The student will develop and use a series of test cases to verify that a program performs according to its design specifications, including edge cases and all branches.
+  subs: []
+
+- id: HS.PRG.AP.19
+  title: PRG.19
+  text: The student will, through the process of code review, evaluate a program's correctness, readability, usability, and other factors.
+  subs: []
+
+- id: HS.PRG.AP.20
+  title: PRG.20
+  text: The student will use a systematic approach and debugging tools to independently debug a program.
+  subs: []
+
+- id: HS.PRG.IC.21
+  title: PRG.21
+  text: The student will identify some of the practical, business, and ethical impacts of open source and free software and the widespread access they provide.
+  subs: []

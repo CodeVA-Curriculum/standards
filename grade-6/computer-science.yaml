@@ -1,0 +1,66 @@
+- id: 6.CS.AP.1
+  title: 6.1
+  text: The student will construct programs to accomplish a task as a means of creative expression or scientific exploration using a block based or text based programming language, both independently and collaboratively,
+  subs: 
+    - combining control structures such as if-statements and loops; and
+    - creating clearly named variables that represent different data types, including numeric and non-numeric data, and perform operations on their values. 
+
+- id: 6.CS.AP.2
+  title: 6.2
+  text: The student will trace programs to predict outcomes and debug (correct and improve) for correctness.
+  subs: []
+  
+- id: 6.CS.AP.3
+  title: 6.3
+  text: The student will seek and incorporate feedback from team members and users to refine a program that meets user needs.
+  subs: []
+
+- id: 6.CS.AP.4
+  title: 6.4
+  text: The student will incorporate existing code, media, and libraries into original programs, and give attribution.
+  subs: []
+
+- id: 6.CS.SYS.5
+  title: 6.5
+  text: The student will design projects that combine hardware and software components to collect and exchange data. 
+  subs: []
+
+- id: 6.CS.CY.6
+  title: 6.6
+  text: The student will identify physical and digital security measures used to protect electronic information. 
+  subs: []
+  
+- id: 6.CS.DA.7
+  title: 6.7
+  text: The student will explain how binary sequences are used to represent digital data. Exclusion: Conversions between binary and base-ten numbers are beyond the scope of these standards.
+  subs: []
+
+- id: 6.CS.DA.8
+  title: 6.8
+  text: The student will collect data using computational tools then clean and organize to make it more useful and reliable. 
+  subs: []
+
+- id: 6.CS.DA.9
+  title: 6.9
+  text: The student will explain the insight and knowledge gained from digitally processed data by using appropriate visualizations.
+  subs: []
+
+- id: 6.CS.DA.10
+  title: 6.10
+  text: The student will use models and simulations to formulate, refine, and test hypotheses.
+  subs: []
+  
+- id: 6.CS.IC.11
+  title: 6.11
+  text: The student will explain how computing has impacted innovations in other fields.
+  subs: []
+
+- id: 6.CS.IC.12
+  title: 6.12
+  text: The student will explore careers related to data
+  subs: []
+
+- id: 6.CS.NI.13
+  title: 6.13
+  text: The student will explain why the speed of data transmission across the Internet can vary depending on the type of data being transmitted.
+  subs: []

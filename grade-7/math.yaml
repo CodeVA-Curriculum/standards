@@ -1,0 +1,83 @@
+- id: 7.MT.NS.1
+  title: 7.1
+  text: The student will
+  subs: 
+    - investigate and describe the concept of negative exponents for powers of ten;
+    - compare and order numbers greater than zero written in scientific notation;
+    - compare and order rational numbers;
+    - determine square roots of perfect squares; and
+    - identify and describe absolute value of rational numbers.
+
+- id: 7.MT.CE.2
+  title: 7.2
+  text: The student will solve practical problems involving operations with rational numbers. 
+  subs: []
+
+- id: 7.MT.CE.3
+  title: 7.3
+  text: The student will solve single-step and multistep practical problems, using proportional reasoning.
+  subs: []
+
+- id: 7.MT.MG.4
+  title: 7.4
+  text: The student will
+  subs: 
+    - describe and determine the volume and surface area of rectangular prisms and cylinders; and
+    - solve problems, including practical problems, involving the volume and surface area of rectangular prisms and cylinders.
+
+- id: 7.MT.MG.5
+  title: 7.5
+  text: The student will solve problems, including practical problems, involving the relationship between corresponding sides and corresponding angles of similar quadrilaterals and triangles.
+  subs: []
+
+- id: 7.MT.MG.6
+  title: 7.6
+  text: The student will
+  subs: 
+    - compare and contrast quadrilaterals based on their properties; and
+    - determine unknown side lengths or angle measures of quadrilaterals.
+
+- id: 7.MT.MG.7
+  title: 7.7
+  text: The student will apply translations and reflections of right triangles or rectangles in the coordinate plane.
+  subs: []
+
+- id: 7.MT.PS.8
+  title: 7.8
+  text: The student will
+  subs: 
+    - determine the theoretical and experimental probabilities of an event; and
+    - investigate and describe the difference between the experimental probability and theoretical probability of an event.
+
+- id: 7.MT.PS.9
+  title: 7.9
+  text: The student, given data in a practical situation, will
+  subs: 
+    - represent data in a histogram; 
+    - make observations and inferences about data represented in a histogram; and
+    - compare histograms with the same data represented in stem-and-leaf plots, line plots, and circle graphs.
+
+- id: 7.MT.PA.10
+  title: 7.10
+  text: The student will
+  subs: 
+    - determine the slope, m, as rate of change in a proportional relationship between two quantities and write an equation in the form y = mx to represent the relationship;
+    - graph a line representing a proportional relationship between two quantities given the slope and an ordered pair, or given the equation in y = mx form where m represents the slope as rate of change;
+    - determine the y-intercept, b, in an additive relationship between two quantities and write an equation in the form y = x + b to represent the relationship;
+    - graph a line representing an additive relationship between two quantities given the yintercept and an ordered pair, or given the equation in the form y = x + b, where b represents the y-intercept; and
+    - make connections between and among representations of a proportional or additive relationship between two quantities using verbal descriptions, tables, equations, and graphs. 
+
+- id: 7.MT.PA.11
+  title: 7.11
+  text: The student will evaluate algebraic expressions for given replacement values of the variables. 
+  subs: []
+
+- id: 7.MT.PA.12
+  title: 7.12
+  text: The student will solve two-step linear equations in one variable, including practical problems that require the solution of a two-step linear equation in one variable.
+  subs: []
+
+- id: 7.MT.PA.13
+  title: 7.1
+  text: The student will solve one- and two-step linear inequalities in one variable, including practical problems, involving addition, subtraction, multiplication, and division, and graph  the solution on a number line.
+  subs: []

@@ -1,0 +1,87 @@
+- id: K.HSS.SK.0
+    title: Skills K
+    text: The student will apply history and social science skills to the content by
+    subs:
+      - viewing and exploring information sources, including, but not limited to artifacts, primary and secondary sources, charts, graphs, and diagrams;
+      - applying geographic skills to identify and understand geographic features;
+      - demonstrating curiosity and critical thinking through questioning;
+      - sequencing and organizing information;
+      - identifying similarities and differences to explain content;
+      - recognizing cause-and-effect relationships;
+      - using economic decision-making models to make informed economic decisions;
+      - practicing civility, respect, hard work, and responsible citizenship skills; and
+      - using content vocabulary to demonstrate comprehension.
+
+  - id: K.HSS.CV.1
+    title: K.2
+    text: The student will apply history and social science skills to practice citizenship in the classroom by
+    subs:
+      - taking responsibility for one’s actions;
+      - practicing honesty and showing kindness to oneself and others; 
+      - recognizing the purpose of rules and practicing self-control; 
+      - caring for one’s personal property and respecting other students’ property; and
+      - taking turns, sharing, and working well with others for the good of everyone else.
+
+  - id: K.HSS.CV.2
+    title: K.2
+    text: The student will apply history and social science skills to explain how communities honor state and national traditions and recognize designated Virginia holidays, including but not limited to
+    subs:
+      - Labor Day;
+      - Columbus Day (Yorktown Victory Day); 
+      - Election Day;
+      - Veterans Day;
+      - Thanksgiving Day;
+      - Christmas Day;
+      - New Year’s Day;
+      - Martin Luther King, Jr. Day;
+      - George Washington Day (commonly known as Presidents’ Day); 
+      - Memorial Day;
+      - Juneteenth; and 
+      - Independence Day.
+
+  - id: K.HSS.CV.3
+    title: K.3
+    text: The student will apply history and social science skills to define patriotism and explain how communities express patriotism by
+    subs:
+      - identifying the American and Virginia flags;
+      - identifying national and state symbols, including, but not limited to the bald eagle, the dogwood, and the cardinal;
+      - recognizing the Pledge of Allegiance and the National Anthem; and
+      - identifying the current president and explaining that the president is the leader of the United States and is elected by voters.
+
+  - id: K.HSS.HY.4
+    title: K.4
+    text: The student will apply history and social science skills to recognize Virginia’s earliest communities by
+    subs:
+      - identifying examples of historic events, stories, and legends;
+      - identifying early communities, changemakers, and contributions of leaders, including, but not limited to Indigenous tribes, farmers, traders, early settlers, minorities, women, and children;
+      - recognizing that places change over time; and
+      - identifying people who helped establish and lead the local community over time.
+
+  - id: K.HSS.HY.5
+    title: K.5
+    text: The student will apply history and social science skills to understand and explain what makes communities unique by
+    subs:
+      - explaining the roles of important local community members, such as, but not limited to medical personnel, first responders, teachers, and business leaders;
+      - identifying historic events; and
+      - telling the stories of the people that developed their local communities.
+
+  - id: K.HSS.GE.6
+    title: K.6
+    text: The student will apply history and social science skills to describe the relative location of people, places, and objects by using positional words, including, but not limited to near/far, over/under, above/below, left/right, behind/in front, next to and between.
+    subs:[]
+
+  - id: K.HSS.GE.7
+    title: K.7
+    text: The student will apply history and social science skills to demonstrate an understanding of maps and globes by
+    subs:
+      - identifying the similarities and differences between a map and a globe;
+      - identifying basic map symbols;
+      - identifying land and bodies of water in the local community; and
+      - identifying the geographic location of the United States and Virginia on a map and globe.
+
+  - id: K.HSS.EC.8
+    title: K.8
+    text: The student will apply history and social science skills to demonstrate an understanding of primary economic principles by
+    subs:
+      - describing ways people work to earn and save money to buy the things they need and want; and
+      - recognizing that Americans are free to make choices about what to buy and that they must make choices because they cannot have everything they want.

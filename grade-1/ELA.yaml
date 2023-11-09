@@ -48,52 +48,93 @@
 
   - id: 1.EN.RD.6
     title: 1.6
-    text:
+    text: The student will apply phonetic principles to read and spell.
     subs:
-      - 
+      - Use beginning and ending consonants to decode and spell single-syllable words. 
+      - Use two-letter consonant blends to decode and spell single-syllable words.
+      - Use beginning consonant digraphs to decode and spell single-syllable words. 
+      - Use short vowel sounds to decode and spell single-syllable words. 
+      - Blend beginning, middle, and ending sounds to recognize and read words. 
+      - Use word patterns to decode unfamiliar words. 
+      - Read and spell simple two-syllable compound words. 
+      - Read and spell commonly used sight words. 
+      
   - id: 1.EN.RD.7
     title: 1.7
-    text:
+    text: The student will use semantic clues and syntax to expand vocabulary when reading. 
     subs:
-      - 
+      - Use words, phrases, and sentences.
+      - Use titles and pictures. 
+      - Use information in the story to read words. 
+      - Use knowledge of sentence structure. 
+      - Use knowledge of story structure. 
+      - Reread and self-correct. 
 
   - id: 1.EN.RD.8
     title: 1.8
-    text: 
+    text: The student will expand vocabulary.
     subs:
-      - 
+      - Discuss meanings of words in context. 
+      - Develop vocabulary by listening to and reading a variety of texts. 
+      - Ask for the meaning of unknown words and make connections to familiar words. 
+      - Use text clues such as words or pictures to discern meanings of unknown words. 
+      - Use vocabulary from other content areas. 
 
   - id: 1.EN.RD.9
     title: 1.9
-    text:
+    text: The student will read and demonstrate comprehension of a variety of fictional texts. 
     subs:
-      - 
+      - Preview the selection.
+      - Set a purpose for reading. 
+      - Relate previous experiences to what is read.
+      - Make and confirm predictions. 
+      - Ask and answer who, what, when, where, why, and how questions about what is read. 
+      - Identify characters, setting, and important events.
+      - Retell stories and events, using beginning, middle, and end. 
+      - Identify the main idea or theme. 
+      - Read and reread familiar stories, poems, and passages with fluency, accuracy, and meaningful expression.
 
   - id: 1.EN.RD.10
     title: 1.10
-    text:
+    text: The student will read and demonstrate comprehension of a variety of nonfiction texts. 
     subs:
-      - 
+      - Preview the selection. 
+      - Use prior and background knowledge as context for new learning. 
+      - Set a purpose for reading.
+      - Identify text features such as pictures, headings, charts, and captions. 
+      - Make and confirm predictions. 
+      - Ask and answer who, what, where, when, why, and how questions about what is read.
+      - Identify the main idea. 
+      - Read and reread familiar passages with fluency, accuracy, and meaningful expression. 
 
   - id: 1.EN.RD.11
     title: 1.11
-    text:
+    text: The student will use simple reference materials. 
     subs:
-      -
+      - Use knowledge of alphabetical order by first letter. 
+      - Use a picture dictionary to find meanings of unfamiliar words. 
 
   - id: 1.EN.WR.12
     title: 1.12
-    text: 
+    text: The student will print legibly. 
     subs:
-      - 
+      - Form letters accurately.
+      - Space words within sentences.
+      - Use the alphabetic code to write unknown words phonetically. 
 
   - id: 1.EN.WR.13
     title: 1.13
-    text:
+    text: The student will write to communicate ideas for a variety of purposes. 
     subs:
-      - 
+      - Generate ideas.
+      - Focus on one topic. 
+      - Revise by adding descriptive words when writing about people, places, things, and events. 
+      - Use complete sentences in final copies.
+      - Begin each sentence with a capital letter and use ending punctuation in final copies. 
+      - Use correct spelling for commonly used sight words and phonetically regular words in final copies. 
+      - Share writing with others. 
 
   - id: 1.EN.WR.14
     title: 1.14
-    text:
+    text: The student will use available technology for reading and writing. 
     subs: []

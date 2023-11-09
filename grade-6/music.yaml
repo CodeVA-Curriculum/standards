@@ -1,0 +1,107 @@
+  - id: 6.MU.CP.1
+    title: 6.1
+    text: The student will demonstrate creative thinking by composing and improvising original music.
+    subs: 
+      - Improvise four-measure melodic and rhythmic phrases.
+      - Compose four-measure melodies and rhythms.
+      - Arrange an existing musical phrase.
+
+  - id: 6.MU.CP.2
+    title: 6.2
+    text: The student will apply a creative process for music.
+    subs: 
+      - Explore components of creative processes for music.
+      - Define, organize, and share personal ideas, investigations, and research of music ideas and concepts.
+
+
+  - id: 6.MU.CC.3
+    title: 6.3
+    text: The student will analyze, interpret, and evaluate music.
+    subs: 
+      - Describe expressive qualities of works of music using inquiry skills and music terminology.
+      - Examine and apply personal and accepted criteria for evaluating works of music.
+      - Describe performances of music using music terminology.
+      - Apply accepted criteria for critiquing musical works and performances of self and others.
+
+  - id: 6.MU.CC.4
+    title: 6.4
+    text: The student will formulate and justify personal responses to music.
+    subs:
+      - Identify reasons for preferences among works of music using music terminology.
+      - Identify ways in which music evokes sensory, emotional, and intellectual responses, including ways in which music can be persuasive.
+
+  - id: 6.MU.CC.5
+    title: 6.5
+    text: The student will identify and demonstrate collaboration and communication skills for music, including active listening.
+    subs: []
+
+  - id: 6.MU.HC.6
+    title: 6.6
+    text: The student will explore historical and cultural influences of music.
+    subs:
+      - Identify the cultural influences, musical styles, composers, and historical periods associated with the music literature being studied.
+      - Describe ways in which culture influences the development of music and music styles.
+
+  - id: 6.MU.HC.7
+    title: 6.7
+    text: The student will explore the functions of music, including the use of music as a form of expression, communication, ceremony, and entertainment.
+    subs: []
+    
+  - id: 6.MU.HC.8
+    title: 6.8
+    text: The student will explain intellectual property as it relates to music.
+    subs: []
+
+  - id: 6.MU.IA.9
+    title: 6.9
+    text: The student will describe career options in music.
+    subs: []
+
+  - id: 6.MU.IA.10
+    title: 6.10
+    text: The student will identify ways in which culture and technology influence the development of music and musical styles, including the ways sound is manipulated.
+    subs: []
+
+  - id: 6.MU.IA.11
+    title: 6.11
+    text: The student will describe the connections of music to the other fine arts and other fields of knowledge.
+    subs: []
+
+  - id: 6.MU.TA.12
+    title: 6.12
+    text: The student will read and notate music.
+    subs: 
+      - Identify tonal, rhythmic, and melodic patterns containing steps, skips, and leaps.
+      - Recognize diatonic intervals.
+      - Identify and notate melodies on the musical staff.
+      - Read and notate rhythmic patterns that include whole notes, half notes, quarter notes, eighth notes, and corresponding rests.
+      - Identify the meaning of the upper and lower numbers of time signatures.
+
+  - id: 6.MU.TA.13
+    title: 6.13
+    text: The student will perform a variety of music.
+    subs: 
+      - Sing or play music in unison and simple harmony.
+      - Follow dynamic and tempo markings.
+      - Identifying appropriate performance practices.
+
+  - id: 6.MU.TA.14
+    title: 6.14
+    text:The student will perform melodies and accompaniments.
+    subs: 
+      - Sing or play instruments with and without notation.
+      - Perform music in a variety of ensembles.
+
+  - id: 6.MU.TA.15
+    title: 6.15
+    text: The student will read, count, and perform rhythmic patterns.
+    subs: 
+      - Use a counting system.
+      - Include patterns that suggest duple and triple meter.
+      - Use instruments, body percussion, and voice.
+      - Include whole notes, half notes, quarter notes, eighth notes, and corresponding rests.
+
+  - id: 6.MU.TA.16
+    title: 6.16
+    text: The student will respond to music with movement by performing non-choreographed and choreographed movements.
+    subs: []

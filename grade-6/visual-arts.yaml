@@ -1,1 +1,103 @@
+- id: 6.VA.CP.1
+  title: 6.1
+  text: The student will apply creative thinking to communicate personal ideas, experiences, and narratives in works of art.
+  subs: []
 
+- id: 6.VA.CP.2
+  title: 6.2
+  text: The student will apply steps of a creative process.
+  subs: 
+    - Use, and record in a digital or traditional sketchbook/journal, steps of the creative process, including brainstorming, preliminary sketching, planning, reflecting, peer critiquing, refining, and elaborating, to create works of art.
+    - Explain the relationship between artmaking processes and finished products.
+
+- id: 6.VA.CC.3
+  title: 6.3
+  text: The student will analyze, interpret, and evaluate artwork.
+  subs: 
+    - Use critical thinking skills when describing, responding to, interpreting, and evaluating works of art.
+    - Describe ideas and emotions expressed in works of art.
+    - Identify how visual language communicates meaning
+    - Examine the components of an artist’s style, including materials, design, technique, subject matter, and purpose.
+    - Apply personal criteria to evaluate artwork.
+
+- id: 6.VA.CC.4
+  title: 6.4
+  text: The student will formulate, justify, and examine personal responses to art.
+  subs: 
+    - Describe how the beliefs and values of a viewer may influence ideas and opinions about works of art.
+    - Respond to questions about why artists create works of art.
+    - Describe how works of art can evoke personal sensory, emotional, and aesthetic responses.
+
+- id: 6.VA.CC.5
+  title: 6.5
+  text: The student will develop communication and collaboration skills for a community of artists.
+  subs: 
+    - Contribute to class discussions.
+    - Identify procedures for the safety and care of art materials and tools.
+
+- id: 6.VA.HC.6
+  title: 6.6
+  text: The student will explore and understand historical and cultural influences of art.
+  subs: 
+    - Explore how the ethnic heritage, culture, and personal identities of artists influence their work
+    - Examine the roles of crafts in communities.
+
+- id: 6.VA.HC.7
+  title: 6.7
+  text: The student will describe ways artists contribute to their communities and society through their work.
+  subs: []
+
+- id: 6.VA.HC.8
+  title: 6.8
+  text: The student will identify and apply digital citizenship skills related to intellectual property in art research, creation, use of source materials, and sharing.
+  subs: []
+
+- id: 5.VA.IA.9
+  title: 5.9
+  text: The student will investigate various types of art careers.
+  subs: []
+
+- id: 6.VA.IA.10
+  title: 6.10
+  text: The student will investigate and explore how to create a narrative using time-based media.
+  subs: []
+
+- id: 6.VA.IA.11
+  title: 6.11
+  text: The student will explore cross-curricular connections with art content.
+  subs: []
+
+- id: 6.VA.TA.12
+  title: 6.12
+  text: The student will use elements of art and principles of design to express meaning in works of art.
+  subs: 
+    - Color—relationships.
+    - Line—variation, implied.
+    - Texture—visual, tactile.
+    - Value—gradation.
+    - Proportion—realistic, distorted.
+
+- id: 6.VA.TA.13
+  title: 6.13
+  text: The student will use a variety of perspective techniques to create the illusion of space in works of art.
+  subs: []
+
+- id: 6.VA.TA.14
+  title: 6.14
+  text: The student will apply a variety of techniques including gesture and continuous line in observational drawings.
+  subs: []
+
+- id: 6.VA.TA.15
+  title: 6.15
+  text: The student will exercise increasing skill and control in the use of media and techniques
+  subs: []
+
+- id: 6.VA.TA.16
+  title: 6.16
+  text: The student will use modeling, assembling, or carving to create three-dimensional works of art.
+  subs: []
+
+- id: 6.VA.TA.17
+  title: 6.17
+  text: The student will create artworks from a variety of subject matter.
+  subs: []

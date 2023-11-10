@@ -1,1 +1,106 @@
+- id: 4.VA.CP.1
+  title: 4.1
+  text: The student will apply creative thinking to artmaking.
+  subs: 
+    - Apply imaginative and expressive ideas.
+    - Develop ideas individually and collaboratively.
 
+- id: 4.VA.CP.2
+  title: 4.2
+  text: The student will apply a creative process for artmaking.
+  subs: 
+    - Formulate questions about works of art.
+    - Use steps of the creative process, including brainstorming, preliminary sketching, planning, and reflecting, to generate ideas for and create works of art.
+
+- id: 4.VA.CC.3
+  title: 4.3
+  text: The student will analyze, interpret, and evaluate artwork using art vocabulary.
+  subs: 
+    - Compare and contrast abstract, representational, and nonrepresentational works of art.
+    - Analyze works of art based on visual properties and contextual information.
+    - Interpret works of art for multiple meanings.
+    - Describe criteria used to evaluate artwork of self and others.
+
+- id: 4.VA.CC.4
+  title: 4.4
+  text: The student will describe how personal beliefs influence responses to works of art.
+  subs: []
+
+- id: 4.VA.CC.5
+  title: 4.5
+  text: The student will demonstrate skills needed to work collaboratively in an art community.
+  subs: 
+    - Provide and receive constructive feedback.
+    - Demonstrate personal responsibility for the art room spaces and tools.
+
+- id: 4.VA.HC.6
+  title: 4.6
+  text: The student will explore and examine cultural and historical influences of art.
+  subs: 
+    - Describe the roles of crafts and artisans in diverse cultures.
+    - Compare and contrast characteristics of diverse cultures depicted in works of art.
+    - Identify ways that works of art from popular culture reflect the past and influence the present.
+    - Explain how criteria used to assess the importance of art may vary from one culture to another
+
+- id: 4.VA.HC.7
+  title: 4.7
+  text: The student will explain how art is an integral part of one’s life and community.
+  subs: []
+
+- id: 4.VA.HC.8
+  title: 4.8
+  text: The student will give credit to sources used in art research.
+  subs: []
+
+- id: 4.VA.IA.9
+  title: 4.9
+  text: The student will identify common characteristics of various art careers.
+  subs: []
+
+- id: 4.VA.IA.10
+  title: 4.10
+  text: The student will use contemporary media, which may include digital media, to create works of art individually or collaboratively.
+  subs: []
+
+- id: 4.VA.IA.11
+  title: 4.11
+  text: The student will explore how artmaking skills can be used in the development of solutions to real-world problems.
+  subs: []
+
+- id: 4.VA.TA.12
+  title: 4.12
+  text: The student will use the following to express meaning in works of art: 
+  subs: 
+    - Color—hue, tint, shade, intensity.
+    - Texture—actual, implied.
+    - Value—shading to create implied depth.
+    - Pattern—repetition to imply movement.
+    - Variety—to create interest.
+    - Unity—to create compositional harmony
+
+- id: 4.VA.TA.13
+  title: 4.13
+  text: The student will create the illusion of depth on a two-dimensional surface, using overlapping, size variation, and placement on the picture plane.
+  subs: []
+
+- id: 4.VA.TA.14
+  title: 4.14
+  text: The student will use a variety of lines and shading techniques to create observational drawings.
+  subs: []
+
+- id: 4.VA.TA.15
+  title: 4.15
+  text: The student will reflect on quality and technical skill in personal works of art.
+  subs: []
+
+- id: 4.VA.TA.16
+  title: 4.16
+  text: The student will use a variety of media, materials, techniques, and processes to create artwork.
+  subs: 
+    - Describe and use hand-building techniques to make a ceramic work of art.
+    - Use craft techniques.
+
+- id: 4.VA.TA.17
+  title: 4.17
+  text: The student will create works of art that connect ideas, art forms, or cultural themes to personal experiences. 
+  subs: []

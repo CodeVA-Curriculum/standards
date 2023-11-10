@@ -1,1 +1,102 @@
+- id: 7.VA.CP.1
+  title: 7.1
+  text: The student will apply creative thinking to communicate ideas, experiences, and narratives in works of art.
+  subs: []
 
+- id: 7.VA.CP.2
+  title: 7.2
+  text: The student will apply steps of a creative process.
+  subs: 
+    - Use, and record in a digital or traditional sketchbook/journal, steps of the creative process, including research to create works of art.
+    - Use ideas, concepts, and prior knowledge to solve artmaking challenges and create works of art.
+
+- id: 7.VA.CC.3
+  title: 7.3
+  text: The student will analyze, interpret, and evaluate artwork.
+  subs: 
+    - Identify subjects, themes, and symbols as they relate to meaning in works of art.
+    - Compare and contrast the processes artists use to create works of art. 
+    - Analyze, interpret, and evaluate works of art, based on personal, cultural, and contextual information.
+    - Evaluate the work of self and others using developed and established criteria.
+
+- id: 7.VA.CC.4
+  title: 7.4
+  text: The student will formulate, justify, and examine personal responses to art.
+  subs: 
+    - Identify ways that social and cultural beliefs can influence responses to works of art.
+    - Describe personal responses to visual qualities of works of art.
+    - Analyze and reflect on the purposes and meaning of art.
+
+- id: 7.VA.CC.5
+  title: 7.5
+  text: The student will develop communication and collaboration skills for a community of artists.
+  subs: 
+    - Contribute to group discussions about visual arts topics.
+    - Describe procedures for the safety and care of art materials and tools.
+
+- id: 7.VA.HC.6
+  title: 7.6
+  text: The student will explore and understand historical and cultural influences of art.
+  subs: 
+    - Identify styles and themes in historical and contemporary works of art from a variety of cultures.
+    - Analyze how art and culture influence each other.
+
+- id: 7.VA.HC.7
+  title: 7.7
+  text: The student will identify venues for experiencing visual arts in the community and the Commonwealth.
+  subs: []
+
+- id: 7.VA.HC.8
+  title: 7.8
+  text: The student will describe and apply digital citizenship skills related to intellectual property in art research, creation, use of source materials, and sharing.
+  subs: []
+
+- id: 7.VA.IA.9
+  title: 7.9
+  text: The student will compare and contrast various visual arts careers in relation to career preparation.
+  subs: []
+
+- id: 7.VA.IA.10
+  title: 7.10
+  text: The student will investigate and explore a variety of contemporary and digital media tools for following the creative process.
+  subs: []
+
+- id: 7.VA.IA.11
+  title: 7.11
+  text: The student will use ideas, concepts, and cross-curricular knowledge to create original works of art.
+  subs: []
+
+- id: 7.VA.TA.12
+  title: 7.12
+  text: The student will use elements of art and principles of design to express meaning in works of art:
+  subs: 
+    - Color—harmonious chromatic relationships.
+    - Line—contrast, gradation.
+    - Space—positive, negative.
+    - Emphasis—focal point, dominance.
+    - Proportion—actual, exaggerated.
+
+- id: 7.VA.TA.13
+  title: 7.13
+  text: The student will use a variety of compositional techniques, including perspective, to create the illusion of space within the picture plane.
+  subs: []
+
+- id: 7.VA.TA.14
+  title: 7.14
+  text: The student will apply a variety of techniques in observational and expressive drawing.
+  subs: []
+
+- id: 7.VA.TA.15
+  title: 7.15
+  text: The student will refine media techniques to demonstrate developing technical skill.
+  subs: []
+
+- id: 7.VA.TA.16
+  title: 7.16
+  text: The student will create three-dimensional works of art, using various processes to include clay hand-building techniques.
+  subs: []
+
+- id: 7.VA.TA.17
+  title: 7.17
+  text: The student will create and respond to representational and nonrepresentational artwork.
+  subs: []

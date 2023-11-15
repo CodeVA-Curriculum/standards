@@ -1,1 +1,66 @@
+- id: 2.SC.SE.1
+  title: 2.1
+  text: The student will demonstrate an understanding of scientific and engineering practices by...
+  subs: 
+    - asking questions and defining problems (ask questions that can be investigated, make predictions based on observations and prior experiences, identify a simple problem that can be solved through the development of a new tool or improved object)
+    - planning and carrying out investigations (with guidance, plan and conduct simple investigations to produce data, use appropriate tools to measure length, weight, and temperature of common objects using U.S. Customary units, measure time intervals using proper tools)
+    - interpreting, analyzing, and evaluating data (organize and represent data in pictographs and bar graphs, read and interpret data represented in pictographs and bar graphs)
+    - constructing and critiquing conclusions and explanations (make simple conclusions based on data or observations, distinguish between opinion and evidence, recognize unusual or unexpected results)
+    - developing and using models (use models to demonstrate simple phenomena and natural processes)
+    - obtaining, evaluating, and communicating information (communicate observations and data using simple graphs, drawings, numbers, speech, and/or writing)
+
+- id: 2.SC.FM.2
+  title: 2.2
+  text: The student will investigate and understand that different types of forces may cause an object’s motion to change. Key ideas include
+  subs: 
+    - forces from direct contact can cause an object to move;
+    - some forces, including gravity and magnetism, can cause objects to move from a distance; and
+    - forces have applications in our lives
+  
+- id: 2.SC.MA.3
+  title: 2.3
+  text: The student will investigate and understand that matter can exist in different phases. Key ideas include
+  subs: 
+    - matter has mass and takes up space;
+    - solids, liquids, and gases have different characteristics; and
+    - heating and cooling can change the phases of matter. 
+    
+- id: 2.SC.LP.4
+  title: 2.4
+  text: The student will investigate and understand that plants and animals undergo a series of orderly changes as they grow and develop. Key ideas include
+  subs: 
+  - animals have life cycles; and
+  - animals have life cycles; and
+  
+- id: 2.SC.LP.5
+  title: 2.5
+  text: The student will investigate and understand that living things are part of a system. Key ideas include
+  subs: 
+  - plants and animals are interdependent with their living and nonliving surroundings;
+  - an animal’s habitat provides all of its basic needs; and 
+  - habitats change over time due to many influences.
+  
+- id: 2.SC.ES.6
+  title: 2.6
+  text: The student will investigate and understand that there are different types of weather on Earth. Key ideas include
+  subs: 
+    - different types of weather have specific characteristics; 
+    - measuring, recording, and interpreting weather data allows for identification of weather patterns; and
+    - tracking weather allows us to prepare for the weather and storms.
+  
+- id: 2.SC.ES.7
+  title: 2.7
+  text: The student will investigate and understand that weather patterns and seasonal changes affect plants, animals, and their surroundings. Key ideas include
+  subs: 
+    - weather and seasonal changes affect the growth and behavior of living things; 
+    - wind and weather can change the land; and
+    - changes can happen quickly or slowly over time.
+  
+- id: 2.SC.ER.8
+  title: 2.8
+  text: The student will investigate and understand that plants are important natural resources. Key ideas include
+  subs: 
+    - the availability of plant products affects the development of a geographic area;
+    - plants provide oxygen, homes, and food for many animals; and
+    - plants can help reduce the impact of wind and water.
 

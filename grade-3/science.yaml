@@ -1,1 +1,65 @@
+- id: 3.SC.SE.1
+  title: 3.1
+  text: The student will demonstrate an understanding of scientific and engineering practices by...
+  subs: 
+    - asking questions and defining problems (ask questions that can be investigated and predict reasonable outcomes, ask questions about what would happen if a variable is changed, define a simple design problem that can be solved through the development of an object, tool, process, or system)
+    - planning and carrying out investigations (with guidance, plan and conduct investigations, use appropriate methods and/or tools for collecting data, estimate length, mass, volume, and temperature, measure length, mass, volume, and temperature in metric and U.S. Customary units using proper tools, measure elapsed time, use tools and/or materials to design and/or build a device that solves a specific problem)
+    - interpreting, analyzing, and evaluating data (organize and represent data in pictographs or bar graphs, read, interpret, and analyze data represented in pictographs and bar graphs, analyze data from tests of an object or tool to determine if it works as intended)
+    - constructing and critiquing conclusions and explanations (use evidence (measurements, observations, patterns) to construct or support an explanation, generate and/or compare multiple solutions to a problem, describe how scientific ideas apply to design solutions)
+    - developing and using models (use evidence (use models to demonstrate simple phenomena and natural processes, develop a model (e.g., diagram or simple physical prototype) to illustrate a proposed object, tool, or process)
+    - obtaining, evaluating, and communicating information (read and comprehend reading-level appropriate texts and/or other reliable media, communicate scientific information, design ideas, and/or solutions with others)
 
+- id: 3.SC.FM.2
+  title: 3.2
+  text: The student will investigate and understand that the direction and size of force affects the motion of an object. Key ideas include
+  subs: 
+    - multiple forces may act on an object;
+    - the net force on an object determines how an object moves;
+    - simple machines increase or change the direction of a force; and
+    - simple and compound machines have many applications.
+  
+- id: 3.SC.MA.3
+  title: 3.3
+  text: The student will investigate and understand how materials interact with water. Key ideas include
+  subs: 
+    - solids and liquids mix with water in different ways; and
+    - many solids dissolve more easily in hot water than in cold water.
+
+- id: 3.SC.LP.4
+  title: 3.4
+  text: The student will investigate and understand that adaptations allow organisms to satisfy life needs and respond to the environment. Key ideas include
+  subs: 
+  - populations may adapt over time; 
+  - adaptations may be behavioral or physical; and
+  - fossils provide evidence about the types of organisms that lived long ago as well as the nature of their environments.
+  
+- id: 3.SC.LP.5
+  title: 3.5
+  text: The student will investigate and understand that aquatic and terrestrial ecosystems support a diversity of organisms. Key ideas include
+  subs: 
+  - ecosystems are made of living and nonliving components of the environment; and
+  - relationships exist among organisms in an ecosystem. 
+  
+- id: 3.SC.ES.6
+  title: 3.6
+  text: The student will investigate and understand that soil is important in ecosystems. Key ideas include
+  subs: 
+    - soil, with its different components, is important to organisms; and
+    - soil provides support and nutrients necessary for plant growth.
+  
+- id: 3.SC.ES.7
+  title: 3.7
+  text: The student will investigate and understand that there is a water cycle and water is important to life on Earth. Key ideas include
+  subs: 
+    - there are many reservoirs of water on Earth;
+    - the energy from the sun drives the water cycle; and
+    - the water cycle involves specific processes.
+  
+- id: 3.SC.ER.8
+  title: 3.8
+  text: The student will investigate and understand that natural events and humans influence ecosystems. Key ideas include
+  subs: 
+    - human activity affects the quality of air, water, and habitats;
+    - water is limited and needs to be conserved;
+    - fire, flood, disease, and erosion affect ecosystems; and
+    - soil is a natural resource and should be conserved.

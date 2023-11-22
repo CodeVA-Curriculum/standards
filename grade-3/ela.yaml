@@ -1,0 +1,126 @@
+- id: 3.EN.OL.1
+  title: 3.1
+  text: The student will use effective communication skills in group activities.  
+  subs:
+    - Listen attentively by making eye contact, facing the speaker, asking questions, and summarizing what is said.
+    - Ask and respond to questions from teachers and other group members.
+    - Explain what has been learned.
+    - Use language appropriate for context.
+    - Increase listening and speaking vocabularies.
+
+- id: 3.EN.OL.2
+  title: 3.2
+  text: The student will present brief oral reports using visual media.
+  subs:
+    - Speak clearly.
+    - Use appropriate volume and pitch.
+    - Speak at an understandable rate.
+    - Organize ideas sequentially or around major points of information.
+    - Use contextually appropriate language and specific vocabulary to communicate ideas.
+
+- id: 3.EN.RD.3
+  title: 3.3
+  text: The student will apply word-analysis skills when reading.
+  subs:
+    - Use knowledge of regular and irregular vowel patterns.
+    - Decode regular multisyllabic words.
+
+- id: 3.EN.RD.4
+  title: 3.4
+  text: The student will expand vocabulary when reading.
+  subs:
+    - Use knowledge of homophones.
+    - Use knowledge of roots, affixes, synonyms, and antonyms.
+    - Apply meaning clues, language structure, and phonetic strategies.
+    - Use context to clarify meaning of unfamiliar words.
+    - Discuss meanings of words and develop vocabulary by listening and reading a variety of texts.
+    - Use vocabulary from other content areas.
+    - Use word reference resources including the glossary, dictionary, and thesaurus.
+
+- id: 3.EN.RD.5
+  title: 3.5
+  text: The student will read and demonstrate comprehension of fictional text and poetry.
+  subs:
+    - Set a purpose for reading.
+    - Make connections between previous experiences and reading selections.
+    - Make, confirm, or revise predictions.
+    - Compare and contrast settings, characters, and events.
+    - Identify the author’s purpose.
+    - Ask and answer questions about what is read.
+    - Draw conclusions about text.
+    - Identify the problem and solution.
+    - Identify the main idea.
+    - Identify supporting details.
+    - Use reading strategies to monitor comprehension throughout the reading process.
+    - Differentiate between fiction and nonfiction.
+    - Read with fluency and accuracy.
+
+- id: 3.EN.RD.6
+  title: 3.6
+  text: The student will continue to read and demonstrate comprehension of nonfiction texts.
+  subs:
+    - Identify the author’s purpose.
+    - Use prior and background knowledge as context for new learning.
+    - Preview and use text features.
+    - Ask and answer questions about what is read.
+    - Draw conclusions based on text.
+    - Summarize major points found in nonfiction texts.
+    - Identify the main idea.
+    - Identify supporting details.
+    - Compare and contrast the characteristics of biographies and autobiographies.
+    - Use reading strategies to monitor comprehension throughout the reading process.
+    - Identify new information gained from reading.
+    - Read with fluency and accuracy. 
+
+- id: 3.EN.RD.7
+  title: 3.7
+  text: The student will demonstrate comprehension of information from a variety of print and electronic resources.
+  subs:
+    - Use encyclopedias and other reference books, including online reference materials.
+    - Use table of contents, indices, and charts.
+
+- id: 3.EN.WR.8
+  title: 3.8
+  text: The student will write legibly in cursive.
+  subs: []
+
+- id: 3.EN.WR.9
+  title: 3.9
+  text: The student will write for a variety of purposes.
+  subs:
+    - Identify the intended audience.
+    - Use a variety of prewriting strategies.
+    - Write a clear topic sentence focusing on the main idea.
+    - Write a paragraph on the same topic.
+    - Use strategies for organization of information and elaboration according to the type of writing.
+    - Include details that elaborate the main idea.
+    - Revise writing for clarity of content using specific vocabulary and information.
+
+- id: 3.EN.WR.10
+  title: 3.10
+  text: The student will edit writing for correct grammar, capitalization, punctuation, and spelling.
+  subs:
+    - Use complete sentences.
+    - Use transition words to vary sentence structure.
+    - Use the word I in compound subjects.
+    - Use past and present verb tense.
+    - Use singular possessives.
+    - Use commas in a simple series.
+    - Use simple abbreviations.
+    - Use apostrophes in contractions with pronouns and in possessives.
+    - Use the articles a, an, and the correctly.
+    - Use correct spelling for frequently used sight words, including irregular plurals.
+
+- id: 3.EN.WR.11
+  title: 3.11
+  text: The student will write a short report.
+  subs:
+    - Construct questions about the topic.
+    - Identify appropriate resources.
+    - Collect and organize information about the topic into a short report.
+    - Understand the difference between plagiarism and using own words.
+
+- id: 3.EN.WR.12
+  title: 3.12
+  text: The student will use available technology for reading and writing.
+  subs: []

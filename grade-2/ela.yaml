@@ -66,4 +66,69 @@
     - Discuss meanings of words and develop vocabulary by listening and reading a variety of texts.
     - Use vocabulary from other content areas. 
 
-- id: 
+- id: 2.EN.RD.8
+  title: 2.8
+  text: The student will read and demonstrate comprehension of fictional texts. 
+  subs:
+    - Make and confirm predictions.
+    - Relate previous experiences to the main idea.
+    - Ask and answer questions about what is read.
+    - Locate information to answer questions.
+    - Describe characters, setting, and important events in fiction and poetry.
+    - Identify the problem and solution.
+    - Identify the main idea.
+    - Summarize stories and events with beginning, middle, and end in the correct sequence.
+    - Draw conclusions based on the text.
+    - Read and reread familiar stories, poems, and passages with fluency, accuracy, and meaningful expression.
+
+- id: 2.EN.RD.9
+  title: 2.9
+  text: The student will read and demonstrate comprehension of nonfiction texts.
+  subs:
+    - Preview the selection using text features.
+    - Make and confirm predictions about the main idea.
+    - Use prior and background knowledge as context for new learning.
+    - Set purpose for reading.
+    - Ask and answer questions about what is read.
+    - Locate information to answer questions.
+    - Identify the main idea.
+    - Read and reread familiar passages with fluency, accuracy, and meaningful expression.
+
+- id: 2.EN.RD.10
+  title: 2.10
+  text: The student will demonstrate comprehension of information in reference materials.
+  subs:
+    - Use table of contents.
+    - Use pictures, captions, and charts.
+    - Use dictionaries, glossaries, and indices.
+    - Use online resources.
+
+- id: 2.EN.WR.11
+  text: The student will maintain legible printing and begin to make the transition to cursive.
+  subs: []
+
+- id: 2.EN.WR.12
+  text: The student will write stories, letters, and simple explanations.
+  subs:
+    - Generate ideas before writing.
+    - Organize writing to include a beginning, middle, and end for narrative and expository writing.
+    - Expand writing to include descriptive detail.
+    - Revise writing for clarity. 
+
+- id: 2.EN.WR.13
+  text: The student will edit writing for correct grammar, capitalization, punctuation, and spelling.
+  subs:
+    - Recognize and use complete sentences.
+    - Use and punctuate declarative, interrogative, and exclamatory sentences.
+    - Capitalize all proper nouns and the word I.
+    - Use singular and plural nouns and pronouns.
+    - Use apostrophes in contractions and possessives.
+    - Use contractions and singular possessives.
+    - Use knowledge of simple abbreviations.
+    - Use correct spelling for commonly used sight words, including compound words and regular plurals.
+    - Use commas in the salutation and closing of a letter.
+    - Use verbs and adjectives correctly in sentences.
+
+- id: 2.EN.WR.14
+  text: The student will use available technology for reading and writing.
+  subs: []

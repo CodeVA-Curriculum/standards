@@ -1,0 +1,130 @@
+  - id: 3.MU.CP.1.
+    title: 3.1
+    text: The student will improvise and compose music.
+    subs: 
+      - Improvise rhythmic question-and-answer phrases.
+      - Improvise accompaniments, including ostinatos.
+      - Compose melodies represented by a variety of notational systems.
+
+  - id: 3.MU.CP.2
+    title: 3.2
+    text: The student will apply a creative process for music.
+    subs:
+      - Brainstorm multiple ideas for creating music as a group.
+      - Identify elements of a creative process for music.
+      - Reflect on the quality and technical skill of a personal or group music performance.
+
+  - id: 3.MU.CC.3
+    title: 3.3
+    text: The student will analyze and evaluate music. 
+    subs: 
+      - Identify and explain examples of musical form.
+      - Compare and contrast instruments visually and aurally.
+      - Listen to and describe basic music elements using music terminology.
+      - Compare and contrast stylistic differences in music from a variety of cultures.
+      - Describe music compositions and performances.
+
+  - id: 3.MU.CC.4
+    title: 3.4
+    text: The student will explain personal motivations for making music.
+    subs: []
+
+  - id: 3.MU.CC.5
+    title: 3.5
+    text: The student will explain collaboration and communication skills for music rehearsal and performance.
+    subs: 
+      - Use audience and participant etiquette appropriate for the purposes and settings in which music is performed.
+      - Active listening for musical understanding.
+      - Nonverbal communication (e.g., eye contact, body language).
+
+  - id: 3.MU.HC.6
+    title: 3.6
+    text: The student will explore historical and cultural aspects of music. 
+    subs:
+      - Recognize music compositions from different periods of music history.
+      - Listen to and describe instruments from a variety of time periods and places.
+
+  - id: 3.MU.HC.7
+    title: 3.7
+    text: The student will describe why music has value to people and communities.
+    subs: []
+
+  - id: 3.MU.HC.8
+    title: 3.8
+    text: The student will recognize ethical use of the Internet for exploring music topics.
+    subs: []
+
+  - id: 3.MU.IA.9
+    title: 3.9
+    text: The student will identify a variety of careers in music.
+    subs: []
+
+  - id: 3.MU.IA.10
+    title: 3.10
+    text: The student will identify how music can be created using innovative tools and new media.
+    subs: []
+
+  - id: 3.MU.IA.11
+    title: 3.11
+    text: The student will describe relationships between music and other fields of knowledge.
+    subs: []
+
+  - id: 3.MU.TA.12
+    title: 3.12
+    text: The student will demonstrate music literacy. 
+    subs: 
+      - Identify written melodic movement as step, leap, or repeat.
+      - Demonstrate the melodic shape (contour) of a written musical phrase.
+      - Use a variety of notational systems.
+      - Read melodies of increasing complexity based on a pentatonic scale.
+      - Divide rhythms into measures.
+      - Read and notate rhythmic patterns that include sixteenth notes, single eighth notes, eighth rests, and dotted half notes.
+      - Explain the functions of basic music symbols.
+
+  - id: 3.MU.TA.13
+    title: 3.13
+    text: The student will develop skills for individual and ensemble singing performance.
+    subs: 
+      - Sing in tune with a clear tone quality.
+      - Sing melodies within the range of an octave.
+      - Sing melodies notated in varying forms.
+      - Sing with expression using a wide range of tempos and dynamics.
+      - Sing rounds, partner songs, and ostinatos in two-part ensembles.
+      - Maintain proper posture for singing.
+
+  - id: 3.MU.TA.14
+    title: 3.14
+    text: The student will develop skills for individual and ensemble instrumental performance. 
+    subs: 
+      - Play music in two-part ensembles.
+      - Play melodies notated in varying forms.
+      - Play a given melody on an instrument.
+      - Play with expression using a wide range of tempos and dynamics.
+      - Accompany songs and chants with tonic and dominant chords.
+      - Demonstrate proper playing techniques.
+
+ - id: 3.MU.TA.15
+   title: 3.15
+   text: The student will classify, perform, and count rhythmic patterns.
+   subs: 
+     - Use a counting system.
+     - Include patterns that suggest duple and triple meter.
+     - Use instruments, body percussion, and voice.
+     - Include sixteenth notes, single eighth notes, eighth rests, and dotted half notes.
+
+  - id: 3.MU.TA.16
+    title: 3.16
+    text: The student will demonstrate understanding of meter.
+    subs: 
+      - Determine strong and weak beats.
+      - Perform sets of beats grouped in twos and threes.
+
+  - id: 3.MU.TA.17
+    title: 3.17
+    text: The student will respond to music with movement.
+    subs: 
+      - Illustrate rondo form (ABACA).
+      - Perform non-choreographed and choreographed movements.
+      - Perform dances and other music activities.
+
+

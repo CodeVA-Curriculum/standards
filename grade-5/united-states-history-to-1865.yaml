@@ -1,98 +1,98 @@
-  - id: 5.USI.SK.0
-    title: Skills USI
-    text: The student will apply history and social science skills to the content by
-    subs: 
-      - synthesizing evidence from information sources including, but not limited to artifacts, primary and secondary sources, charts, graphs, and diagrams to understand events in United States history; 
-      - applying geographic skills to determine patterns and trends of people, places, or events;
-      - developing questions, enhancing curiosity, and engaging in critical thinking and analysis;
-      - integrating evidence to construct and analyze timelines, classify events, and distinguish fact from opinion;
-      - comparing and contrasting historical, cultural, economic, and political perspectives;
-      - determining and explaining cause-and-effect relationships;
-      - using economic decision-making models to make a decision and explain the incentives and consequences of a specific choice; 
-      - engaging and communicating as a civil and informed individual with persons with different perspectives; and
-      - developing products that reflect an understanding of content.
+- id: 5.USI.SK.0
+  title: Skills
+  text: The student will apply history and social science skills to the content by
+  subs: 
+    - synthesizing evidence from information sources including, but not limited to artifacts, primary and secondary sources, charts, graphs, and diagrams to understand events in United States history; 
+    - applying geographic skills to determine patterns and trends of people, places, or events;
+    - developing questions, enhancing curiosity, and engaging in critical thinking and analysis;
+    - integrating evidence to construct and analyze timelines, classify events, and distinguish fact from opinion;
+    - comparing and contrasting historical, cultural, economic, and political perspectives;
+    - determining and explaining cause-and-effect relationships;
+    - using economic decision-making models to make a decision and explain the incentives and consequences of a specific choice; 
+    - engaging and communicating as a civil and informed individual with persons with different perspectives; and
+    - developing products that reflect an understanding of content.
 
-  - id: 5.USI.GA.1
-    title: USI.1
-    text: The student will apply history and social science skills to understand the geography of North America by
-    subs: 
-      - locating North America in relation to the other continents and the oceans;
-      - locating and describing major geographic regions and bodies of water of North America and their impact on the early history of the United States; and 
-      - locating the 50 states.  
+- id: 5.USI.GA.1
+  title: USI.1
+  text: The student will apply history and social science skills to understand the geography of North America by
+  subs: 
+    - locating North America in relation to the other continents and the oceans;
+    - locating and describing major geographic regions and bodies of water of North America and their impact on the early history of the United States; and 
+    - locating the 50 states.  
 
-  - id: 5.USI.EA.2
-    title: USI.2
-    text: The student will apply history and social science skills to describe how early cultures developed throughout North America by
-    subs:
-      - describing how archaeologists have recovered artifacts from ancient settlements, including, but not limited, to Cactus Hill in Virginia; and
-      - locating and explaining where Indigenous peoples lived prior to the arrival of Europeans, with an emphasis on how the various geographic regions they inhabited influenced their daily lives.
+- id: 5.USI.EA.2
+  title: USI.2
+  text: The student will apply history and social science skills to describe how early cultures developed throughout North America by
+  subs:
+    - describing how archaeologists have recovered artifacts from ancient settlements, including, but not limited, to Cactus Hill in Virginia; and
+    - locating and explaining where Indigenous peoples lived prior to the arrival of Europeans, with an emphasis on how the various geographic regions they inhabited influenced their daily lives.
 
-  - id: 5.USI.EA.3
-    title: USI.3
-    text: The student will apply history and social science skills to explain European exploration and colonization in North America by
-    subs:
-      - describing the motivations for, obstacles to, and accomplishments of the Dutch, English, French, Portuguese, and Spanish explorations; and
-      - describing cultural and economic interactions between Indigenous peoples and Europeans that led to cooperation and conflict.
+- id: 5.USI.EA.3
+  title: USI.3
+  text: The student will apply history and social science skills to explain European exploration and colonization in North America by
+  subs:
+    - describing the motivations for, obstacles to, and accomplishments of the Dutch, English, French, Portuguese, and Spanish explorations; and
+    - describing cultural and economic interactions between Indigenous peoples and Europeans that led to cooperation and conflict.
 
-  - id: 5.USI.EA.4
-    title: USI.4
-    text: The student will apply history and social science skills to understand how the Western Hemisphere, including the United States, impacted West Africa by
-    subs: 
-      - identifying the location and characteristics of West African societies of Ghana, Mali, and Songhai before European exploration;
-      - examining the arrival of the first Africans to colonial America at Old Point Comfort (Fort Monroe); 
-      - explaining the Transatlantic Slave Trade and its impact on the African coast and Western Hemisphere; and 
-      - identifying the cultural connections, conflicts, and common values of enslaved people in the Western Hemisphere, as well as challenges and hardships endured by enslaved people brought to the United States.
+- id: 5.USI.EA.4
+  title: USI.4
+  text: The student will apply history and social science skills to understand how the Western Hemisphere, including the United States, impacted West Africa by
+  subs: 
+    - identifying the location and characteristics of West African societies of Ghana, Mali, and Songhai before European exploration;
+    - examining the arrival of the first Africans to colonial America at Old Point Comfort (Fort Monroe); 
+    - explaining the Transatlantic Slave Trade and its impact on the African coast and Western Hemisphere; and 
+    - identifying the cultural connections, conflicts, and common values of enslaved people in the Western Hemisphere, as well as challenges and hardships endured by enslaved people brought to the United States.
 
-  - id: 5.USI.CR.5
-    title: USI.5
-    text: The student will apply history and social science skills to explain the social, political, religious, economic, and geographic factors that shaped colonial America by
-    subs: 
-      - describing the characteristics and differences among the New England, the Mid-Atlantic, and the Southern colonies;
-      - explaining Virginia’s importance as one of the most populous and wealthiest colonies;
-      - comparing life from the perspectives of various groups, including, but not limited to large landowners, farmers, artisans, clergy, merchants, women, indentured servants, and enslaved and free Blacks;
-      - explaining the specialization and interdependence of the regions; and
-      - explaining the changing political and economic relationships between the colonies and Great Britain, including, but not limited to representative government and self-rule in the colonies.
+- id: 5.USI.CR.5
+  title: USI.5
+  text: The student will apply history and social science skills to explain the social, political, religious, economic, and geographic factors that shaped colonial America by
+  subs: 
+    - describing the characteristics and differences among the New England, the Mid-Atlantic, and the Southern colonies;
+    - explaining Virginia’s importance as one of the most populous and wealthiest colonies;
+    - comparing life from the perspectives of various groups, including, but not limited to large landowners, farmers, artisans, clergy, merchants, women, indentured servants, and enslaved and free Blacks;
+    - explaining the specialization and interdependence of the regions; and
+    - explaining the changing political and economic relationships between the colonies and Great Britain, including, but not limited to representative government and self-rule in the colonies.
 
-  - id: 5.USI.CR.6
-    title: USI.6
-    text: The student will apply history and social science skills to explain the American Revolution by
-    subs:
-      - identifying the causes and effects of the French and Indian War;
-      - identifying the issues of dissatisfaction that led to the American Revolution, including, but not limited to the “injuries and usurpations” outlined in the Declaration of Independence; 
-      - comparing and contrasting the political ideas and principles that shaped the revolutionary movement; 
-      - describing the leadership roles of individuals, including, but not limited to George Washington, Benjamin Franklin, Thomas Jefferson, Patrick Henry, Thomas Paine, John Adams, and the Marquis de Lafayette; and
-      - examining the causes, course, and consequences of key events and battles of the era. 
+- id: 5.USI.CR.6
+  title: USI.6
+  text: The student will apply history and social science skills to explain the American Revolution by
+  subs:
+    - identifying the causes and effects of the French and Indian War;
+    - identifying the issues of dissatisfaction that led to the American Revolution, including, but not limited to the “injuries and usurpations” outlined in the Declaration of Independence; 
+    - comparing and contrasting the political ideas and principles that shaped the revolutionary movement; 
+    - describing the leadership roles of individuals, including, but not limited to George Washington, Benjamin Franklin, Thomas Jefferson, Patrick Henry, Thomas Paine, John Adams, and the Marquis de Lafayette; and
+    - examining the causes, course, and consequences of key events and battles of the era. 
 
-  - id: 5.USI.NE.7
-    title: USI.7
-    text: The student will apply history and social science skills to describe the challenges faced by the new nation by
-    subs:
-      - explaining the strengths, weaknesses, and outcomes of the government established by the Articles of Confederation;
-      - describing the Constitutional Convention and the development of the Constitution of the United States, with emphasis on the role of James Madison;
-      - examining constitutional issues debated, including the role of the national government and the debate over ratifying of the Constitution, the influence of the Federalist Papers, and the reasons for the addition of the Bill of Rights;
-      - explaining the Three-Fifths Compromise; and
-      - examining the three branches of government.
+- id: 5.USI.NE.7
+  title: USI.7
+  text: The student will apply history and social science skills to describe the challenges faced by the new nation by
+  subs:
+    - explaining the strengths, weaknesses, and outcomes of the government established by the Articles of Confederation;
+    - describing the Constitutional Convention and the development of the Constitution of the United States, with emphasis on the role of James Madison;
+    - examining constitutional issues debated, including the role of the national government and the debate over ratifying of the Constitution, the influence of the Federalist Papers, and the reasons for the addition of the Bill of Rights;
+    - explaining the Three-Fifths Compromise; and
+    - examining the three branches of government.
 
-  - id: 5.USI.NE.8
-    title: USI.8
-    text: The student will apply history and social science skills to explain westward expansion and reform in America from 1801 to 1861 by
-    subs: 
-      - describing how territorial expansion affected the political map of the United States, including, but not limited to the Louisiana Purchase, the Lewis and Clark expedition and the role of Sacagawea, the acquisitions of Florida, Texas, Oregon, and California, and the results of the Mexican American War;
-      - describing the causes, course of events, and effects of the War of 1812, the role of Andrew Jackson, and the development of the Monroe Doctrine; 
-      - identifying geographic, economic, and religious motivations that influenced the movement of settlers;
-      - analyzing the impact of westward expansion on Indigenous peoples, including, but not limited to the Indian Removal policies, the Trail of Tears, and the Seminole Wars;
-      - explaining technological advancements and innovations and their effects on life in America, including but not limited to the cotton gin, the reaper, the steam engine, and the steam locomotive; 
-      - describing major developments in the abolitionist and women’s suffrage movements; and
-      - explaining how the expansion of U.S. territory led to increased momentum for the abolitionist and women’s suffrage movements.
+- id: 5.USI.NE.8
+  title: USI.8
+  text: The student will apply history and social science skills to explain westward expansion and reform in America from 1801 to 1861 by
+  subs: 
+    - describing how territorial expansion affected the political map of the United States, including, but not limited to the Louisiana Purchase, the Lewis and Clark expedition and the role of Sacagawea, the acquisitions of Florida, Texas, Oregon, and California, and the results of the Mexican American War;
+    - describing the causes, course of events, and effects of the War of 1812, the role of Andrew Jackson, and the development of the Monroe Doctrine; 
+    - identifying geographic, economic, and religious motivations that influenced the movement of settlers;
+    - analyzing the impact of westward expansion on Indigenous peoples, including, but not limited to the Indian Removal policies, the Trail of Tears, and the Seminole Wars;
+    - explaining technological advancements and innovations and their effects on life in America, including but not limited to the cotton gin, the reaper, the steam engine, and the steam locomotive; 
+    - describing major developments in the abolitionist and women’s suffrage movements; and
+    - explaining how the expansion of U.S. territory led to increased momentum for the abolitionist and women’s suffrage movements.
 
-  - id: 5.USI.CVW.9
-    title: USI.9
-    text: The student will apply history and social science skills to understand the cause, major events, and effects of the Civil War by
-    subs: 
-      - describing how slavery and its expansion was the primary cause of the cultural, economic, and constitutional issues that divided the nation and led to the secession of southern states;
-      - describing the differences in the economies of the North and the South, growth of agriculture and industry, and how those economies impacted the outcome of the war;
-      - evaluating the leadership and impact of Abraham Lincoln during the Civil War;
-      - describing how individuals influenced the course of the Civil War, including, but not limited to Jefferson Davis, Ulysses S. Grant, Robert E. Lee, William Tecumseh Sherman, Thomas “Stonewall” Jackson, and Frederick Douglass; 
-      - describing major political texts during the war, including but not limited to Lincoln’s Inaugural Address, the Emancipation Proclamation, the Gettysburg Address, and Lincoln’s Second Inaugural Address; and
-      - analyzing the effects of the war from various perspectives of Union and Confederate soldiers, Indigenous peoples, women, European Americans, and enslaved and free Blacks during the war including, but not limited to Clara Barton, John Brown, Robert Smalls, Harriet Tubman, Elizabeth Van Lew, and Mary Bowser.
+- id: 5.USI.CVW.9
+  title: USI.9
+  text: The student will apply history and social science skills to understand the cause, major events, and effects of the Civil War by
+  subs: 
+    - describing how slavery and its expansion was the primary cause of the cultural, economic, and constitutional issues that divided the nation and led to the secession of southern states;
+    - describing the differences in the economies of the North and the South, growth of agriculture and industry, and how those economies impacted the outcome of the war;
+    - evaluating the leadership and impact of Abraham Lincoln during the Civil War;
+    - describing how individuals influenced the course of the Civil War, including, but not limited to Jefferson Davis, Ulysses S. Grant, Robert E. Lee, William Tecumseh Sherman, Thomas “Stonewall” Jackson, and Frederick Douglass; 
+    - describing major political texts during the war, including but not limited to Lincoln’s Inaugural Address, the Emancipation Proclamation, the Gettysburg Address, and Lincoln’s Second Inaugural Address; and
+    - analyzing the effects of the war from various perspectives of Union and Confederate soldiers, Indigenous peoples, women, European Americans, and enslaved and free Blacks during the war including, but not limited to Clara Barton, John Brown, Robert Smalls, Harriet Tubman, Elizabeth Van Lew, and Mary Bowser.
 

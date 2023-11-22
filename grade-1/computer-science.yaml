@@ -47,22 +47,22 @@
   text: The student will describe what is allowed and what is not allowed at school associated with the use of technology.
   subs: []
 
-  - id: 1.CS.CY.10
+- id: 1.CS.CY.10
   title: 1.10
   text: The student will identify and use strong passwords, explain why strong passwords should be used (e.g., protect name, address, and telephone number).
   subs: []
   
-  - id: 1.CS.DA.11
+- id: 1.CS.DA.11
   title: 1.11
   text: The student will identify and interpret data and organize it in a chart or graph in order to make a prediction, with or without a computing device.
   subs: []
 
-  - id: 1.CS.IC.12
+- id: 1.CS.IC.12
   title: 1.12
   text: The student will identify and explain responsible behaviors associated with using information and technology.
   subs: []
 
-  - id: 1.CS.NI.13
+- id: 1.CS.NI.13
   title: 1.13
   text: The student will, in a whole class environment, discuss how information can be communicated electronically (e.g., email, social media).
   subs: []

@@ -25,6 +25,10 @@ MT:
         MG: Measurement & Geometry
         PS: Probability & Statistics
         PA: Patterns, Functions, & Algebra
+ALG1:
+    title: "Algebra 1"
+    inherit: MT
+    grade: HS
 DS:
     title: Data Science
     grades: HS
@@ -58,6 +62,40 @@ HSS:
         GE: Geography
         EC: Economics
         CV: Civics
+VS:
+    title: Virginia Studies
+    grade: 4
+    strands: 
+        SK: Skills
+        PG: Physical Geography
+        VP: Virginia Indigenous people
+        AR: 1607 through American Revolution
+        PWE: "Political Growth & Western Expansion: 1775 to the Mid-1800s"
+        CWE: Civil War and Postwar Eras
+        VAP: "Virginia: 1900 to Present"
+USI:
+    title: United States History to 1865
+    grade: 5 
+    strands:
+        SK: Skills
+        GA: Geography of North America
+        EA: Early Cultures of North America
+        CR: Colonial America and the American Revolution
+        NE: A New Nation and its Expansion
+        CVW: The Civil War
+ 
+USII:
+    title: United States History 1865 to the Present
+    grade: 6
+    strands:
+        SK: Skills
+        WP: Westward Expansion and Its Impact on Indigenous Peoples
+        ER: Effects of Reconstruction
+        IG: Industrialization and Growth
+        ST: The Second World War and America's Transformation
+        CW: Cold War
+        LEC: Late 20th-Early 21st Century
+        SCT: Science and Technology Since the Turn of the Century
 MU:
     title: Music
     strands:

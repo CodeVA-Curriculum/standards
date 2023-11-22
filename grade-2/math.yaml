@@ -22,7 +22,7 @@
     - count and identify the ordinal positions first through twentieth, using an ordered set of objects; and
     - write the ordinal numbers 1st through 20th.
 
-  - id: 2.MT.NS.4
+- id: 2.MT.NS.4
   title: 2.4
   text: The student will 
   subs:
@@ -45,7 +45,7 @@
     - determine sums and differences, using various methods; and
     - create and solve single-step and two-step practical problems involving addition and subtraction. 
 
-  - id: 2.MT.MG.7
+- id: 2.MT.MG.7
   title: 2.7
   text: The student will
   subs: 
@@ -64,7 +64,7 @@
   text: The student will tell time and write time to the nearest five minutes, using analog and digital clocks.
   subs: []
 
-  - id: K.MT.MG.10
+- id: K.MT.MG.10
   title: 2.10
   text: The student will
   subs:
@@ -79,11 +79,11 @@
 - id: 2.MT.MG.12
   title: 2.12
   text: The student will
-  subs: []
+  subs:
     - draw a line of symmetry in a figure; and
     - identify and create figures with at least one line of symmetry
 
-  - id: 2.MT.MG.13
+- id: 2.MT.MG.13
   title: 2.13
   text: The student will identify, describe, compare, and contrast plane and solid figures (circles/spheres, squares/cubes, and rectangles/rectangular prisms).
   subs: []

@@ -1,140 +1,140 @@
-  - id: 1.EN.OL.1
-    title: 1.1
-    text: The student will continue to demonstrate growth in the use of oral language. 
-    subs:
-      - Listen and respond to a variety of electronic media and other age-appropriate materials.
-      - Tell and retell stories and events in logical order.
-      - Participate in a variety of oral language activities, including choral speaking and reciting short poems, rhymes, songs, and stories with repeated patterns. 
-      - Participate in creative dramatics. 
-      - Express ideas orally in complete sentences. 
+- id: 1.EN.OL.1
+  title: 1.1
+  text: The student will continue to demonstrate growth in the use of oral language. 
+  subs:
+    - Listen and respond to a variety of electronic media and other age-appropriate materials.
+    - Tell and retell stories and events in logical order.
+    - Participate in a variety of oral language activities, including choral speaking and reciting short poems, rhymes, songs, and stories with repeated patterns. 
+    - Participate in creative dramatics. 
+    - Express ideas orally in complete sentences. 
 
-  - id: 1.EN.OL.2
-    title: 1.2
-    text: The student will expand understanding and use of word meanings.
-    subs:
-      - Increase listening and speaking vocabularies. 
-      - Begin to ask for clarification and explanation of words and ideas. 
-      - Use common singular and plural nouns. 
-      - Use vocabulary from other content areas. 
+- id: 1.EN.OL.2
+  title: 1.2
+  text: The student will expand understanding and use of word meanings.
+  subs:
+    - Increase listening and speaking vocabularies. 
+    - Begin to ask for clarification and explanation of words and ideas. 
+    - Use common singular and plural nouns. 
+    - Use vocabulary from other content areas. 
 
-  - id: 1.EN.OL.3
-    title: 1.3
-    text: The student will adapt or change oral language to fit the situation. 
-    subs:
-      - Initiate conversation with peers and adults. 
-      - Follow rules for conversation using appropriate voice level in small-group settings. 
-      - Ask and respond to questions. 
-      - Follow simple two-step oral directions. 
-      - Give simple two-step oral directions.
+- id: 1.EN.OL.3
+  title: 1.3
+  text: The student will adapt or change oral language to fit the situation. 
+  subs:
+    - Initiate conversation with peers and adults. 
+    - Follow rules for conversation using appropriate voice level in small-group settings. 
+    - Ask and respond to questions. 
+    - Follow simple two-step oral directions. 
+    - Give simple two-step oral directions.
 
-  - id: 1.EN.OL.4
-    title: 1.4
-    text: The student will orally identify, produce, and manipulate various units of speech sounds within words. 
-    subs:
-      - Create rhyming words. 
-      - Count phonemes (sounds) in one-syllable words. 
-      - Blend sounds to make one-syllable words.
-      - Segment one-syllable words into individual speech sounds (phonemes).
-      - Add or delete phonemes (sounds) to make new words. 
+- id: 1.EN.OL.4
+  title: 1.4
+  text: The student will orally identify, produce, and manipulate various units of speech sounds within words. 
+  subs:
+    - Create rhyming words. 
+    - Count phonemes (sounds) in one-syllable words. 
+    - Blend sounds to make one-syllable words.
+    - Segment one-syllable words into individual speech sounds (phonemes).
+    - Add or delete phonemes (sounds) to make new words. 
 
-  - id: 1.EN.RD.5
-    title: 1.5
-    text: The student will apply knowledge of how print is organized and read. 
-    subs:
-      - Read from left to right and from top to bottom.
-      - Match spoken words with print. 
-      - Identify letters, words, sentences, and ending punctuation. 
-      - Read his/her own writing. 
+- id: 1.EN.RD.5
+  title: 1.5
+  text: The student will apply knowledge of how print is organized and read. 
+  subs:
+    - Read from left to right and from top to bottom.
+    - Match spoken words with print. 
+    - Identify letters, words, sentences, and ending punctuation. 
+    - Read his/her own writing. 
 
-  - id: 1.EN.RD.6
-    title: 1.6
-    text: The student will apply phonetic principles to read and spell.
-    subs:
-      - Use beginning and ending consonants to decode and spell single-syllable words. 
-      - Use two-letter consonant blends to decode and spell single-syllable words.
-      - Use beginning consonant digraphs to decode and spell single-syllable words. 
-      - Use short vowel sounds to decode and spell single-syllable words. 
-      - Blend beginning, middle, and ending sounds to recognize and read words. 
-      - Use word patterns to decode unfamiliar words. 
-      - Read and spell simple two-syllable compound words. 
-      - Read and spell commonly used sight words. 
-      
-  - id: 1.EN.RD.7
-    title: 1.7
-    text: The student will use semantic clues and syntax to expand vocabulary when reading. 
-    subs:
-      - Use words, phrases, and sentences.
-      - Use titles and pictures. 
-      - Use information in the story to read words. 
-      - Use knowledge of sentence structure. 
-      - Use knowledge of story structure. 
-      - Reread and self-correct. 
+- id: 1.EN.RD.6
+  title: 1.6
+  text: The student will apply phonetic principles to read and spell.
+  subs:
+    - Use beginning and ending consonants to decode and spell single-syllable words. 
+    - Use two-letter consonant blends to decode and spell single-syllable words.
+    - Use beginning consonant digraphs to decode and spell single-syllable words. 
+    - Use short vowel sounds to decode and spell single-syllable words. 
+    - Blend beginning, middle, and ending sounds to recognize and read words. 
+    - Use word patterns to decode unfamiliar words. 
+    - Read and spell simple two-syllable compound words. 
+    - Read and spell commonly used sight words. 
+    
+- id: 1.EN.RD.7
+  title: 1.7
+  text: The student will use semantic clues and syntax to expand vocabulary when reading. 
+  subs:
+    - Use words, phrases, and sentences.
+    - Use titles and pictures. 
+    - Use information in the story to read words. 
+    - Use knowledge of sentence structure. 
+    - Use knowledge of story structure. 
+    - Reread and self-correct. 
 
-  - id: 1.EN.RD.8
-    title: 1.8
-    text: The student will expand vocabulary.
-    subs:
-      - Discuss meanings of words in context. 
-      - Develop vocabulary by listening to and reading a variety of texts. 
-      - Ask for the meaning of unknown words and make connections to familiar words. 
-      - Use text clues such as words or pictures to discern meanings of unknown words. 
-      - Use vocabulary from other content areas. 
+- id: 1.EN.RD.8
+  title: 1.8
+  text: The student will expand vocabulary.
+  subs:
+    - Discuss meanings of words in context. 
+    - Develop vocabulary by listening to and reading a variety of texts. 
+    - Ask for the meaning of unknown words and make connections to familiar words. 
+    - Use text clues such as words or pictures to discern meanings of unknown words. 
+    - Use vocabulary from other content areas. 
 
-  - id: 1.EN.RD.9
-    title: 1.9
-    text: The student will read and demonstrate comprehension of a variety of fictional texts. 
-    subs:
-      - Preview the selection.
-      - Set a purpose for reading. 
-      - Relate previous experiences to what is read.
-      - Make and confirm predictions. 
-      - Ask and answer who, what, when, where, why, and how questions about what is read. 
-      - Identify characters, setting, and important events.
-      - Retell stories and events, using beginning, middle, and end. 
-      - Identify the main idea or theme. 
-      - Read and reread familiar stories, poems, and passages with fluency, accuracy, and meaningful expression.
+- id: 1.EN.RD.9
+  title: 1.9
+  text: The student will read and demonstrate comprehension of a variety of fictional texts. 
+  subs:
+    - Preview the selection.
+    - Set a purpose for reading. 
+    - Relate previous experiences to what is read.
+    - Make and confirm predictions. 
+    - Ask and answer who, what, when, where, why, and how questions about what is read. 
+    - Identify characters, setting, and important events.
+    - Retell stories and events, using beginning, middle, and end. 
+    - Identify the main idea or theme. 
+    - Read and reread familiar stories, poems, and passages with fluency, accuracy, and meaningful expression.
 
-  - id: 1.EN.RD.10
-    title: 1.10
-    text: The student will read and demonstrate comprehension of a variety of nonfiction texts. 
-    subs:
-      - Preview the selection. 
-      - Use prior and background knowledge as context for new learning. 
-      - Set a purpose for reading.
-      - Identify text features such as pictures, headings, charts, and captions. 
-      - Make and confirm predictions. 
-      - Ask and answer who, what, where, when, why, and how questions about what is read.
-      - Identify the main idea. 
-      - Read and reread familiar passages with fluency, accuracy, and meaningful expression. 
+- id: 1.EN.RD.10
+  title: 1.10
+  text: The student will read and demonstrate comprehension of a variety of nonfiction texts. 
+  subs:
+    - Preview the selection. 
+    - Use prior and background knowledge as context for new learning. 
+    - Set a purpose for reading.
+    - Identify text features such as pictures, headings, charts, and captions. 
+    - Make and confirm predictions. 
+    - Ask and answer who, what, where, when, why, and how questions about what is read.
+    - Identify the main idea. 
+    - Read and reread familiar passages with fluency, accuracy, and meaningful expression. 
 
-  - id: 1.EN.RD.11
-    title: 1.11
-    text: The student will use simple reference materials. 
-    subs:
-      - Use knowledge of alphabetical order by first letter. 
-      - Use a picture dictionary to find meanings of unfamiliar words. 
+- id: 1.EN.RD.11
+  title: 1.11
+  text: The student will use simple reference materials. 
+  subs:
+    - Use knowledge of alphabetical order by first letter. 
+    - Use a picture dictionary to find meanings of unfamiliar words. 
 
-  - id: 1.EN.WR.12
-    title: 1.12
-    text: The student will print legibly. 
-    subs:
-      - Form letters accurately.
-      - Space words within sentences.
-      - Use the alphabetic code to write unknown words phonetically. 
+- id: 1.EN.WR.12
+  title: 1.12
+  text: The student will print legibly. 
+  subs:
+    - Form letters accurately.
+    - Space words within sentences.
+    - Use the alphabetic code to write unknown words phonetically. 
 
-  - id: 1.EN.WR.13
-    title: 1.13
-    text: The student will write to communicate ideas for a variety of purposes. 
-    subs:
-      - Generate ideas.
-      - Focus on one topic. 
-      - Revise by adding descriptive words when writing about people, places, things, and events. 
-      - Use complete sentences in final copies.
-      - Begin each sentence with a capital letter and use ending punctuation in final copies. 
-      - Use correct spelling for commonly used sight words and phonetically regular words in final copies. 
-      - Share writing with others. 
+- id: 1.EN.WR.13
+  title: 1.13
+  text: The student will write to communicate ideas for a variety of purposes. 
+  subs:
+    - Generate ideas.
+    - Focus on one topic. 
+    - Revise by adding descriptive words when writing about people, places, things, and events. 
+    - Use complete sentences in final copies.
+    - Begin each sentence with a capital letter and use ending punctuation in final copies. 
+    - Use correct spelling for commonly used sight words and phonetically regular words in final copies. 
+    - Share writing with others. 
 
-  - id: 1.EN.WR.14
-    title: 1.14
-    text: The student will use available technology for reading and writing. 
-    subs: []
+- id: 1.EN.WR.14
+  title: 1.14
+  text: The student will use available technology for reading and writing. 
+  subs: []

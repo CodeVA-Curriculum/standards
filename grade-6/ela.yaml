@@ -1,0 +1,109 @@
+- id: 6.EN.COM.1
+  title: 6.1 
+  text: The student will participate in and contribute to small-group activities.  
+  subs:
+    - Communicate as leader and contributor.
+    - Evaluate own contributions to discussions.
+    - Summarize and evaluate group activities.
+    - Analyze the effectiveness of participant interactions.
+
+- id: 6.EN.COM.2
+  title: 6.2
+  text: The student will present, listen critically, and express opinions in oral presentations.
+  subs:
+    - Distinguish between fact and opinion.
+    - Compare and contrast viewpoints.
+    - Present a convincing argument.
+    - Paraphrase and summarize what is heard.
+    - Use language and vocabulary appropriate to audience, topic, and purpose.
+
+- id: 6.EN.COM.3
+  title: 6.3
+  text: The student will understand the elements of media literacy.
+  subs:
+    - Compare and contrast auditory, visual, and written media messages.
+    - Identify the characteristics and effectiveness of a variety of media messages.
+    - Craft and publish audience-specific media messages.
+
+- id: 6.EN.RD.4
+  title: 6.4
+  text: The student will read and learn the meanings of unfamiliar words and phrases within authentic texts.
+  subs:
+    - Identify word origins and derivations.
+    - Use roots, cognates, affixes, synonyms, and antonyms to expand vocabulary.
+    - Use context and sentence structure to determine meanings and differentiate among multiple meanings of words.
+    - Identify and analyze figurative language.
+    - Use word-reference materials.
+    - Extend general and specialized vocabulary through speaking, listening, reading, and writing.
+
+- id: 6.EN.RD.5
+  title: 6.5
+  text: The student will read and demonstrate comprehension of a variety of fictional texts, narrative nonfiction, and poetry.
+  subs:
+    - Identify the elements of narrative structure, including setting, character, plot, conflict, and theme.
+    - Make, confirm, and revise predictions.
+    - Describe how word choice and imagery contribute to the meaning of a text.
+    - Describe cause and effect relationships and their impact on plot.
+    - Use prior and background knowledge as context for new learning.
+    - Use information in the text to draw conclusions and make inferences.
+    - Explain how character and plot development are used in a selection to support a central conflict or story line.
+    - Identify the main idea.
+    - Identify and summarize supporting details.
+    - Identify and analyze the author’s use of figurative language.
+    - Identify transitional words and phrases that signal an author’s organizational pattern.
+    - Use reading strategies to monitor comprehension throughout the reading process.
+
+- id: 6.EN.RD.6
+  title: 6.6
+  text: The student will read and demonstrate comprehension of a variety of nonfiction texts.
+  subs:
+    - Use text structures such as type, headings, and graphics to predict and categorize information in both print and digital texts.
+    - Use prior knowledge and build additional background knowledge as context for new learning.
+    - Identify questions to be answered.
+    - Make, confirm, or revise predictions.
+    - Draw conclusions and make inferences based on explicit and implied information.
+    - Differentiate between fact and opinion.
+    - Identify main idea.
+    - Summarize supporting details.
+    - Compare and contrast information about one topic, which may be contained in different selections.
+    - Identify the author’s organizational pattern.
+    - Identify cause and effect relationships.
+    - Use reading strategies to monitor comprehension throughout the reading process.
+
+- id: 6.EN.WR.7
+  title: 6.7
+  text: The student will write narration, description, exposition, and persuasion.
+  subs:
+    - Identify audience and purpose.
+    - Use a variety of prewriting strategies including graphic organizers to generate and organize ideas.
+    - Organize writing structure to fit mode or topic.
+    - Establish a central idea and organization.
+    - Compose a topic sentence or thesis statement if appropriate.
+    - Write multiparagraph compositions with elaboration and unity.
+    - Select vocabulary and information to enhance the central idea, tone, and voice.
+    - Expand and embed ideas by using modifiers, standard coordination, and subordination in complete sentences.
+    - Revise sentences for clarity of content including specific vocabulary and information.
+    - Use computer technology to plan, draft, revise, edit, and publish writing.
+
+- id: 6.EN.WR.8
+  title: 6.8
+  text: The student will edit writing for correct grammar, capitalization, punctuation, spelling, sentence structure, and paragraphing.
+  subs:
+    - Use a variety of graphic organizers, including sentence diagrams, to analyze and improve sentence formation and paragraph structure.
+    - Use subject-verb agreement with intervening phrases and clauses.
+    - Use pronoun-antecedent agreement to include indefinite pronouns.
+    - Maintain consistent verb tense across paragraphs.
+    - Eliminate double negatives.
+    - Use quotation marks with dialogue.
+    - Choose adverbs to describe verbs, adjectives, and other adverbs.
+    - Use correct spelling for frequently used words.
+
+- id: 6.EN.RE.9
+  title: 6.9
+  text: The student will find, evaluate, and select appropriate resources for a research product.
+  subs:
+    - Collect information from multiple sources including online, print, and media.
+    - Evaluate the validity and authenticity of texts.
+    - Use technology as a tool to research, organize, evaluate, and communicate information.
+    - Cite primary and secondary sources.
+    - Define the meaning and consequences of plagiarism and follow ethical and legal guidelines for gathering and using information.

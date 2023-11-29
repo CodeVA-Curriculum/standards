@@ -1,0 +1,121 @@
+- id: 5.EN.COM.1
+  title: 5.1 
+  text: The student will listen, draw conclusions, and share responses in subject-related grouplearning activities.  
+  subs:
+    - Participate in and contribute to discussions across content areas.
+    - Organize information to present in reports of group activities.
+    - Summarize information gathered in group activities.
+    - Communicate new ideas to others.
+    - Demonstrate the ability to collaborate with diverse teams.
+    - Demonstrate the ability to work independently.
+
+- id: 5.EN.COM.2
+  title: 5.2
+  text: The student will use effective verbal and nonverbal communication skills to deliver planned oral presentations.
+  subs: 
+    - Maintain eye contact with listeners.
+    - Use gestures to support, accentuate, and dramatize verbal message.
+    - Use facial expressions to support and dramatize verbal message.
+    - Use posture appropriate for communication setting.
+    - Determine appropriate content for audience.
+    - Organize content sequentially around major ideas.
+    - Summarize main points as they relate to main idea or supporting details.
+    - Incorporate visual media to support the presentation.
+    - Use language and style appropriate to the audience, topic, and purpose.
+
+- id: 5.EN.COM.3
+  title: 5.3
+  text: The student will learn how media messages are constructed and for what purposes.
+  subs:
+    - Differentiate between auditory, visual, and written media messages.
+    - Identify the characteristics and effectiveness of a variety of media messages.
+
+- id: 5.EN.RD.4
+  title: 5.4
+  text: The student will expand vocabulary when reading.
+  subs:
+    - Use context to clarify meaning of unfamiliar words and phrases.
+    - Use context and sentence structure to determine meanings and differentiate among multiple meanings of words.
+    - Use knowledge of roots, affixes, synonyms, antonyms, and homophones.
+    - Identify an author’s use of figurative language.
+    - Use dictionary, glossary, thesaurus, and other word-reference materials.
+    - Develop vocabulary by listening to and reading a variety of texts.
+    - Study word meanings across content areas.
+
+- id: 5.EN.RD.5
+  title: 5.5
+  text: The student will read and demonstrate comprehension of fictional texts, narrative nonfiction, and poetry.
+  subs:
+    - Describe the relationship between text and previously read materials.
+    - Describe character development.
+    - Describe the development of plot and explain the resolution of conflict(s).
+    - Describe the characteristics of free verse, rhymed, and patterned poetry.
+    - Describe how an author’s choice of vocabulary contributes to the author’s style.
+    - Identify and ask questions that clarify various points of view.
+    - Identify main idea.
+    - Summarize supporting details from text.
+    - Draw conclusions and make inferences from text.
+    - Identify cause and effect relationships.
+    - Make, confirm, or revise predictions.
+    - Use reading strategies throughout the reading process to monitor comprehension.
+    - Read with fluency and accuracy.
+
+- id: 5.EN.RD.6
+  title: 5.6
+  text: The student will read and demonstrate comprehension of nonfiction texts.
+  subs: 
+    - Use text organizers, such as type, headings, and graphics, to predict and categorize information in both print and digital texts.
+    - Use prior knowledge and build additional background knowledge as context for new learning.
+    - Skim materials to develop a general overview of content and to locate specific information.
+    - Identify the main idea of nonfiction texts.
+    - Summarize supporting details in nonfiction texts.
+    - Identify structural patterns found in nonfiction.
+    - Locate information to support opinions, predictions, and conclusions.
+    - Identify cause and effect relationships following transition words signaling the pattern.
+    - Differentiate between fact and opinion.
+    - Identify, compare, and contrast relationships.
+    - Identify new information gained from reading.
+    - Use reading strategies throughout the reading process to monitor comprehension.
+    - Read with fluency and accuracy. 
+
+- id: 5.EN.WR.7
+  title: 5.7
+  text: The student will write for a variety of purposes: to describe, to inform, to entertain, to explain, and to persuade.
+  subs:
+    - Identify intended audience.
+    - Use a variety of prewriting strategies.
+    - Organize information to convey a central idea.
+    - Write a clear topic sentence focusing on the main idea.
+    - Write multiparagraph compositions.
+    - Use precise and descriptive vocabulary to create tone and voice.
+    - Vary sentence structure by using transition words.
+    - Revise for clarity of content using specific vocabulary and information.
+    - Include supporting details that elaborate the main idea.
+
+- id: 5.EN.WR.8
+  title: 5.8
+  text: The student will edit writing for correct grammar, capitalization, spelling, punctuation, sentence structure, and paragraphing.
+  subs:
+    - Use plural possessives.
+    - Use adjective and adverb comparisons.
+    - Identify and use interjections.
+    - Use apostrophes in contractions and possessives.
+    - Use quotation marks with dialogue.
+    - Use commas to indicate interrupters.
+    - Use a hyphen to divide words at the end of a line.
+    - Edit for fragments and run-on sentences.
+    - Eliminate double negatives.
+    - Use correct spelling of commonly used words.
+    - Identify and use conjunctions.
+
+- id: 5.EN.RE.9
+  title: 5.9
+  text: The student will find, evaluate, and select appropriate resources for a research product.
+  subs:
+    - Construct questions about a topic.
+    - Collect information from multiple resources including online, print, and media.
+    - Use technology as a tool to research, organize, evaluate, and communicate information.
+    - Organize information presented on charts, maps, and graphs.
+    - Develop notes that include important concepts, summaries, and identification of information sources.
+    - Give credit to sources used in research.
+    - Define the meaning and consequences of plagiarism.

@@ -1,0 +1,83 @@
+- id: HS.CSP.SYS.1
+  title: CSP.1
+  text: The student will develop and apply criteria for evaluating a computer system for a given purpose.
+  subs: []
+
+- id: HS.CSP.SYS.2
+  title: CSP.2
+  text: The student will illustrate ways computing systems implement logic, input, and output through hardware components.
+  subs: []
+
+- id: HS.CSP.NI.3
+  title: CSP.3
+  text: The student will explain abstractions enabling
+  subs:
+    - one computer to communicate with another over an Internet connection; and
+    - different layers of Internet technology to build on one another.
+
+- id: HS.CSP.NI.4
+  title: CSP.4
+  text: The student will explain design principles enabling large-scale operation of the Internet to connect devices and networks all over the world.
+  subs: []
+
+- id: HS.CSP.CY.5
+  title: CSP.5
+  text: The student will explain symmetric and asymmetric encryption as they pertain to messages being sent on a network.
+  subs: []
+
+- id: HS.CSP.DA.6
+  title: CSP.6
+  text: The student will discuss the methods and tradeoffs of collecting and analyzing data elements on a large scale.
+  subs: []
+
+- id: HS.CSP.DA.7
+  title: CSP.7
+  text: The student will select data collection tools and techniques to generate data sets that support a claim or communicate information. Implement a relational database to work with data.
+  subs: []
+
+- id: HS.CSP.DA.8
+  title: CSP.8
+  text: The student will discuss how data representations can be interpreted in a variety of forms, convert between data representations, and analyze the representation tradeoffs among various forms of digital information.
+  subs: []
+
+- id: HS.CSP.AP.9
+  title: CSP.9
+  text: The student will design and implement algorithms with
+  subs:
+    - compound conditional execution; and
+    - a variety of loop control structures.
+
+- id: HS.CSP.AP.10
+  title: CSP.10
+  text: The student will solve a complex problem by decomposing it into subtasks consisting of predefined functions and user-defined functions.
+  subs: []
+
+- id: HS.CSP.AP.11
+  title: CSP.11
+  text: The student will store, process, and manipulate data contained in a data structure.
+  subs: []
+
+- id: HS.CSP.AP.12
+  title: CSP.12
+  text: The student will systematically debug a program using an appropriate set of data.
+  subs: []
+
+- id: HS.CSP.IC.13
+  title: CSP.13
+  text: The student will explain how computing has impacted innovations in other fields positively and negatively, and enables collaboration between a variety of people.
+  subs: []
+
+- id: HS.CSP.IC.14
+  title: CSP.14
+  text: The student will evaluate the impact of equity, access, and influence on the distribution of computing resources in a global society, including the impacts of cloud computing.
+  subs: []
+
+- id: HS.CSP.IC.15
+  title: CSP.15
+  text: The student will explain how intellectual property concerns affect the tools for and products of computing, including combining existing content to create new artifacts and the impact of open source and free software.
+  subs: []
+
+- id: HS.CSP.IC.16
+  title: CSP.16
+  text: The student will evaluate the social and economic implications of privacy in the context of safety, law, or ethics.
+  subs: []

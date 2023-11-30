@@ -12,6 +12,11 @@ CSF:
     inherit: CS
     subject: CS
     grades: HS
+CSP:
+    title: Computer Science Principles
+    inherit: CS
+    subject: CS
+    grades: HS
 PRG:
     title: Computer Science Programming
     inherit: CS

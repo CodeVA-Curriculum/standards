@@ -1,0 +1,77 @@
+  - id: K.SEL.SEA.1
+    title: SeA1:K
+    text: Recognize and understand the interaction between one’s own thoughts and emotions. (Critical Thinking) 
+    sub:
+      - I can name basic emotions.
+      - I can classify emotions as either comfortable or uncomfortable. 
+      - I can be aware of how my body feels when I have different emotions. 
+
+  - id: K.SEL.SEA.2
+    title: SeA2:K
+    text: Develop a positive identity and recognize personal strengths, interests, values, and challenges. (Creative Thinking)
+    subs:
+      - I can list things I do well (strengths) and things I like (interests). 
+      - I can recognize when things are hard for me and that it is okay to make mistakes, or ask for help.
+      - I can identify a value/something important to me.
+      - I can recognize how I have similarities with others as well as how I am unique.
+
+  - id: K.SEL.SEM.1
+    title: SeM1:K
+    text: "Develop and demonstrate strategies for managing and expressing one's own emotions to persevere in challenging situations. (Communication)" 
+    subs: 
+      - I can use verbal and nonverbal language to communicate different emotions.  
+      - I can identify strategies that allow me to stay calm. 
+      - I can define and identify a time when I showed courage and perseverance. 
+ 
+  - id: K.SEL.SEM.2
+    title: SeM2:K
+    text: Demonstrate the skills related to achieving personal and academic goals. (Creative Thinking)  SOCIAL AWARENESS 
+    subs: 
+      - I can describe something I have accomplished. 
+      - I can identify a personal or academic goal.
+      - I can work independently and ask for help when needed. 
+
+  - id: K.SEL.SOA.1
+    title: SoA1:K
+    text: Demonstrate the ability to empathize with and show gratitude for others, including those with different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration) 
+    subs:
+      - I can recognize the feelings and strengths of others. 
+      - I can identify and value similarities and differences in abilities, cultures, traditions and beliefs.
+      - I can explain why I am grateful for someone or something in my life. 
+
+  - id: K.SEL.SOA.2
+    title: SoA2:K
+    text: Demonstrate the ability to understand broader historical and social contexts’ impact on humanity. (Citizenship) RELATIONSHIP SKILLS 
+    subs:
+      - I can explain why something is fair or unfair. 
+
+  - id: K.SEL.RES.1
+    title: ReS1:K
+    text:  Apply verbal and non-verbal communication and listening skills to interact with others, form and maintain positive relationships, and resolve conflict constructively. (Communication)
+    subs:
+      -  I can be considerate of others by taking turns, sharing; and using compliments to encourage others.
+      - I can name the actions of an active listener.
+      - I can recognize when I can solve a problem on my own or when I need adult support. 
+      - I can identify situations that are unkind or unfair. 
+
+  - id: K.SEL.RES.2
+    title: ReS2:K
+    text: Demonstrate the ability to effectively collaborate and navigate relationships while valuing different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration)
+    subs:
+       - I can name the actions of a helpful teammate or group member. 
+       - I can understand that everyone has a need for personal space. 
+
+  - id: K.SEL.DEM.1
+    title: DeM1:K
+    text: Demonstrate the ability to evaluate, through reflection, the benefits and consequences of various actions within the decision-making process. (Critical Thinking) 
+    subs:
+      - I can describe a problem. 
+      - I can recognize there may be more than one way to solve a problem. 
+      - I can describe that all actions have outcomes. 
+
+  - id: K.SEL.DEM.2
+    title: DeM2:K
+    text: "Demonstrate the ability to make ethical decisions as a global citizen and evaluate outcomes based on one's own identity and the impact on humanity. (Citizenship)" 
+    subs:
+      - I can describe how I want to be treated. 
+      - I can feel good about myself by showing kindness towards others.

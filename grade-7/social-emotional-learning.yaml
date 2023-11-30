@@ -1,0 +1,80 @@
+  - id: 7.SEL.SEA.1
+    title: SeA1:7-8
+    text: Recognize and understand the interaction between one’s own thoughts and emotions. (Critical Thinking) 
+    sub:
+      - I can analyze current or past emotions by considering what caused them; as well as, how long they lasted (duration).
+      - I can recognize the relationship between my self-talk and emotions. 
+      - I can analyze my emotions based on my body signals, events, and situations.
+      
+  - id: 7.SEL.SEA.2
+    title: SeA2:7-8
+    text: Develop a positive identity and recognize personal strengths, interests, values, and challenges. (Creative Thinking)
+    subs:
+      - I can analyze how my personal strengths, interests, challenges, and values influence my ability to plan for the future.
+      - I can identify and communicate what motivates me when taking on challenges.
+      - I can identify how my values and experiences influence my own learning.
+      - I can comfortably talk about myself and positively describe my various group identities. 
+
+  - id: 7.SEL.SEM.1
+    title: SeM1:7-8
+    text: "Develop and demonstrate strategies for managing and expressing one's own emotions to persevere in challenging situations. (Communication)" 
+    subs:
+      - I can identify the difference between healthy and unhealthy stress levels.
+      - I can apply coping skills to process thoughts, express my emotions and manage stressful situations.
+      - I can reframe a challenging situation into a positive or learning opportunity for growth.
+
+  - id: 7.SEL.SEM.2
+    title: SeM2:7-8
+    text: Demonstrate the skills related to achieving personal and academic goals. (Creative Thinking)  SOCIAL AWARENESS 
+    subs: 
+      - I can evaluate my goals in relation to my previous accomplishments.
+      - I can monitor progress toward a specified goal by developing checkpoints or adjusting the plan as needed.
+      - I can evaluate how my ability to prioritize and manage my time impacts my goal achievement.
+      
+  - id: 7.SEL.SOA.1
+    title: SoA1:7-8
+    text: Demonstrate the ability to empathize with and show gratitude for others, including those with different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration) 
+    subs:
+      - I can accept when the viewpoints or perceptions of others are different from mine.
+      - I can develop an understanding and appreciation of different abilities, backgrounds, cultures and social groups.
+      - I can independently express gratitude in multiple settings.
+
+  - id: 7.SEL.SOA.2
+    title: SoA2:7-8
+    text: Demonstrate the ability to understand broader historical and social contexts’ impact on humanity. (Citizenship) RELATIONSHIP SKILLS 
+    subs:
+      - I can recognize and describe unfairness and injustice in many forms including attitudes, speech, behaviors, policies, practices, and laws.
+      - I can explain the difference between conscious bias and unconscious bias. 
+
+  - id: 7.SEL.RES.1
+    title: ReS1:7-8
+    text:  Apply verbal and non-verbal communication and listening skills to interact with others, form and maintain positive relationships, and resolve conflict constructively. (Communication)
+    subs:
+      - I can explain how my interactions directly impact my reputation and relationships (including interactions on social and digital media).
+      - I can recognize the non-verbal communication of others to improve my listening skills.
+      - I can outline and practice the use of conflict resolution skills to solve problems peacefully.
+      - I can identify causes that matter to me and how I can advocate or take action for change. 
+
+  - id: 7.SEL.RES.2
+    title: ReS2:7-8
+    text: Demonstrate the ability to effectively collaborate and navigate relationships while valuing different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration)
+    subs:
+      - I can advocate for my role within a group as well as for the inclusion of others.
+      - I can identify a relationship building skill that I would like to improve.
+      - I can identify characteristics of positive and negative relationships.
+      - I can offer and receive constructive feedback.
+
+  - id: 7.SEL.DEM.1
+    title: DeM1:7-8
+    text: Demonstrate the ability to evaluate, through reflection, the benefits and consequences of various actions within the decision-making process. (Critical Thinking) 
+    subs:
+      - I can reflect on lessons learned from actual experiences to inform future practices.
+      - I can demonstrate open-mindedness by evaluating how external factors can impact my decision-making.
+      - I can compare and contrast possible outcomes of my decisions.
+
+  - id: 7.SEL.DEM.2
+    title: DeM2:7-8
+    text: "Demonstrate the ability to make ethical decisions as a global citizen and evaluate outcomes based on one's own identity and the impact on humanity. (Citizenship)" 
+    subs:
+      - I can evaluate how my membership in multiple groups combine to make me who I am and that none of my individual groups on their own fully defines me.
+      - I can evaluate how my decisions impact myself and others.

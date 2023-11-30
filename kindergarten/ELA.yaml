@@ -1,0 +1,119 @@
+- id: K.EN.OL.1
+  title: K.1
+  text: The student will demonstrate growth in the use of oral language. 
+  subs:
+    - Listen to a variety of literary forms, including stories and poems. 
+    - Participate in a variety of oral language activities including choral and echo speaking and recitation of short poems, rhymes, songs, and stories with repeated word order patterns.
+    - Participate in oral generation of language experience narratives. 
+    - Participate in creative dramatics.
+    - Use complete sentences that include subject, verb, and object. 
+
+- id: K.EN.OL.2
+  title: K.2
+  text: The student will expand understanding and use of word meanings. 
+  subs:
+    - Increase listening and speaking vocabularies. 
+    - Use number words. 
+    - Use words to describe/name people, places, and things. 
+    - Use words to describe/name location, size, color, and shape. 
+    - Use words to describe/name actions.
+    - Ask about words not understood.
+    - Use vocabulary from other content areas. 
+
+- id: K.EN.OL.3
+  title: K.3
+  text: The student will build oral communication skills. 
+  subs:
+    - Express ideas in complete sentences and express needs through direct requests. 
+    - Begin to initiate conversations.
+    - Begin to follow implicit rules for conversation, including taking turns and staying on topic.
+    - Listen and speak in informal conversations with peers and adults. 
+    - Participate in group and partner discussions about various texts and topics.
+    - Begin to use voice level, phrasing, and intonation appropriate for various language situations.
+    - Follow one- and two-step directions. 
+    - Begin to ask how and why questions.
+    
+- id: K.EN.OL.4
+  title: K.4
+  text: The student will identify, say, segment, and blend various units of speech sounds. 
+  subs:
+    - Begin to discriminate between spoken sentences, words, and syllables. 
+    - Identify and produce words that rhyme.
+    - Blend and segment multisyllabic words at the syllable level. 
+    - Segment one-syllable words into speech sound units including beginning phoneme(s) (onset) and ending (rimes). 
+    - Identify words according to shared beginning and/or ending sounds. 
+
+- id: K.EN.RD.5
+  title: K.5
+  text: The student will understand how print is organized and read.
+  subs:
+    - Hold print materials in the correct position.
+    - Identify the front cover, back cover, and title page of a book. 
+    - Distinguish between print and pictures. 
+    - Follow words from left to right and from top to bottom on a printed page. 
+    - Match voice with print (concept of word).
+
+- id: K.EN.RD.6
+  title: K.6
+  text: The student will demonstrate an understanding that print conveys meaning. 
+  subs:
+    - Identify common signs and logos. 
+    - Explain that printed materials provide information. 
+    - Read and explain own writing and drawings. 
+    - Read his/her name and read fifteen meaningful, concrete words. 
+
+- id: K.EN.RD.7
+  title: K.7
+  text: The student will develop an understanding of basic phonetic principles.
+  subs:
+    - Identify and name the uppercase and lowercase letters of the alphabet.
+    - Match consonant, short vowel, and initial consonant digraph sounds to appropriate letters. 
+    - Demonstrate a speech-to-print match through accurate finger-point reading in familiar text that includes words with more than one syllable. 
+    - Identify beginning consonant sounds in single-syllable words. 
+
+- id: K.EN.RD.8
+  title: K.8
+  text: The student will expand vocabulary. 
+  subs:
+    - Discuss meanings of words. 
+    - Develop vocabulary by listening to a variety of texts read aloud. 
+
+- id: K.EN.RD.9
+  title: K.9
+  text: The student will demonstrate comprehension of fictional texts. 
+  subs:
+    - Identify what an author does and what an illustrator does. 
+    - Relate previous experiences to what is read. 
+    - Use pictures to make predictions. 
+    - Begin to ask and answer questions about what is read. 
+    - Use story language in discussions and retellings. 
+    - Retell familiar stories, using beginning, middle, and end. 
+    - Discuss characters, setting, and events. 
+
+- id: K.EN.RD.10
+  title: K.10
+  text: The student will demonstrate comprehension of nonfiction texts. 
+  subs:
+    - Use pictures to identify topic and make predictions. 
+    - Identify text features specific to the topic, such as titles, headings, and pictures. 
+
+- id: K.EN.WR.11
+  title: K.11
+  text: The student will print in manuscript. 
+  subs:
+    - Print uppercase and lowercase letters of the alphabet independently. 
+    - Print his/her first and last names. 
+
+- id: K.EN.WR.12
+  title: K.12
+  text: The student will write to communicate ideas for a variety of purposes. 
+  subs:
+    - Differentiate pictures from writing. 
+    - Draw pictures and/or use letters and phonetically spelled words to write about experiences. 
+    - Use letters and beginning consonant sounds to spell phonetically words to describe pictures or write about experiences. 
+    - Write left to right and top to bottom. 
+
+- id: K.EN.WR.13
+  title: K.13
+  text: The student will use available technology for reading and writing.
+  subs: []

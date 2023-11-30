@@ -1,0 +1,153 @@
+  - id: 7.CVE.SK.0
+    title: Skills CE
+    text: The student will apply history and social science skills to the content by
+    subs:
+      - selecting and synthesizing evidence from information sources, including, but not limited to artifacts, primary and secondary sources, charts, graphs, and diagrams to understand civics and economics;
+      - applying geographic skills to determine and predict patterns and trends of people, places, or events;
+      - developing questions, enhancing curiosity, and engaging in critical thinking and analysis;
+      - integrating evidence to construct and analyze timelines, classify events, and to distinguish fact and opinion; 
+      - comparing and contrasting historical, cultural, economic, and political perspectives;
+      - determining and explaining cause and effect relationships;
+      - analyzing the costs and benefits and incentives and consequences of a specific choice using various economic decision-making models;
+      - engaging and communicating as a civil and informed individual with persons with different perspectives; and 
+      - developing products that reflect an understanding of research, content, and civics and economic concepts.
+
+  - id: 7.CVE.ACG.1
+    title: CE.1
+    text: The student will apply history and social science skills to explain the foundations of the American constitutional democracy by
+    subs:
+      - explaining the fundamental principles of limited government, republicanism, federalism, checks and balances, separation of powers, and popular sovereignty; 
+      - describing the Magna Carta, English common law, charters of the Virginia Company of London (April 10, 1606; May 23, 1609; and March 12, 1612), the Virginia Declaration of Rights, the Declaration of Independence, the Articles of Confederation, and the Virginia Statute for Religious Freedom and their influence on the Constitution of Virginia and the Constitution of the United States, including the Bill of Rights;
+      - comparing and contrasting debates, compromises, and plans surrounding the drafting and ratification of the U.S. Constitution and the Bill of Rights; 
+      - describing the purpose of the Constitution of the United States as stated in its Preamble;
+      - explaining the fundamental concepts of the U.S. government, including but not limited to  due process, equal justice under the law, equal protection, elections and a representative government, limited government, right to private property, rule of law, Supremacy Clause, and separation of powers; and
+      - describing the procedures for amending the Constitution of Virginia and the Constitution of the United States. 
+
+  - id: 7.CVE.ACG.2
+    title: CE.2
+    text: The student will apply history and social science skills to analyze how American constitutional government functions at the national level by
+    subs:
+      - describing the structure and powers of the government (the three branches of government);
+      - explaining the legislative branch and the lawmaking process as explained in Article I of the U.S. Constitution; 
+      - explaining the particular role and powers of the executive branch as explained in Article II of the U.S. Constitution;
+      - explaining the particular role and powers of the judicial branch as explained in Article III of the U.S. Constitution; and 
+      - explaining the principle of separation of powers and the operation of checks and balances.
+
+  - id: 7.CVE.ACG.3
+    title: CE.3
+    text: The student will apply history and social science skills to analyze how constitutional government functions at the state level by
+    subs:
+      - describing the structure and powers of the state government (the three branches of government);
+      - explaining the state lawmaking process; 
+      - describing the roles and powers of the executive branch and regulatory boards as they affect states;
+      - explaining the relationship between state governments and the national government in the federal system, referencing Federalist No.10 and Federalist No. 51; and
+      - explaining the principle of separation of powers and the operation of checks and balances at the state level.
+
+  - id: 7.CVE.ACG.4
+    title: CE.4
+    text: The student will apply history and social science skills to analyze American constitutional government at the local level by
+    subs:
+      - describing the structure and powers of the local government and explaining the local lawmaking process;
+      - describing how state, national, and international issues and events impact local decision making; and 
+      - comparing and contrasting powers and responsibilities of local, state, federal, and tribal governments, including, but not limited to citizen engagement, how each is financed, and how they work together and independently.
+
+  - id: 7.CVE.ACG.5
+    title: CE.5
+    text: The student will apply history and social science skills to explain the judicial systems established by the Constitution of Virginia and the Constitution of the United States by
+    subs:
+      - describing the system of state and federal courts, including, but not limited to jurisdiction and judicial review;
+      - describing how due-process protections seek to ensure justice;
+      - comparing and contrasting civil and criminal cases; and
+      - explaining the effects of Supreme Court cases affecting the judiciary, including, but not limited to Marbury v. Madison.
+
+  - id: 7.CVE.CCL.6
+    title: CE.6
+    text: The student will apply history and social science skills to define citizenship by
+    subs:
+      - describing the processes by which an individual becomes a citizen of the United States;
+      - describing the rights and privileges guaranteed by the First Amendment, including freedoms of religion, speech, press, assembly, and petition, the rights guaranteed by due process and equal protection under the law (Fifth, Sixth, and Fourteenth Amendments), and protection from unreasonable government search and seizure (Fourth Amendment);
+      - examining ways to peacefully work for change in communities or the nation by participating in political campaigns and methods of peacefully petitioning the government for change; 
+      - examining how civic participation can address community needs and serve the public good, including the importance of volunteering, staying informed about current issues, and respecting differing beliefs in a diverse society;
+      - examining the process and importance of immigration policies at different points in U.S. history; and
+      - reviewing the criteria and exam for naturalizing U.S. citizens.
+
+  - id: 7.CVE.CCL.
+    title: CE.7
+    text: The student will apply history and social science skills that exhibit effective and respectful participation in civic life, including, but not limited to civility, trustworthiness and honesty, courtesy and respect for the rights of others, personal responsibility, military service, self-reliance, hard work, respect for the law, patriotism, and service in one’s community.
+    subs: []
+
+  - id: 7.CVE.PP.8
+    title: CE.8
+    text: The student will apply history and social science skills to examine the political process at the local, state, and national levels of government by
+    subs:
+        - describing the origins, history, and functions of political parties;
+        - analyzing campaigns for elective office, with emphasis on the roles of candidates, volunteers, the media, voters, and poll watchers;
+        - explaining the role of campaign contributions and the cost of campaigns;
+        - examining the history of and requirements for voter registration; and
+        - describing the role of the Electoral College in the election of the president and vice president.
+
+  - id: 7.CVE.PP.9
+    title: CE.9
+    text: The student will apply history and social science skills to explain the role of the media and social media and the influence on local, state, and national levels of government by
+    subs:
+      - explaining the role and rights of the press in reporting events;
+      - describing the effect biased reporting can have on public opinion;
+      - explaining that individuals play in the political policy-making process by expressing their opinions formally or informally via print, electronically, or in person; 
+      - evaluating the effect of social media on political campaigns, politics, and civic discourse;
+      - identifying the source of information and considering possible motivations or biases of its creator; and
+      - evaluating multiple sources describing the same event or idea and reflecting on the reasons for any discrepancies. 
+
+  - id: 7.CVE.PP.10
+    title: CE.10
+    text: The students will apply history and social science skills to analyze the role of public participation in American civic life by
+    subs:
+      - describing duties of citizens, including paying taxes, serving on a jury, following the law, voting, and registering for selective service; 
+      - evaluating voting dates and processes in Virginia; and
+      - explaining voter eligibility and requirements for registration.
+
+  - id: 7.CVE.ED.11
+    title: CE.11
+    text: The student will apply history and social science skills to analyze how economic decisions are made in the marketplace and in daily life by
+    subs:
+      - explaining that because of scarcity, consumers, producers, and governments must make economic choices, and understanding that all choices have an opportunity cost;
+      - explaining the importance of innovation and productivity, including the freedom to choose occupations, the role of technology, and the development of human capital; and
+      - comparing and contrasting free-market, command, and mixed economies to determine how each affects the allocation of limited resources and the subsequent effects on individuals’ lives. 
+
+  - id: 7.CVE.ED.12
+    title: CE.12
+    text: The student will apply history and social science skills to describe the United States economy by
+    subs:
+      - evaluating the shared fundamental principles and connection of free enterprise and democracy;
+      - describing the critical components of the United States economy, such as limited government, private property, markets, consumer sovereignty, and competition;
+      - explaining the effect of supply and demand in a market economy on consumer prices and the concept of inflation;
+      - describing the types of business organizations and the role of entrepreneurship;
+      - explaining the role of consumers, producers, and government interactions on the economy;
+      - explaining how financial institutions are critical to creating capital to fuel economic growth for individuals and the larger economy by channeling funds from savers to borrowers through lending; and
+      - analyzing the role of Virginia in the United States and global economies, with an emphasis on the effect of technological innovations.
+
+
+  - id: 7.CVE.ED.13
+    title: CE.13
+    text: The student will apply history and social science skills to analyze the role of government in the United States economy by
+    subs:
+      - examining the effect of competition in the marketplace;
+      - explaining how and why government provides certain public goods and services;
+      - describing how local, state, and federal governments allocate their budgets and collect taxes to pay for goods and services;
+      - explaining the structure and main function of the Federal Reserve System and how it acts as the nation’s central bank;
+      - explaining the role of government currency and analyzing the purpose of a money economy;
+      - describing how governments regulate commerce to protect consumers, the environment, competition in the marketplace, and property rights; and
+      - evaluating how and why governments regulate industry, labor, competition, and monopolies in the marketplace.
+
+   - id: 7.CVE.ED.14
+    title: CE.14
+    text: The student will apply history and social science skills to explain career opportunities and understand the fundamentals of personal finance by
+    subs:
+      - identifying the talents, interests, and aspirations that can influence career choice;
+      - identifying the attitudes and behaviors that strengthen the individual work ethic and promote career success;
+      - identifying human capital, abilities, intellectual and physical skills, work habits, and education and the changing supply of and demand for them in the economy;
+      - examining the effect of technological change and globalization on career opportunities;
+      - describing the importance of education to one’s intellectual life, lifelong learning, and personal goals;
+      - analyzing the role of financial responsibility in good citizenship, including, but not limited to evaluating common forms of credit, savings, and investments; 
+      - describing the importance of equal opportunities for access to education and training; and
+      - researching jobs and careers in the public and private sector and understanding the pathways to various careers.
+

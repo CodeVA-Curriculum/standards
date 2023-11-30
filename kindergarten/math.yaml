@@ -7,11 +7,9 @@
 
 - id: K.MT.NS.2
   title: K.2
-  text: The student, given no more than three sets, each set containing 10 or fewer concrete
-objects, will
+  text: The student, given no more than three sets, each set containing 10 or fewer concrete objects, will
   subs: 
-    - compare and describe one set as having more, fewer, or the same number of objects as
-the other set(s); and
+    - compare and describe one set as having more, fewer, or the same number of objects as the other set(s); and
     - compare and order sets from least to greatest and greatest to least.
 
 - id: K.MT.NS.3
@@ -20,72 +18,62 @@ the other set(s); and
   subs: 
     - count forward orally by ones from 0 to 100;
     - count backward orally by ones when given any number between 1 and 10;
-    - identify the number after, without counting, when given any number between 0 and 100
-and identify the number before, without counting, when given any number between 1
-and 10; and
+    - identify the number after, without counting, when given any number between 0 and 100 and identify the number before, without counting, when given any number between 1 and 10; and
     - count forward by tens to determine the total number of objects to 100.
 
-  - id: K.MT.NS.4
+- id: K.MT.NS.4
   title: K.4
   text: The student will 
   subs: 
     - recognize and describe with fluency part-whole relationships for numbers up to 5; and
     - investigate and describe part-whole relationships for numbers up to 10.
 
-  - id: K.MT.NS.5
+- id: K.MT.NS.5
   title: K.5
-  text: The student will investigate fractions by representing and solving practical problems
-involving equal sharing with two sharers
-  subs: 
+  text: The student will investigate fractions by representing and solving practical problems involving equal sharing with two sharers
+  subs: []
 
-  - id: K.MT.CE.6
+- id: K.MT.CE.6
   title: K.6
-  text: The student will model and solve single-step story and picture problems with sums to 10
-and differences within 10, using concrete objects.
-  subs: 
+  text: The student will model and solve single-step story and picture problems with sums to 10 and differences within 10, using concrete objects.
+  subs: []
 
-  - id: K.MT.MG.7
+- id: K.MT.MG.7
   title: K.7
-  text: The student will recognize the attributes of a penny, nickel, dime, and quarter and identify
-the number of pennies equivalent to a nickel, a dime, and a quarter.
-  subs: 
+  text: The student will recognize the attributes of a penny, nickel, dime, and quarter and identify the number of pennies equivalent to a nickel, a dime, and a quarter.
+  subs: []
 
-  - id: K.MT.MG.8
+- id: K.MT.MG.8
   title: K.3
   text: The student will investigate the passage of time by reading and interpreting a calendar
-  subs: 
+  subs: []
 
-  - id: K.MT.MG.9
+- id: K.MT.MG.9
   title: K.3
-  text: The student will compare two objects or events, using direct comparisons, according to one or more of the following attributes: length (longer, shorter), height (taller, shorter), weight
-(heavier, lighter), temperature (hotter, colder), volume (more, less), and time (longer,
-shorter)
-  subs: 
+  text: "The student will compare two objects or events, using direct comparisons, according to one or more of the following attributes: length (longer, shorter), height (taller, shorter), weight (heavier, lighter), temperature (hotter, colder), volume (more, less), and time (longer, shorter)"
+  subs: []
 
-    - id: K.MT.MG.10
+- id: K.MT.MG.10
   title: K.10
   text: The student will
   subs:
     - identify and describe plane figures (circle, triangle, square, and rectangle
-    - compare the size (smaller, larger) and shape of plane figures (circle, triangle, square,
-and rectangle)
-    - describe the location of one object relative to another (above, below, next to) and
-identify representations of plane figures (circle, triangle, square, and rectangle)
-regardless of their positions and orientations in space
+    - compare the size (smaller, larger) and shape of plane figures (circle, triangle, square, and rectangle)
+    - describe the location of one object relative to another (above, below, next to) and identify representations of plane figures (circle, triangle, square, and rectangle) regardless of their positions and orientations in space
 
-    - id: K.MT.PS.11
+- id: K.MT.PS.11
   title: K.11
   text: The student will
   subs: 
     - collect, organize, and represent data;
     - read and interpret data in object graphs, picture graphs, and tables.
 
-    - id: K.MT.PA.12
+- id: K.MT.PA.12
   title: K.12
   text: The student will sort and classify objects according to one attribute.
-  subs: 
+  subs: []
 
-    - id: K.MT.PA.13
+- id: K.MT.PA.13
   title: K.13
   text: The student will identify, describe, extend, create, and transfer repeating patterns.
-  subs: 
+  subs: []

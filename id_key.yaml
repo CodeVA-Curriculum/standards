@@ -17,6 +17,11 @@ CSP:
     inherit: CS
     subject: CS
     grades: HS
+PRG:
+    title: Computer Science Programming
+    inherit: CS
+    subject: CS
+    grades: HS
 CSE:
     title: Middle School CS Elective
     inherit: CS
@@ -30,6 +35,10 @@ MT:
         MG: Measurement & Geometry
         PS: Probability & Statistics
         PA: Patterns, Functions, & Algebra
+ALG1:
+    title: "Algebra 1"
+    inherit: MT
+    grade: HS
 DS:
     title: Data Science
     grades: HS
@@ -53,8 +62,10 @@ EN:
     title: English
     strands:
         OL: Oral Language
+        COM: Communication
         RD: Reading
         WR: Writing
+        RE: Research
 HSS:
     title: History & Social Science
     strands:
@@ -63,6 +74,74 @@ HSS:
         GE: Geography
         EC: Economics
         CV: Civics
+VS:
+    title: Virginia Studies
+    grade: 4
+    subject: HSS
+    strands: 
+        SK: Skills
+        PG: Physical Geography
+        VP: Virginia Indigenous people
+        AR: 1607 through American Revolution
+        PWE: "Political Growth & Western Expansion: 1775 to the Mid-1800s"
+        CWE: Civil War and Postwar Eras
+        VAP: "Virginia: 1900 to Present"
+USI:
+    title: United States History to 1865
+    grade: 5 
+    subject: HSS
+    strands:
+        SK: Skills
+        GA: Geography of North America
+        EA: Early Cultures of North America
+        CR: Colonial America and the American Revolution
+        NE: A New Nation and its Expansion
+        CVW: The Civil War
+ 
+USII:
+    title: United States History 1865 to the Present
+    grade: 6
+    subject: HSS
+    strands:
+        SK: Skills
+        WP: Westward Expansion and Its Impact on Indigenous Peoples
+        ER: Effects of Reconstruction
+        IG: Industrialization and Growth
+        ST: The Second World War and America's Transformation
+        CW: Cold War
+        LEC: Late 20th-Early 21st Century
+        SCT: Science and Technology Since the Turn of the Century
+CVE:
+    title: Civics & Economics
+    grade: 7
+    subject: HSS
+    strands:
+        SK: Skills
+        ACG: American Constitutional Government
+        CCL: Citizenship and Civic Life
+        PP: The Political Process
+        ED: Economic Decisions
+WG:
+    title: World Geography 
+    grade: 8
+    subject: HSS
+    strands:
+        SK: Skills
+        ING:  Introduction to Geography
+        RE: Resources and the Environment
+        CIR: Classifying and Identifying Regions
+        PM: Population and Migration
+        CL: Cultural
+        GN: Globalization
+        POG: Political Geography
+SEL:
+    title: Social Emotional Learning
+    strands:
+        SEA: Self-Awareness
+        SEM: Self-Management
+        SOA: Social Awareness 
+        RES: Relationship Skills
+        DEM: Decision Making
 MU:
     title: Music
     strands:

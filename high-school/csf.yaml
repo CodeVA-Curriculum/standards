@@ -1,0 +1,132 @@
+- id: HS.CSF.SYS.1
+  title: CSF.1
+  text: The student will
+  subs: [
+    "compare the structures, functions, and interactions between application software, system software, and hardware; and",
+    "explore the relationship between hardware and software using the Internet of Things."
+  ]
+
+- id: HS.CSF.NI.2
+  title: CSF.2
+  text: The student will model how information is broken down into smaller pieces, transmitted as packets through multiple devices over networks and the Internet, and reassembled at the destination.
+  subs: []
+
+- id: HS.CSF.NI.3
+  title: CSF.3
+  text: The student will explain the role of protocols in transmitting data across networks and the Internet.
+  subs: []
+
+- id: HS.CSF.NI.4
+  title: CSF.4
+  text: The student will evaluate the scalability and reliability of networks, by describing the relationship between routers, switches, servers, topology, and addressing.
+  subs: []
+
+- id: HS.CSF.CY.5
+  title: CSF.5
+  text: The student will identify and explain ways that sensitive data (assets) can be threatened by malware and other computer attacks, using appropriate terminology.
+  subs: []
+
+- id: HS.CSF.CY.6
+  title: CSF.6
+  text: The student will give examples of ways to protect sensitive data (assets) from malware and other computer attacks and evaluate them according to multiple criteria.
+  subs: []
+
+- id: HS.CSF.CY.7
+  title: CSF.7
+  text: The student will explain typical tradeoffs between usability and security and recommend security measures in a given scenario based on these (or other) tradeoffs.
+  subs: []
+
+- id: HS.CSF.CY.8
+  title: CSF.8
+  text: The student will write or adapt a program to validate its input and to avoid certain kinds of vulnerabilities.
+  subs: []
+
+- id: HS.CSF.DA.9
+  title: CSF.9
+  text: The student will evaluate the tradeoffs in how data elements are organized and where data is stored.
+  subs: []
+
+- id: HS.CSF.DA.10
+  title: CSF.10
+  text: The student will create interactive data visualizations using software tools to help others better understand real-world phenomena.
+  subs: []
+
+- id: HS.CSF.DA.11
+  title: CSF.11
+  text: The student will use data analysis tools and techniques to identify patterns in data representing complex systems.
+  subs: []
+
+- id: HS.CSF.AP.12
+  title: CSF.12
+  text: The student will develop a program working individually and in teams using a text- based language.
+  subs: []
+
+- id: HS.CSF.AP.13
+  title: CSF.13
+  text: The student will identify the expected output of a program given a problem and some input.
+  subs: []
+
+- id: HS.CSF.AP.14
+  title: CSF.14
+  text: The student will design and iteratively develop programs for practical intent or personal expression, incorporating feedback from users.
+  subs: []
+
+- id: HS.CSF.AP.15
+  title: CSF.15
+  text: The student will design and implement algorithms using
+  subs:
+    - sequencing of instructions;
+    - conditional execution; and
+    - iteration.
+  
+- id: HS.CSF.AP.16
+  title: CSF.16
+  text: The student will implement a program that accepts input values, stores them in appropriately named variables, and produces output.
+  subs: []
+
+- id: HS.CSF.AP.17
+  title: CSF.17
+  text: The student will trace the execution of an algorithm, illustrating output and changes in values of named variables.
+  subs: []
+
+- id: HS.CSF.AP.18
+  title: CSF.18
+  text: The student will apply the basic operations used with numeric and non-numeric data types in developing programs.
+  subs: []
+
+- id: HS.CSF.AP.19
+  title: CSF.19
+  text: The student will use predefined functions to simplify the solution of a complex problem.
+  subs: []
+
+- id: HS.CSF.AP.20
+  title: CSF.20
+  text: The student will apply simple algorithms to a collection of data.
+  subs: []
+
+- id: HS.CSF.AP.21
+  title: CSF.21
+  text: The student will create programs
+  subs: 
+    - demonstrating an understanding that program development is an ongoing process that requires adjusting and debugging along the way; and
+    - using version control to create and refine programs.
+  
+- id: HS.CSF.IC.22
+  title: CSF.22
+  text: The student will use tools and methods for collaboration on a project to increase connectivity of people in different cultures and career fields.
+  subs: []
+
+- id: HS.CSF.IC.23
+  title: CSF.23
+  text: The student will evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.
+  subs: []
+
+- id: HS.CSF.IC.24
+  title: CSF.24
+  text: The student will explain the beneficial and harmful effects that intellectual property laws can have on innovation, including the impact of open source software.
+  subs: []
+
+- id: HS.CSF.IC.25
+  title: CSF.25
+  text: The student will explain the privacy concerns related to the collection and generation of data through automated processes that are not always evident to users.
+  subs: []

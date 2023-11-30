@@ -1,7 +1,6 @@
 - id: MS.CSE.AP.1
   title: MSCSE.1
-  text: The student will design and iteratively develop programs that combine control
-structures, including loops and conditionals.
+  text: The student will design and iteratively develop programs that combine control structures, including loops and conditionals.
   subs: []
 
 - id: MS.CSE.AP.2
@@ -17,6 +16,7 @@ structures, including loops and conditionals.
 - id: MS.CSE.AP.4
   title: MSCSE.4
   text: The student will document programs in order to make them easier to trace, test, and debug.
+  subs: []
 
 - id: MS.CSE.IC.5
   title: MSCSE.5

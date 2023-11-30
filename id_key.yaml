@@ -52,8 +52,10 @@ EN:
     title: English
     strands:
         OL: Oral Language
+        COM: Communication
         RD: Reading
         WR: Writing
+        RE: Research
 HSS:
     title: History & Social Science
     strands:
@@ -65,6 +67,7 @@ HSS:
 VS:
     title: Virginia Studies
     grade: 4
+    subject: HSS
     strands: 
         SK: Skills
         PG: Physical Geography
@@ -76,6 +79,7 @@ VS:
 USI:
     title: United States History to 1865
     grade: 5 
+    subject: HSS
     strands:
         SK: Skills
         GA: Geography of North America
@@ -87,6 +91,7 @@ USI:
 USII:
     title: United States History 1865 to the Present
     grade: 6
+    subject: HSS
     strands:
         SK: Skills
         WP: Westward Expansion and Its Impact on Indigenous Peoples
@@ -96,6 +101,37 @@ USII:
         CW: Cold War
         LEC: Late 20th-Early 21st Century
         SCT: Science and Technology Since the Turn of the Century
+CVE:
+    title: Civics & Economics
+    grade: 7
+    subject: HSS
+    strands:
+        SK: Skills
+        ACG: American Constitutional Government
+        CCL: Citizenship and Civic Life
+        PP: The Political Process
+        ED: Economic Decisions
+WG:
+    title: World Geography 
+    grade: 8
+    subject: HSS
+    strands:
+        SK: Skills
+        ING:  Introduction to Geography
+        RE: Resources and the Environment
+        CIR: Classifying and Identifying Regions
+        PM: Population and Migration
+        CL: Cultural
+        GN: Globalization
+        POG: Political Geography
+SEL:
+    title: Social Emotional Learning
+    strands:
+        SEA: Self-Awareness
+        SEM: Self-Management
+        SOA: Social Awareness 
+        RES: Relationship Skills
+        DEM: Decision Making
 MU:
     title: Music
     strands:

@@ -1,156 +1,156 @@
-  - id: 8.WG.SK.0
-    title: Skills WG
-    text: The student will demonstrate skills for historical thinking, geographical analysis, economic decision making, and responsible citizenship by
-    subs:
-      - selecting and synthesizing evidence from information sources, including, but not limited to artifacts, primary and secondary sources, charts, graphs, diagrams, and geospatial technologies, including maps, GIS, and GPS imagery, to understand the regions of the world;
-      - applying geographic skills to determine and predict patterns and movement of people, places, and events;
-      - developing questions, enhancing curiosity, and engaging in critical thinking and analysis; 
-      - investigating and analyzing evidence from multiple sources to construct arguments;
-      - comparing and contrasting historical, cultural, economic, and political perspectives;
-      - determining and explaining cause-and-effect relationships;
-      - using economic decision-making models to analyze and explain the incentives for and consequences of a specific choice;
-      - engaging and communicating as a civil and informed individual with persons with different perspectives; 
-      - developing products that reflect an understanding of research, content, and world geography concepts; and
-      - contextualizing, corroborating, and evaluating sources for credibility, propaganda, and bias to determine patterns and trends to understand the world.
+- id: 8.WG.SK.0
+  title: Skills WG
+  text: The student will demonstrate skills for historical thinking, geographical analysis, economic decision making, and responsible citizenship by
+  subs:
+    - selecting and synthesizing evidence from information sources, including, but not limited to artifacts, primary and secondary sources, charts, graphs, diagrams, and geospatial technologies, including maps, GIS, and GPS imagery, to understand the regions of the world;
+    - applying geographic skills to determine and predict patterns and movement of people, places, and events;
+    - developing questions, enhancing curiosity, and engaging in critical thinking and analysis; 
+    - investigating and analyzing evidence from multiple sources to construct arguments;
+    - comparing and contrasting historical, cultural, economic, and political perspectives;
+    - determining and explaining cause-and-effect relationships;
+    - using economic decision-making models to analyze and explain the incentives for and consequences of a specific choice;
+    - engaging and communicating as a civil and informed individual with persons with different perspectives; 
+    - developing products that reflect an understanding of research, content, and world geography concepts; and
+    - contextualizing, corroborating, and evaluating sources for credibility, propaganda, and bias to determine patterns and trends to understand the world.
 
-  - id: 8.WG.ING.1
-    title: WG.1
-    text: The student will apply history and social science skills to explain how geographic information and geospatial tools are used to make decisions by
-    subs:
-      - explaining how characteristics of regions have led to regional labels;
-      - describing how regional landscapes reflect the physical environment and the cultural characteristics of their inhabitants;
-      - analyzing how cultural characteristics, including the world’s major languages, ethnicities, and religions, link or divide regions; and
-      - explaining how cartography is used to reflect regional perspectives, point of view, and perceptions of an area and the creation of mental maps.
+- id: 8.WG.ING.1
+  title: WG.1
+  text: The student will apply history and social science skills to explain how geographic information and geospatial tools are used to make decisions by
+  subs:
+    - explaining how characteristics of regions have led to regional labels;
+    - describing how regional landscapes reflect the physical environment and the cultural characteristics of their inhabitants;
+    - analyzing how cultural characteristics, including the world’s major languages, ethnicities, and religions, link or divide regions; and
+    - explaining how cartography is used to reflect regional perspectives, point of view, and perceptions of an area and the creation of mental maps.
 
-  - id: 8.WG.RE.2
-    title: WG.2
-    text: The student will apply history and social science skills to evaluate the significance of natural, human, and capital resources by
-    subs:
-      - comparing the distribution of major natural resources throughout world regions;
-      - showing the influence of resources on patterns of economic activity and land use; and
-      - evaluating perspectives regarding the use of resources.
+- id: 8.WG.RE.2
+  title: WG.2
+  text: The student will apply history and social science skills to evaluate the significance of natural, human, and capital resources by
+  subs:
+    - comparing the distribution of major natural resources throughout world regions;
+    - showing the influence of resources on patterns of economic activity and land use; and
+    - evaluating perspectives regarding the use of resources.
 
-  - id: 8.WG.CIR.3
-    title: WG.3
-    text: The student will analyze the characteristics of the regions of the United States and Canada by
-    subs: 
-      - identifying and analyzing the location of major geographic regions and major cities on maps and a globe;
-      - describing major physical and environmental features and how geography may change over time;
-      - analyzing cultural influences and landscapes; and
-      - explaining important economic characteristics, including the distribution of economic activities and global trade. 
+- id: 8.WG.CIR.3
+  title: WG.3
+  text: The student will analyze the characteristics of the regions of the United States and Canada by
+  subs: 
+    - identifying and analyzing the location of major geographic regions and major cities on maps and a globe;
+    - describing major physical and environmental features and how geography may change over time;
+    - analyzing cultural influences and landscapes; and
+    - explaining important economic characteristics, including the distribution of economic activities and global trade. 
 
-  - id: 8.WG.CIR.4
-    title: WG.4
-    text: The student will analyze the characteristics of the regions of Latin America and the Caribbean by
-    subs:
-      - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
-      - describing major physical and environmental features and how geography may change over time;
-      - analyzing cultural influences and landscapes; and 
-      - explaining important economic characteristics, including the distribution of economic activities and global trade.
+- id: 8.WG.CIR.4
+  title: WG.4
+  text: The student will analyze the characteristics of the regions of Latin America and the Caribbean by
+  subs:
+    - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
+    - describing major physical and environmental features and how geography may change over time;
+    - analyzing cultural influences and landscapes; and 
+    - explaining important economic characteristics, including the distribution of economic activities and global trade.
 
-  - id: 8.WG.CIR.5
-    title: WG.5
-    text: The students will analyze the characteristics of the regions of Europe by
-    subs: 
-      - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
-      - describing major physical and environmental features and how geography may change over time;
-      - analyzing cultural influences and landscapes; and 
-      - explaining important economic characteristics, including the distribution of economic activities and global trade. 
+- id: 8.WG.CIR.5
+  title: WG.5
+  text: The students will analyze the characteristics of the regions of Europe by
+  subs: 
+    - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
+    - describing major physical and environmental features and how geography may change over time;
+    - analyzing cultural influences and landscapes; and 
+    - explaining important economic characteristics, including the distribution of economic activities and global trade. 
 
-  - id: 8.WG.CIR.6
-    title: WG.6
-    text: The student will analyze the characteristics of the regions of Russia and Central Asia by
-    subs: 
-      - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
-      - describing major physical and environmental features and how geography may change over time;
-      - analyzing cultural influences and landscapes; and 
-      - explaining important economic characteristics, including the distribution of economic activities and global trade.
+- id: 8.WG.CIR.6
+  title: WG.6
+  text: The student will analyze the characteristics of the regions of Russia and Central Asia by
+  subs: 
+    - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
+    - describing major physical and environmental features and how geography may change over time;
+    - analyzing cultural influences and landscapes; and 
+    - explaining important economic characteristics, including the distribution of economic activities and global trade.
 
-  - id: 8.WG.CIR.7
-    title: WG.7
-    text: The student will analyze the characteristics of the regions of sub-Saharan Africa by
-    subs: 
-      - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
-      - describing major physical and environmental features and how geography may change over time;
-      - analyzing cultural influences and landscapes; and 
-      - explaining important economic characteristics, including the distribution of economic activities and global trade. 
+- id: 8.WG.CIR.7
+  title: WG.7
+  text: The student will analyze the characteristics of the regions of sub-Saharan Africa by
+  subs: 
+    - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
+    - describing major physical and environmental features and how geography may change over time;
+    - analyzing cultural influences and landscapes; and 
+    - explaining important economic characteristics, including the distribution of economic activities and global trade. 
 
-  - id: 8.WG.CIR.8
-    title: WG.8
-    text: The student will analyze the characteristics of the regions of North Africa and Southwest Asia regions by
-    subs:
-      - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
-      - describing major physical and environmental features and how geography may change over time;
-      - analyzing cultural influences and landscapes; and 
-      - explaining important economic characteristics, including the distribution of economic activities and global trade. 
+- id: 8.WG.CIR.8
+  title: WG.8
+  text: The student will analyze the characteristics of the regions of North Africa and Southwest Asia regions by
+  subs:
+    - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
+    - describing major physical and environmental features and how geography may change over time;
+    - analyzing cultural influences and landscapes; and 
+    - explaining important economic characteristics, including the distribution of economic activities and global trade. 
 
-  - id: 8.WG.CIR.9
-    title: WG.9
-    text: The student will analyze the characteristics of the regions of South Asia and Southeast Asia by
-    subs:
-      - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
-      - describing major physical and environmental features and how geography may change over time;
-      - analyzing cultural influences and landscapes; and 
-      - explaining important economic characteristics, including the distribution of economic activities and global trade. 
+- id: 8.WG.CIR.9
+  title: WG.9
+  text: The student will analyze the characteristics of the regions of South Asia and Southeast Asia by
+  subs:
+    - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
+    - describing major physical and environmental features and how geography may change over time;
+    - analyzing cultural influences and landscapes; and 
+    - explaining important economic characteristics, including the distribution of economic activities and global trade. 
 
-  - id: 8.WG.CIR.10
-    title: WG.10
-    text: The student will analyze the characteristics of the East Asian region by 
-    subs:
-      - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
-      - describing major physical and environmental features and how geography may change over time;
-      - analyzing cultural influences and landscapes; and 
-      - explaining important economic characteristics, including the distribution of economic activities and global trade. 
+- id: 8.WG.CIR.10
+  title: WG.10
+  text: The student will analyze the characteristics of the East Asian region by 
+  subs:
+    - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
+    - describing major physical and environmental features and how geography may change over time;
+    - analyzing cultural influences and landscapes; and 
+    - explaining important economic characteristics, including the distribution of economic activities and global trade. 
 
-  - id: 8.WG.CIR.11
-    title: WG.11
-    text: The student will analyze the characteristics of the Australian and Pacific Islands regions by
-    subs:
-      - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
-      - describing major physical and environmental features and how geography may change over time;
-      - analyzing cultural influences and landscapes; and 
-      - explaining important economic characteristics, including the distribution of economic activities and global trade
+- id: 8.WG.CIR.11
+  title: WG.11
+  text: The student will analyze the characteristics of the Australian and Pacific Islands regions by
+  subs:
+    - identifying and analyzing the location of major geographic regions and major cities on maps and globe;
+    - describing major physical and environmental features and how geography may change over time;
+    - analyzing cultural influences and landscapes; and 
+    - explaining important economic characteristics, including the distribution of economic activities and global trade
 
-  - id: 8.WG.PM.12
-    title: WG.12
-    text: The student will apply social science skills to understand the distribution, growth rates, and characteristics of human population by
-    subs:
-      - examining the relationship between demographic data to determine the level of economic development;
-      - distinguishing between developed and developing countries; and
-      - comparing and contrasting the level of economic development to the standard of living, quality of life, form of government, and personal freedom and economic opportunity.
+- id: 8.WG.PM.12
+  title: WG.12
+  text: The student will apply social science skills to understand the distribution, growth rates, and characteristics of human population by
+  subs:
+    - examining the relationship between demographic data to determine the level of economic development;
+    - distinguishing between developed and developing countries; and
+    - comparing and contrasting the level of economic development to the standard of living, quality of life, form of government, and personal freedom and economic opportunity.
 
-  - id: 8.WG.PM.13
-    title: WG.13
-    text: The student will apply history and social science skills to understand population and migration by
-    subs:
-      - explaining how data is used to describe and compare populations; and 
-      - analyzing the causes, impacts, and responses related to migration.
+- id: 8.WG.PM.13
+  title: WG.13
+  text: The student will apply history and social science skills to understand population and migration by
+  subs:
+    - explaining how data is used to describe and compare populations; and 
+    - analyzing the causes, impacts, and responses related to migration.
 
-  - id: 8.WG.CL.14
-    title: WG.14
-    text: The student will apply history and social science skills to determine cultural patterns and interactions across time and place by
-    subs:
-      - identifying and describing characteristics that contribute to cultural identity, cultural groups, and cultural landscapes; and
-      - explaining the intellectual exchanges among cultures, including, but not limited to the areas of science, geography, mathematics, philosophy, medicine, art, and literature.
+- id: 8.WG.CL.14
+  title: WG.14
+  text: The student will apply history and social science skills to determine cultural patterns and interactions across time and place by
+  subs:
+    - identifying and describing characteristics that contribute to cultural identity, cultural groups, and cultural landscapes; and
+    - explaining the intellectual exchanges among cultures, including, but not limited to the areas of science, geography, mathematics, philosophy, medicine, art, and literature.
 
-  - id: 8.WG.CL.15
-    title: WG.15
-    text: The student will apply history and social science skills to analyze the patterns of rural and urban migration and development by
-    subs:
-      - applying the concepts of site and situation to major cities in each region; and
-      - explaining how the functions of towns and cities have changed over time.
+- id: 8.WG.CL.15
+  title: WG.15
+  text: The student will apply history and social science skills to analyze the patterns of rural and urban migration and development by
+  subs:
+    - applying the concepts of site and situation to major cities in each region; and
+    - explaining how the functions of towns and cities have changed over time.
 
-  - id: 8.WG.GN.16
-    title: WG.16
-    text: The student will apply history and social science skills to understand the impact of the growing interdependence of the world by
-    subs:
-      - examining factors that influence the distribution of economic activities and trade; and
-      - analyzing global trade and communication networks.
+- id: 8.WG.GN.16
+  title: WG.16
+  text: The student will apply history and social science skills to understand the impact of the growing interdependence of the world by
+  subs:
+    - examining factors that influence the distribution of economic activities and trade; and
+    - analyzing global trade and communication networks.
 
-  - id: 8.WG.POG.17
-    title: WG.17
-    text: The student will apply history and social science skills to analyze strategic geographic features and resources by
-    subs:
-      - identifying and describing examples of disputed borders and explaining the reasons for the disputes;
-      - describing and explaining examples of the different types of conflicts that may erupt between and among nations; and
-      - analyzing the types of conflicts and cooperation that can occur over the use of rivers and bodies of water.
+- id: 8.WG.POG.17
+  title: WG.17
+  text: The student will apply history and social science skills to analyze strategic geographic features and resources by
+  subs:
+    - identifying and describing examples of disputed borders and explaining the reasons for the disputes;
+    - describing and explaining examples of the different types of conflicts that may erupt between and among nations; and
+    - analyzing the types of conflicts and cooperation that can occur over the use of rivers and bodies of water.

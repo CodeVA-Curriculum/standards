@@ -1,0 +1,111 @@
+- id: 4.EN.COM.1
+  title: 4.1
+  text: The student will use effective oral communication skills in a variety of settings. 
+  subs:
+    - Present accurate directions to individuals and small groups.
+    - Contribute to group discussions across content areas.
+    - Seek ideas and opinions of others.
+    - Use evidence to support opinions.
+    - Use grammatically correct language and specific vocabulary to communicate ideas.
+    - Communicate new ideas to others.
+    - Demonstrate the ability to collaborate with diverse teams.
+    - Demonstrate the ability to work independently.
+
+- id: 4.EN.COM.2
+  title: 4.2
+  text: The student will make and listen to oral presentations and reports.
+  subs:
+    - Use subject-related information and vocabulary.
+    - Listen to and record information.
+    - Organize information for clarity.
+    - Use language and style appropriate to the audience, topic, and purpose.
+
+- id: 4.EN.COM.3
+  title: 4.3
+  text: The student will learn how media messages are constructed and for what purposes. 
+  subs:
+    - Differentiate between auditory, visual, and written media messages.
+    - Identify the characteristics of various media messages.
+
+- id: 4.EN.RD.4
+  title: 4.4
+  text: The student will expand vocabulary when reading.
+  subs:
+    - Use context to clarify meanings of unfamiliar words.
+    - Use knowledge of roots, affixes, synonyms, antonyms, and homophones.
+    - Use word-reference materials, including the glossary, dictionary, and thesaurus.
+    - Develop vocabulary by listening to and reading a variety of texts.
+    - Use vocabulary from other content areas.
+
+- id: 4.EN.RD.5
+  title: 4.5
+  text: The student will read and demonstrate comprehension of fictional texts, narrative nonfiction texts, and poetry.
+  subs: 
+    - Explain the author’s purpose.
+    - Describe how the choice of language, setting, characters, and information contributes to the author’s purpose.
+    - Identify the main idea.
+    - Summarize supporting details.
+    - Identify the problem and solution.
+    - Describe the relationship between text and previously read materials.
+    - Identify sensory words.
+    - Draw conclusions/make inferences about text.
+    - Make, confirm, or revise predictions.
+    - Identify cause and effect relationships.
+    - Use reading strategies throughout the reading process to monitor comprehension.
+    - Read with fluency and accuracy.
+
+- id: 4.EN.RD.6
+  title: 4.6
+  text: The student will read and demonstrate comprehension of nonfiction texts.
+  subs:
+    - Use text structures, such as type, headings, and graphics, to predict and categorize information in both print and digital texts.
+    - Formulate questions that might be answered in the selection.
+    - Explain the author’s purpose.
+    - Identify the main idea.
+    - Summarize supporting details.
+    - Draw conclusions and make simple inferences using textual information as support.
+    - Distinguish between cause and effect.
+    - Distinguish between fact and opinion.
+    - Use prior knowledge and build additional background knowledge as context for new learning.
+    - Identify new information gained from reading.
+    - Use reading strategies throughout the reading process to monitor comprehension.
+    - Read with fluency and accuracy.
+
+- id: 4.EN.WR.7
+  title: 4.7
+  text: The student will write cohesively for a variety of purposes.
+  subs:
+    - Identify intended audience.
+    - Focus on one aspect of a topic.
+    - Use a variety of pre-writing strategies.
+    - Organize writing to convey a central idea.
+    - Recognize different modes of writing have different patterns of organization.
+    - Write a clear topic sentence focusing on the main idea.
+    - Write two or more related paragraphs on the same topic.
+    - Use transition words for sentence variety.
+    - Utilize elements of style, including word choice and sentence variation.
+    - Revise writing for clarity of content using specific vocabulary and information.
+    - Include supporting details that elaborate the main idea.
+
+- id: 4.EN.WR.8
+  title: 4.8
+  text: The student will edit writing for correct grammar, capitalization, spelling, punctuation, sentence structure, and paragraphing.
+  subs:
+    - Use subject-verb agreement.
+    - Include prepositional phrases.
+    - Eliminate double negatives.
+    - Use noun-pronoun agreement.
+    - Use commas in series, dates, and addresses.
+    - Incorporate adjectives and adverbs.
+    - Use correct spelling for frequently used words, including common homophones.
+    - Use singular possessives.
+
+- id: 4.EN.RE.9
+  title: 4.9
+  text: The student will demonstrate comprehension of information resources to research a topic.
+  subs:
+    - Construct questions about a topic.
+    - Collect information from multiple resources including online, print, and media.
+    - Use technology as a tool to organize, evaluate, and communicate information.
+    - Give credit to sources used in research.
+    - Understand the difference between plagiarism and using own words. 

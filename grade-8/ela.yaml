@@ -1,0 +1,113 @@
+- id: 8.EN.COM.1
+  title: 8.1 
+  text: The student will use interviewing techniques to gain information.
+  subs:
+    - Prepare and ask relevant questions for the interview.
+    - Make notes of responses.
+    - Compile, accurately report, and publish responses.
+    - Evaluate the effectiveness of the interview.
+
+- id: 8.EN.COM.2
+  title: 8.2
+  text: The student will develop and deliver oral presentations in groups and individually.
+  subs:
+    - Choose topic and purpose appropriate to the audience.
+    - Choose vocabulary and tone appropriate to the audience, topic, and purpose.
+    - Use appropriate verbal and nonverbal presentation skills.
+    - Respond to audience questions and comments.
+    - Differentiate between standard English and informal language.
+    - Critique oral presentations.
+    - Assume shared responsibility for collaborative work.
+    - Use a variety of strategies to listen actively.
+
+- id: 8.EN.COM.3
+  title: 8.3
+  text: The student will analyze, develop, and produce creative or informational media messages.
+  subs:
+    - Evaluate the persuasive/informational technique being used in nonprint media including television, radio, video, and Internet.
+    - Examine how values and viewpoints are included or excluded and how the media can influence beliefs, behaviors, and interpretations.
+    - Use media and visual literacy skills to create products that express new understandings.
+    - Evaluate sources for relationships between intent and factual content. 
+
+- id: 8.EN.RD.4
+  title: 8.4
+  text: The student will apply knowledge of word origins, analogies, and figurative language to extend vocabulary development within authentic texts.
+  subs:
+    - Identify and analyze an author’s use of figurative language.
+    - Use context, structure, and connotations to determine meaning and differentiate among multiple meanings of words and phrases.
+    - Use roots, affixes, cognates, synonyms, and antonyms to determine the meaning of unfamiliar words and technical vocabulary.
+    - Use dictionaries, thesauruses, and glossaries to determine definition, pronunciation, etymology, spelling, and usage of words.
+    - Discriminate between connotative and denotative meanings and interpret the connotation.
+    - Extend general and specialized vocabulary through speaking, listening, reading, and writing.
+
+- id: 8.EN.RD.5
+  title: 8.5
+  text: The student will read and analyze a variety of fictional texts, narrative nonfiction, and poetry.
+  subs:
+    - Explain the use of symbols and figurative language.
+    - Make inferences and draw conclusions based on explicit and implied information using evidence from text as support.
+    - Explain how authors use characters, conflict, point of view, voice, and tone to create meaning.
+    - Understand the author’s use of conventional elements and characteristics within a variety of genres.
+    - Compare and contrast the author’s use of word choice, dialogue, form, rhyme, rhythm, and voice in different texts.
+    - Compare and contrast authors’ styles.
+    - Identify and ask questions that clarify various viewpoints.
+    - Identify the main idea.
+    - Summarize text relating supporting details.
+    - Identify an author’s organizational pattern using textual clues, such as transitional words and phrases.
+    - Identify cause and effect relationships.
+    - Use prior and background knowledge as a context for new learning.
+    - Use reading strategies to monitor comprehension throughout the reading process.
+
+- id: 8.EN.RD.6
+  title: 8.6
+  text: The student will read, comprehend, and analyze a variety of nonfiction texts.
+  subs:
+    - Draw on background knowledge and knowledge of text structure to understand selections.
+    - Make inferences and draw conclusions based on explicit and implied information using evidence from text as support.
+    - Analyze the author’s qualifications, viewpoint, and impact.
+    - Analyze the author’s use of text structure and word choice.
+    - Analyze details for relevance and accuracy.
+    - Differentiate between fact and opinion.
+    - Identify the main idea.
+    - Summarize the text identifying supporting details.
+    - Identify an author’s organizational pattern using textual clues, such as transitional words and phrases.
+    - Identify cause and effect relationships.
+    - Evaluate, organize, and synthesize information for use in written and oral formats.
+    - Use reading strategies to monitor comprehension throughout the reading process.
+
+- id: 8.EN.WR.7
+  title: 8.7
+  text: The student will write in a variety of forms, including narration, exposition, persuasion, and informational.
+  subs:
+    - Identify intended audience.
+    - Use prewriting strategies to generate and organize ideas.
+    - Distinguish between a thesis statement and a topic sentence.
+    - Organize details to elaborate the central idea and provide unity.
+    - Select specific vocabulary and information for audience and purpose.
+    - Use interview quotations as evidence.
+    - Revise writing for clarity of content, word choice, sentence variety, and transitions among paragraphs.
+    - Use computer technology to plan, draft, revise, edit, and publish writing.
+
+- id: 8.EN.WR.8
+  title: 8.8
+  text: The student will edit writing for correct grammar, capitalization, punctuation, spelling, sentence structure, and paragraphing.
+  subs:
+    - Use a variety of graphic organizers, including sentence diagrams, to analyze and improve sentence formation and paragraph structure.
+    - Use and punctuate correctly varied sentence structures to include conjunctions and transition words.
+    - Choose the correct case and number for pronouns in prepositional phrases with compound objects.
+    - Maintain consistent verb tense across paragraphs.
+    - Use comparative and superlative degrees in adverbs and adjectives.
+    - Use quotation marks with dialogue and direct quotations.
+    - Use correct spelling for frequently used words.
+
+- id: 8.EN.RE.9
+  title: 8.9
+  text: The student will apply knowledge of appropriate reference materials to produce a research product.
+  subs:
+    - Collect and synthesize information from multiple sources including online, print and media.
+    - Evaluate the validity and authenticity of texts.
+    - Use technology as a tool to research, organize, evaluate, and communicate information.
+    - Make sense of information gathered from diverse sources by identifying misconceptions, main and supporting ideas, conflicting information, point of view or bias.
+    - Cite primary and secondary sources using Modern Language Association (MLA) or American Psychological Association (APA) style.
+    - Publish findings and respond to feedback.
+    - Define the meaning and consequences of plagiarism and follow ethical and legal guidelines for gathering and using information.

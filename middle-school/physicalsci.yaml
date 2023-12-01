@@ -1,1 +1,76 @@
-p
+- id: MS.SC.PS.1
+  title: PS.1
+  text: The student will demonstrate an understanding of scientific and engineering practices by
+  subs: 
+    - asking questions and defining problems (ask questions that require empirical evidence to answer, develop hypotheses indicating relationships between independent and dependent variables, offer simple solutions to design problems)
+    - planning and carrying out investigations (independently and collaboratively plan and conduct observational and experimental investigations; identify variables, constants, and controls where appropriate and include the safe use of chemicals and equipment, evaluate the accuracy of various methods for collecting data, take metric measurements using appropriate tools and technologies, apply scientific ideas or principles to design, construct, and/or test a design of an object, tool, process or system)
+    - interpreting, analyzing, and evaluating data (construct and interpret data tables showing independent and dependentvariables, repeated trials, and means, construct, analyze, and interpret graphical displays of data and considerlimitations of data analysis, apply mathematical concepts and processes to scientific questions, use data to evaluate and refine design solutions to best meet criteria)
+    - constructing and critiquing conclusions and explanations (construct scientific explanations based on valid and reliable evidence obtained from sources (including the students’ own investigations), construct arguments supported by empirical evidence and scientific reasoning, generate and compare multiple solutions to problems based on how wellthey meet the criteria and constraints, differentiate between a scientific hypothesis, theory, and law)
+    - developing and using models (construct, develop, and use models and simulations to illustrate and/or explain observable and unobservable phenomena, evaluate limitations of models)
+    - obtaining, evaluating, and communicating information (read scientific texts, including those adapted for classroom use, to determine the central idea and/or obtain scientific and/or technical information, gather, read, and synthesize information from multiple appropriate sources and assess the credibility, accuracy, and possible bias of each publication, construct, use, and/or present an oral and written argument supported by empirical evidence and scientific reasoning)
+
+- id: MS.SC.PS.2
+  title: PS.2
+  text: The student will investigate and understand that matter is composed of atoms. Key ideas include
+  subs: 
+    - our understanding of atoms has developed over time;
+    - the periodic table can be used to predict the chemical and physical properties of matter; and
+    - the kinetic molecular theory is used to predict and explain matter interactions.
+
+- id: MS.SC.PS.3
+  title: PS.3
+  text: The student will investigate and understand that matter has properties and is conserved in chemical and physical processes. Key ideas include
+  subs: 
+    - pure substances can be identified based on their chemical and physical properties;
+    - pure substances can undergo physical and chemical changes that may result in a change of properties;
+    - compounds form through ionic and covalent bonding; and
+    - balanced chemical equations model the conservation of matter.
+
+- id: MS.SC.PS.4
+  title: PS.4
+  text: The student will investigate and understand that the periodic table is a model used to organize elements based on their atomic structure. Key uses include
+  subs: 
+  - symbols, atomic numbers, atomic mass, chemical groups (families), and periods are identified on the periodic table; and
+  - elements are classified as metals, metalloids, and nonmetals.
+  
+- id: MS.SC.PS.5
+  title: PS.5
+  text: The student will investigate and understand that energy is conserved. Key ideas include
+  subs: 
+  - energy can be stored in different ways;
+  - energy is transferred and transformed; and
+  - energy can be transformed to meet societal needs. 
+  
+- id: MS.SC.PS.6
+  title: PS.6
+  text: TThe student will investigate and understand that waves are important in the movement of energy. Key ideas include
+  subs: 
+    - energy may be transferred in the form of longitudinal and transverse waves;
+    - mechanical waves need a medium to transfer energy;
+    - waves can interact; and
+    - energy associated with waves has many applications.
+  
+- id: MS.SC.PS.7
+  title: PS.7
+  text: The student will investigate and understand that electromagnetic radiation has characteristics. Key ideas include
+ subs: 
+    - electromagnetic radiation, including visible light, has wave characteristics and behavior; and
+    - regions of the electromagnetic spectrum have specific characteristics and uses.
+  
+- id: MS.SC.PS.8
+  title: PS.8
+  text: The student will investigate and understand that work, force, and motion are related. Key ideas include
+  subs: 
+    - motion can be described using position and time; an
+    - motion is described by Newton’s laws.
+
+  - id: MS.SC.PS.9
+  title: PS.9
+  text:  The student will investigate and understand that there are basic principles of electricity and magnetism. Key ideas include
+  subs: 
+    - an imbalance of charge generates static electricity;
+    - materials have different conductive properties;
+    - electric circuits transfer energy;
+    - magnetic fields cause the magnetic effects of certain materials;
+    - electric current and magnetic fields are related; and
+    - many technologies use electricity and magnetism.

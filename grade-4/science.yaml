@@ -1,0 +1,69 @@
+- id: 4.SC.SE.1
+  title: 4.1
+  text: The student will demonstrate an understanding of scientific and engineering practices by...
+  subs: 
+    - asking questions and defining problems (identify scientific and non-scientific questions, develop hypotheses as cause-and-effect relations, define a simple design problem that can be solved through the development of an object, tool, process, or system)
+    - planning and carrying out investigations (identify variables when planning an investigation, collaboratively plan and conduct investigations, use tools and/or materials to design and/or build a device that solves a specific problem, take metric measurements using appropriate tools, measure elapsed time)
+    - interpreting, analyzing, and evaluating data (organize and represent data in bar graphs and line graphs, interpret and analyze data represented in bar graphs and line graphs, compare two different representations of the same data (e.g., a set of data displayed on a chart and a graph), analyze data from tests of an object or tool to determine whether it works as intended)
+    - constructing and critiquing conclusions and explanations (use evidence (i.e., measurements, observations, patterns) to construct or support explanations and to make inferences)
+    - developing and using models (develop and/or use models to explain natural phenomena, identify limitations of models)
+    - obtaining, evaluating, and communicating information (read and comprehend reading-level-appropriate texts and/or other reliable media, communicate scientific information, design ideas, and/or solutions with others)
+
+- id: 4.SC.LP.2
+  title: 4.2
+  text: The student will investigate and understand that plants and animals have structures that distinguish them from one another and play vital roles in their ability to survive. Key ideas include
+  subs: 
+    - the survival of plants and animals depends on photosynthesis;
+    - plants and animals have different structures and processes for obtaining energy; and
+    - plants and animals have different structures and processes for creating offspring.
+
+- id: 4.SC.LP.3
+  title: 4.3
+  text: The student will investigate and understand that organisms, including humans, interact with one another and with the nonliving components in the ecosystem. Key ideas include
+  subs: 
+    - interrelationships exist in populations, communities, and ecosystems;
+    -  food webs show the flow of energy within an ecosystem;
+    - changes in an organism’s niche and habitat may occur at various stages in its life cycle; and
+    - classification can be used to identify organisms. 
+
+- id: 4.SC.ES.4
+  title: 4.4
+  text: The student will investigate and understand that weather conditions and phenomena affect ecosystems and can be predicted. Key ideas include
+  subs: 
+  - weather measurements create a record that can be used to make weather predictions;
+  - common and extreme weather events affect ecosystems; and
+  - long term seasonal weather trends determine the climate of a region.
+  
+- id: 4.SC.ES.5
+  title: 4.5
+  text: The student will investigate and understand that the planets have characteristics and a specific place in the solar system. Key ideas include
+  subs: 
+  - planets rotate on their axes and revolve around the sun;
+  - planets have characteristics and a specific order in the solar system; and
+  - the sizes of the sun and planets can be compared to one another.
+  
+- id: 4.SC.ES.6
+  title: 4.6
+  text: The student will investigate and understand that there are relationships among Earth, the moon, and the sun. Key relationships include
+  subs: 
+    - the motions of Earth, the moon, and the sun;
+    - the causes for Earth’s seasons;
+    - the causes for the four major phases of the moon and the relationship to the tide cycles; and
+    - the relative size, position, age and makeup of Earth, the moon, and the sun.
+  
+- id: 4.SC.ES.7
+  title: 4.7
+  text: The student will investigate and understand that the ocean environment has characteristics. Key characteristics include
+  subs: 
+    - geology of the ocean floor;
+    - physical properties and movement of ocean water; and 
+    - interaction of organisms in the ocean. 
+  
+- id: 4.SC.ER.8
+  title: 4.8
+  text: The student will investigate and understand that Virginia has important natural resources. Key resources include
+  subs: 
+    - watersheds and water;
+    - plants and animals;
+    - minerals, rocks, and ores; and
+    - forests, soil, and land

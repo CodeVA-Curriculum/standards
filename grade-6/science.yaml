@@ -1,0 +1,92 @@
+- id: 6.SC.SC.1
+  title: 6.1
+  text: The student will demonstrate an understanding of scientific and engineering practices by
+  subs: 
+    - asking questions and defining problems (ask questions to determine relationships between independent and dependent variables, develop hypotheses and identify independent and dependent variables, offer simple solutions to design problems)
+    - planning and carrying out investigations (independently and collaboratively plan and conduct observational and experimental investigations; identify variables, constants, and controls where appropriate, and include the safe use of chemicals and equipment, evaluate the accuracy of various methods for collecting data, take metric measurements using appropriate tools, use tools and materials to design and/or build a device to solve a specific problem)
+    - interpreting, analyzing, and evaluating data (organize data sets to reveal patterns that suggest relationships, construct, analyze, and interpret graphical displays of data, compare and contrast data collected by different groups and discuss similarities and differences in findings, use data to evaluate and refine design solutions)
+    - constructing and critiquing conclusions and explanations (construct explanations that includes qualitative or quantitative relationships between variables, construct scientific explanations based on valid and reliable evidence obtained from sources (including the students’ own investigations), generate and compare multiple solutions to problems based on how well they meet the criteria and constraints)
+    - developing and using models (use scale models to represent and estimate distance,  use, develop, and revise models to predict and explain phenomena, evaluate limitations of models)
+    - obtaining, evaluating, and communicating information (read scientific texts, including those adapted for classroom use, to obtain scientific and/or technical information, gather, read, and synthesize information from multiple appropriate sources and assess the credibility, accuracy, and possible bias of each publication, construct, use, and/or present an argument supported by empirical evidence and scientific reasoning)
+
+- id: 6.SC.SC.2
+  title: 6.2
+  text: The student will investigate and understand that the solar system is organized and the various bodies in the solar system interact. Key ideas include
+  subs: 
+    - matter is distributed throughout the solar system;
+    - planets have different sizes and orbit at different distances from the sun;
+    - gravity contributes to orbital motion; and
+    - the understanding of the solar system has developed over time.
+
+- id: 6.SC.SC.3
+  title: 6.3
+  text: The student will investigate and understand that there is a relationship between the sun, Earth, and the moon. Key ideas include
+  subs: 
+    - Earth has unique properties;
+    - the rotation of Earth in relationship to the sun causes day and night;
+    - the movement of Earth and the moon in relationship to the sun causes phases of the moon;
+    - Earth’s tilt as it revolves around the sun causes the seasons; and
+    - the relationship between Earth and the moon is the primary cause of tides.
+
+- id: 6.SC.SC.4
+  title: 6.4
+  text: The student will investigate and understand that there are basic sources of energy and that energy can be transformed. Key ideas include
+  subs: 
+  - the sun is important in the formation of most energy sources on Earth;
+  - Earth’s energy budget relates to living systems and Earth’s processes;
+  - radiation, conduction, and convection distribute energy; and
+  - energy transformations are important in energy usage. 
+  
+- id: 6.SC.SC.5
+  title: 6.5
+  text: The student will investigate and understand that all matter is composed of atoms. Key ideas include
+  subs: 
+  - atoms consist of particles, including electrons, protons, and neutrons;
+  - atoms of a particular element are similar but differ from atoms of other elements;
+  - elements may be represented by chemical symbols;
+  - two or more atoms interact to form new substances, which are held together by electrical forces (bonds);
+  - compounds may be represented by chemical formulas;
+  - chemical equations can be used to model chemical changes; and
+  - a few elements comprise the largest portion of the solid Earth, living matter, the oceans, and the atmosphere.
+  
+- id: 6.SC.SC.6
+  title: 6.6
+  text: The student will investigate and understand that water has unique physical properties and has a role in the natural and human-made environment. Key ideas include
+  subs: 
+    - water is referred to as the universal solvent;
+    - water has specific properties;
+    - thermal energy has a role in phase changes;
+    - water has a role in weathering;
+    - large bodies of water moderate climate; and
+    - water is important for agriculture, power generation, and public health. 
+  
+- id: 6.SC.SC.7
+  title: 6.7
+  text: The student will investigate and understand that air has properties and that Earth’s atmosphere has structure and is dynamic. Key ideas include
+  subs: 
+    - air is a mixture of gaseous elements and compounds;
+    - the atmosphere has physical characteristics;
+    - properties of the atmosphere change with altitude;
+    - there is a relationship between air movement, thermal energy, and weather conditions;
+    - atmospheric measures are used to predict weather conditions; and
+    - weather maps give basic information about fronts, systems, and weather measurements.
+  
+- id: 6.SC.SC.8
+  title: 6.8
+  text: The student will investigate and understand that land and water have roles in watershed systems. Key ideas include
+  subs: 
+    - a watershed is composed of the land that drains into a body of water;
+    - Virginia is composed of multiple watershed systems which have specific features;
+    - the Chesapeake Bay is an estuary that has many important functions; and
+    - natural processes, human activities, and biotic and abiotic factors influence the health of a watershed system.
+
+  - id: 6.SC.SC.9
+  title: 6.9
+  text: The student will investigate and understand that humans impact the environment and individuals can influence public policy decisions related to energy and the environment. Key ideas include
+  subs: 
+    - natural resources are important to protect and maintain;
+    - renewable and nonrenewable resources can be managed;
+    - major health and safety issues are associated with air and water quality;
+    - major health and safety issues are related to different forms of energy;
+    - preventive measures can protect land-use and reduce environmental hazards; and
+    - there are cost/benefit tradeoffs in conservation policies.

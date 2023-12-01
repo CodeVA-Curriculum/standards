@@ -1,80 +1,80 @@
-  - id: 3.SEL.SEA.1
-    title: SeA1:3-4
-    text: Recognize and understand the interaction between one’s own thoughts and emotions. (Critical Thinking) 
-    sub:
-      - I can understand I can have more than one emotion at the same time.
-      - I can recognize the difference between negative and positive self-talk.
-      - I can identify my emotions based on my body signals, events, and situations. 
+- id: 3.SEL.SEA.1
+  title: SeA1:3-4
+  text: Recognize and understand the interaction between one’s own thoughts and emotions. (Critical Thinking) 
+  sub:
+    - I can understand I can have more than one emotion at the same time.
+    - I can recognize the difference between negative and positive self-talk.
+    - I can identify my emotions based on my body signals, events, and situations. 
 
-  - id: 3.SEL.SEA.2
-    title: SeA2:3-4
-    text: Develop a positive identity and recognize personal strengths, interests, values, and challenges. (Creative Thinking)
-    subs: 
-      - I can identify my personal strengths and interests inside and outside of the school setting. 
-      - I can identify my personal challenges and recognize that I can address these challenges by having a growth mindset.
-      - I can identify ways I can show values such as honesty, kindness, and integrity through my actions.
-      - I can describe the multiple groups in society that help create my identity.
+- id: 3.SEL.SEA.2
+  title: SeA2:3-4
+  text: Develop a positive identity and recognize personal strengths, interests, values, and challenges. (Creative Thinking)
+  subs: 
+    - I can identify my personal strengths and interests inside and outside of the school setting. 
+    - I can identify my personal challenges and recognize that I can address these challenges by having a growth mindset.
+    - I can identify ways I can show values such as honesty, kindness, and integrity through my actions.
+    - I can describe the multiple groups in society that help create my identity.
 
-  - id: 3.SEL.SEM.1
-    title: SeM1:3-4
-    text: "Develop and demonstrate strategies for managing and expressing one's own emotions to persevere in challenging situations. (Communication)" 
-    subs:
-      - I can evaluate ways that I currently express emotions as either kind or unkind.
-      - I can identify coping skills for specific situations that cause me to feel stress or uncomfortable emotions.
-      - I can describe how I can use courage and perseverance to overcome a challenging situation.
+- id: 3.SEL.SEM.1
+  title: SeM1:3-4
+  text: "Develop and demonstrate strategies for managing and expressing one's own emotions to persevere in challenging situations. (Communication)" 
+  subs:
+    - I can evaluate ways that I currently express emotions as either kind or unkind.
+    - I can identify coping skills for specific situations that cause me to feel stress or uncomfortable emotions.
+    - I can describe how I can use courage and perseverance to overcome a challenging situation.
 
-  - id: 3.SEL.SEM.2
-    title: SeM2:3-4
-    text: Demonstrate the skills related to achieving personal and academic goals. (Creative Thinking) SOCIAL AWARENESS 
-    subs:
-      - I can recognize the connection between short-term and long-term goals.
-      - I can set a goal, divide it into steps, and identify strategies to reach it.
-      - I can develop and improve my daily organizational skills.
+- id: 3.SEL.SEM.2
+  title: SeM2:3-4
+  text: Demonstrate the skills related to achieving personal and academic goals. (Creative Thinking) SOCIAL AWARENESS 
+  subs:
+    - I can recognize the connection between short-term and long-term goals.
+    - I can set a goal, divide it into steps, and identify strategies to reach it.
+    - I can develop and improve my daily organizational skills.
 
-  - id: 3.SEL.SOA.1
-    title: SoA1:3-4
-    text: Demonstrate the ability to empathize with and show gratitude for others, including those with different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration) 
-    subs:
-      - I can define empathy and explain ways to demonstrate it.
-      - "I can ask questions in a positive manner about other people's cultures, traditions and beliefs."
-      - I can develop regular habits that allow me to express gratitude.
-      
-  - id: 3.SEL.SOA.2
-    title: SoA2:3-4
-    text: Demonstrate the ability to understand broader historical and social contexts’ impact on humanity. (Citizenship) RELATIONSHIP SKILLS 
-    subs:
-      - I can understand that people may face different barriers based on their identity and groups in society and that this is not fair.
-      - I can understand how stereotypes can be harmful.
-      - I can recognize and value the thoughts and feelings of others.
+- id: 3.SEL.SOA.1
+  title: SoA1:3-4
+  text: Demonstrate the ability to empathize with and show gratitude for others, including those with different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration) 
+  subs:
+    - I can define empathy and explain ways to demonstrate it.
+    - "I can ask questions in a positive manner about other people's cultures, traditions and beliefs."
+    - I can develop regular habits that allow me to express gratitude.
+    
+- id: 3.SEL.SOA.2
+  title: SoA2:3-4
+  text: Demonstrate the ability to understand broader historical and social contexts’ impact on humanity. (Citizenship) RELATIONSHIP SKILLS 
+  subs:
+    - I can understand that people may face different barriers based on their identity and groups in society and that this is not fair.
+    - I can understand how stereotypes can be harmful.
+    - I can recognize and value the thoughts and feelings of others.
 
-  - id: 3.SEL.RES.1
-    title: ReS1:3-4
-    text: Apply verbal and non-verbal communication and listening skills to interact with others, form and maintain positive relationships, and resolve conflict constructively. (Communication)
-    subs:
-      - I can demonstrate positive verbal and non-verbal communication skills through my words, tone of voice, and body language (incorporate social media).
-      - I can independently apply active listening skills in different situations.
-      - I can apologize in a meaningful way when I have made a mistake (even if it was an accident).
-      - I can brainstorm ways to tell someone when their words or actions are hurtful.
+- id: 3.SEL.RES.1
+  title: ReS1:3-4
+  text: Apply verbal and non-verbal communication and listening skills to interact with others, form and maintain positive relationships, and resolve conflict constructively. (Communication)
+  subs:
+    - I can demonstrate positive verbal and non-verbal communication skills through my words, tone of voice, and body language (incorporate social media).
+    - I can independently apply active listening skills in different situations.
+    - I can apologize in a meaningful way when I have made a mistake (even if it was an accident).
+    - I can brainstorm ways to tell someone when their words or actions are hurtful.
 
-  - id: 3.SEL.RES.2
-    title: ReS2:3-4
-    text: Demonstrate the ability to effectively collaborate and navigate relationships while valuing different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration)
-    subs:
-      - I can identify different roles within a group setting and I understand how they all contribute.
-      - "I can adapt my behavior based on another's non-verbal cues."
-      - I can identify the difference between positive and negative peer pressure.
+- id: 3.SEL.RES.2
+  title: ReS2:3-4
+  text: Demonstrate the ability to effectively collaborate and navigate relationships while valuing different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration)
+  subs:
+    - I can identify different roles within a group setting and I understand how they all contribute.
+    - "I can adapt my behavior based on another's non-verbal cues."
+    - I can identify the difference between positive and negative peer pressure.
 
-  - id: 3.SEL.DEM.1
-    title: DeM1:3-4
-    text: Demonstrate the ability to evaluate, through reflection, the benefits and consequences of various actions within the decision-making process. (Critical Thinking) 
-    subs:
-      - I can explain what is within my control and what is outside of my control when facing a problem.
-      - I can explain the information I used as well as the steps I took when making a decision. I can explain the information I used when making a decision, along with the steps I took.
-      - I can recognize that my choices may result in different outcomes. 
-      
-  - id: 3.SEL.DEM.2
-    title: DeM2:3-4
-    text: "Demonstrate the ability to make ethical decisions as a global citizen and evaluate outcomes based on one's own identity and the impact on humanity. (Citizenship)" 
-    subs:
-      - I can develop an awareness of and comfort with my membership in multiple groups in society.
-      - I can consider the feelings and rights of myself and others when making decisions. 
+- id: 3.SEL.DEM.1
+  title: DeM1:3-4
+  text: Demonstrate the ability to evaluate, through reflection, the benefits and consequences of various actions within the decision-making process. (Critical Thinking) 
+  subs:
+    - I can explain what is within my control and what is outside of my control when facing a problem.
+    - I can explain the information I used as well as the steps I took when making a decision. I can explain the information I used when making a decision, along with the steps I took.
+    - I can recognize that my choices may result in different outcomes. 
+    
+- id: 3.SEL.DEM.2
+  title: DeM2:3-4
+  text: "Demonstrate the ability to make ethical decisions as a global citizen and evaluate outcomes based on one's own identity and the impact on humanity. (Citizenship)" 
+  subs:
+    - I can develop an awareness of and comfort with my membership in multiple groups in society.
+    - I can consider the feelings and rights of myself and others when making decisions. 

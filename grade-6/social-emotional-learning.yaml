@@ -1,80 +1,80 @@
-  - id: 6.SEL.SEA.1
-    title: SeA1:5-6
-    text: Recognize and understand the interaction between one’s own thoughts and emotions. (Critical Thinking) 
-    sub: 
-      - I can differentiate among a variety of complex emotions. 
-      - I can identify examples of how my positive and negative self-talk can impact my emotions.
-      - I can anticipate my emotions based on my body signals, events, and situations.
+- id: 6.SEL.SEA.1
+  title: SeA1:5-6
+  text: Recognize and understand the interaction between one’s own thoughts and emotions. (Critical Thinking) 
+  sub: 
+    - I can differentiate among a variety of complex emotions. 
+    - I can identify examples of how my positive and negative self-talk can impact my emotions.
+    - I can anticipate my emotions based on my body signals, events, and situations.
 
-  - id: 6.SEL.SEA.2
-    title: SeA2:5-6
-    text: Develop a positive identity and recognize personal strengths, interests, values, and challenges. (Creative Thinking)
-    subs: 
-      - I can analyze how my personal strengths give me confidence in multiple settings.
-      - I can identify actions I can take to overcome personal challenges.
-      - I can understand the relationship between my values and interests.
-      - I can develop an awareness of and comfort with my membership in multiple groups in society. 
+- id: 6.SEL.SEA.2
+  title: SeA2:5-6
+  text: Develop a positive identity and recognize personal strengths, interests, values, and challenges. (Creative Thinking)
+  subs: 
+    - I can analyze how my personal strengths give me confidence in multiple settings.
+    - I can identify actions I can take to overcome personal challenges.
+    - I can understand the relationship between my values and interests.
+    - I can develop an awareness of and comfort with my membership in multiple groups in society. 
 
-  - id: 6.SEL.SEM.1
-    title: SeM1:5-6
-    text: "Develop and demonstrate strategies for managing and expressing one's own emotions to persevere in challenging situations. (Communication)" 
-    subs:
-      - I can identify the difference between healthy and unhealthy stress levels.
-      - I can proactively plan and apply a coping skill for handling a stressful situation that typically causes me to experience uncomfortable emotions.
-      - I can identify and utilize strategies for persevering through challenges and setbacks.
+- id: 6.SEL.SEM.1
+  title: SeM1:5-6
+  text: "Develop and demonstrate strategies for managing and expressing one's own emotions to persevere in challenging situations. (Communication)" 
+  subs:
+    - I can identify the difference between healthy and unhealthy stress levels.
+    - I can proactively plan and apply a coping skill for handling a stressful situation that typically causes me to experience uncomfortable emotions.
+    - I can identify and utilize strategies for persevering through challenges and setbacks.
 
-  - id: 6.SEL.SEM.2
-    title: SeM2:5-6
-    text: Demonstrate the skills related to achieving personal and academic goals. (Creative Thinking)  SOCIAL AWARENESS 
-    subs:
-      - I can identify the importance of setting academic goals for personal growth.
-      - I can plan, implement, and monitor progress towards reaching my goals.
-      - I can manage my time to help me achieve my goals.
+- id: 6.SEL.SEM.2
+  title: SeM2:5-6
+  text: Demonstrate the skills related to achieving personal and academic goals. (Creative Thinking)  SOCIAL AWARENESS 
+  subs:
+    - I can identify the importance of setting academic goals for personal growth.
+    - I can plan, implement, and monitor progress towards reaching my goals.
+    - I can manage my time to help me achieve my goals.
 
-  - id: 6.SEL.SOA.1
-    title: SoA1:5-6
-    text: Demonstrate the ability to empathize with and show gratitude for others, including those with different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration) 
-    subs:
-      - I can empathize with others’ thoughts, perspectives, and emotions.
-      - I can gain a broader understanding by asking questions and listening to those with different perspectives, backgrounds, and cultures.
-      - I can express gratitude for others, including those with different perspectives.
+- id: 6.SEL.SOA.1
+  title: SoA1:5-6
+  text: Demonstrate the ability to empathize with and show gratitude for others, including those with different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration) 
+  subs:
+    - I can empathize with others’ thoughts, perspectives, and emotions.
+    - I can gain a broader understanding by asking questions and listening to those with different perspectives, backgrounds, and cultures.
+    - I can express gratitude for others, including those with different perspectives.
 
-  - id: 6.SEL.SOA.2
-    title: SoA2:5-6
-    text: Demonstrate the ability to understand broader historical and social contexts’ impact on humanity. (Citizenship) RELATIONSHIP SKILLS 
-    subs:
-      - I can identify when people are treated unfairly.
-      - I can explain how stereotypes can create bias.
+- id: 6.SEL.SOA.2
+  title: SoA2:5-6
+  text: Demonstrate the ability to understand broader historical and social contexts’ impact on humanity. (Citizenship) RELATIONSHIP SKILLS 
+  subs:
+    - I can identify when people are treated unfairly.
+    - I can explain how stereotypes can create bias.
 
-  - id: 6.SEL.RES.1
-    title: ReS1:5-6
-    text: Apply verbal and non-verbal communication and listening skills to interact with others, form and maintain positive relationships, and resolve conflict constructively. (Communication)
-    subs:
-      - I can explain and demonstrate how positive communication skills help build and maintain healthy relationships. (Incorporate social media)
-      - I can use active listening to successfully understand multiple perspectives.
-      - I can outline and practice the use of conflict resolution skills with adult support.
-      - I can demonstrate how I will navigate situations when I might feel pressured to go along with injustice.
-      
-  - id: 6.SEL.RES.2
-    title: ReS2:5-6
-    text: Demonstrate the ability to effectively collaborate and navigate relationships while valuing different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration)
-    subs:
-      - I can independently perform different roles in a group setting.
-      - I can self-assess my relationship building skills.
-      - I can recognize how positive and negative peer pressure affect me. 
-      - I can demonstrate how to give and receive feedback in a constructive way.
+- id: 6.SEL.RES.1
+  title: ReS1:5-6
+  text: Apply verbal and non-verbal communication and listening skills to interact with others, form and maintain positive relationships, and resolve conflict constructively. (Communication)
+  subs:
+    - I can explain and demonstrate how positive communication skills help build and maintain healthy relationships. (Incorporate social media)
+    - I can use active listening to successfully understand multiple perspectives.
+    - I can outline and practice the use of conflict resolution skills with adult support.
+    - I can demonstrate how I will navigate situations when I might feel pressured to go along with injustice.
+    
+- id: 6.SEL.RES.2
+  title: ReS2:5-6
+  text: Demonstrate the ability to effectively collaborate and navigate relationships while valuing different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration)
+  subs:
+    - I can independently perform different roles in a group setting.
+    - I can self-assess my relationship building skills.
+    - I can recognize how positive and negative peer pressure affect me. 
+    - I can demonstrate how to give and receive feedback in a constructive way.
 
-  - id: 6.SEL.DEM.1
-    title: DeM1:5-6
-    text: Demonstrate the ability to evaluate, through reflection, the benefits and consequences of various actions within the decision-making process. (Critical Thinking) 
-    subs:
-      - I can determine what is within my control, what is outside of my control and what is within my influence when facing a problem.
-      - I can show curiosity about a social problem by asking questions and gathering evidence to identify potential solutions.
-      - I can identify the multiple outcomes that can result from my choices.
+- id: 6.SEL.DEM.1
+  title: DeM1:5-6
+  text: Demonstrate the ability to evaluate, through reflection, the benefits and consequences of various actions within the decision-making process. (Critical Thinking) 
+  subs:
+    - I can determine what is within my control, what is outside of my control and what is within my influence when facing a problem.
+    - I can show curiosity about a social problem by asking questions and gathering evidence to identify potential solutions.
+    - I can identify the multiple outcomes that can result from my choices.
 
-  - id: 6.SEL.DEM.2
-    title: DeM2:5-6
-    text: "Demonstrate the ability to make ethical decisions as a global citizen and evaluate outcomes based on one's own identity and the impact on humanity. (Citizenship)" 
-    subs:
-      - I can identify the multiple outcomes that can result from my choices.
-      - I can explain how the perspectives of others should be considered when making decisions. 
+- id: 6.SEL.DEM.2
+  title: DeM2:5-6
+  text: "Demonstrate the ability to make ethical decisions as a global citizen and evaluate outcomes based on one's own identity and the impact on humanity. (Citizenship)" 
+  subs:
+    - I can identify the multiple outcomes that can result from my choices.
+    - I can explain how the perspectives of others should be considered when making decisions. 

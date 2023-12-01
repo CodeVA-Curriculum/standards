@@ -1,78 +1,78 @@
-  - id: 1.SEL.SEA.1
-    title: SeA1:1-2
-    text: Recognize and understand the interaction between one’s own thoughts and emotions. (Critical Thinking) 
-    sub:
-      - I can identify a variety of emotions.
-      - I can understand that my emotions are natural and will change.
-      - I can understand that certain events and situations can impact my emotions. 
-      
-  - id: 1.SEL.SEA.2
-    title: SeA2:1-2
-    text: Develop a positive identity and recognize personal strengths, interests, values, and challenges. (Creative Thinking)
-    subs:
-      -  I can identify my personal strengths and interests inside and outside of the school setting. 
-      - I can recognize when I have worked hard to overcome a challenging situation. 
-      - I can recognize my personal values. 
-      - I can develop an awareness of multiple groups in society. 
-
-  - id: 1.SEL.SEM.1
-    title: SeM1:1-2
-    text: "Develop and demonstrate strategies for managing and expressing one's own emotions to persevere in challenging situations. (Communication)" 
-    subs: 
-      - I can identify safe, kind, and helpful ways to express my emotions.
-      - "I can recognize my body's signals and apply a strategy to help me stay in control."
-      - I can describe times when I showed courage and when I kept trying in a challenging situation.
-      
-  - id: 1.SEL.SEM.2
-    title: SeM2:1-2
-    text: Demonstrate the skills related to achieving personal and academic goals. (Creative Thinking) SOCIAL AWARENESS 
-    subs: 
-      -  I can describe something I have accomplished and identify something I would like to accomplish in the future. 
-      - I can set and achieve simple, short-term goals. 
-      - I can follow a multi-step plan independently. 
- 
-  - id: 1.SEL.SOA.1
-    title: SoA1:1-2
-    text: Demonstrate the ability to empathize with and show gratitude for others, including those with different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration) 
-    subs:
-      - I can recognize other people’s feelings and respond in kind and safe ways. 
-      - I can discuss similarities and differences in abilities, cultures, traditions, and beliefs.
-      - I can explain what gratitude is and why it is important to show it. 
- 
-  - id: 1.SEL.SOA.2
-    title: SoA2:1-2
-    text: Demonstrate the ability to understand broader historical and social contexts’ impact on humanity. (Citizenship) RELATIONSHIP SKILLS 
-    subs:
-      - I can explain what gratitude is and why it is important to show it. 
+- id: 1.SEL.SEA.1
+  title: SeA1:1-2
+  text: Recognize and understand the interaction between one’s own thoughts and emotions. (Critical Thinking) 
+  subs:
+    - I can identify a variety of emotions.
+    - I can understand that my emotions are natural and will change.
+    - I can understand that certain events and situations can impact my emotions. 
     
-  - id: 1.SEL.RES.1
-    title: ReS1:1-2
-    text:  Apply verbal and non-verbal communication and listening skills to interact with others, form and maintain positive relationships, and resolve conflict constructively. (Communication)
-    subs:
-      - I can communicate my needs, wants and ideas to adults and peers in a positive way. 
-      - I can demonstrate active listening skills when interacting with adults and peers. 
-      - I can demonstrate when to resolve conflicts with peers independently and when to include an adult. 
-      - I can describe what I would do if I saw someone being treated unkindly or unfairly. 
- 
-  - id: 1.SEL.RES.2
-    title: ReS2:1-2
-    text: Demonstrate the ability to effectively collaborate and navigate relationships while valuing different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration)
-    subs:
-       - I can demonstrate the actions of a helpful teammate or group member. 
-       - I can identify non-verbal cues that indicate how others may feel. 
+- id: 1.SEL.SEA.2
+  title: SeA2:1-2
+  text: Develop a positive identity and recognize personal strengths, interests, values, and challenges. (Creative Thinking)
+  subs:
+    -  I can identify my personal strengths and interests inside and outside of the school setting. 
+    - I can recognize when I have worked hard to overcome a challenging situation. 
+    - I can recognize my personal values. 
+    - I can develop an awareness of multiple groups in society. 
 
-  - id: 1.SEL.DEM.1
-    title: DeM1:1-2
-    text: Demonstrate the ability to evaluate, through reflection, the benefits and consequences of various actions within the decision-making process. (Critical Thinking) 
-    subs:
-      - I can classify a problem based on its size.
-      - I can list strategies to solve a problem. 
-      - I can recognize that I have choices in how to respond in a situation.
+- id: 1.SEL.SEM.1
+  title: SeM1:1-2
+  text: "Develop and demonstrate strategies for managing and expressing one's own emotions to persevere in challenging situations. (Communication)" 
+  subs: 
+    - I can identify safe, kind, and helpful ways to express my emotions.
+    - "I can recognize my body's signals and apply a strategy to help me stay in control."
+    - I can describe times when I showed courage and when I kept trying in a challenging situation.
+    
+- id: 1.SEL.SEM.2
+  title: SeM2:1-2
+  text: Demonstrate the skills related to achieving personal and academic goals. (Creative Thinking) SOCIAL AWARENESS 
+  subs: 
+    -  I can describe something I have accomplished and identify something I would like to accomplish in the future. 
+    - I can set and achieve simple, short-term goals. 
+    - I can follow a multi-step plan independently. 
+
+- id: 1.SEL.SOA.1
+  title: SoA1:1-2
+  text: Demonstrate the ability to empathize with and show gratitude for others, including those with different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration) 
+  subs:
+    - I can recognize other people’s feelings and respond in kind and safe ways. 
+    - I can discuss similarities and differences in abilities, cultures, traditions, and beliefs.
+    - I can explain what gratitude is and why it is important to show it. 
+
+- id: 1.SEL.SOA.2
+  title: SoA2:1-2
+  text: Demonstrate the ability to understand broader historical and social contexts’ impact on humanity. (Citizenship) RELATIONSHIP SKILLS 
+  subs:
+    - I can explain what gratitude is and why it is important to show it. 
   
-  - id: 1.SEL.DEM.2
-    title: DeM2:1-2
-    text: "Demonstrate the ability to make ethical decisions as a global citizen and evaluate outcomes based on one's own identity and the impact on humanity. (Citizenship)" 
-    subs:
-      - I can describe and appreciate ways that I am similar to and different from other people. 
-      - I can explain how the choices I make impact others. 
+- id: 1.SEL.RES.1
+  title: ReS1:1-2
+  text:  Apply verbal and non-verbal communication and listening skills to interact with others, form and maintain positive relationships, and resolve conflict constructively. (Communication)
+  subs:
+    - I can communicate my needs, wants and ideas to adults and peers in a positive way. 
+    - I can demonstrate active listening skills when interacting with adults and peers. 
+    - I can demonstrate when to resolve conflicts with peers independently and when to include an adult. 
+    - I can describe what I would do if I saw someone being treated unkindly or unfairly. 
+
+- id: 1.SEL.RES.2
+  title: ReS2:1-2
+  text: Demonstrate the ability to effectively collaborate and navigate relationships while valuing different and diverse perspectives, abilities, backgrounds, and cultures. (Collaboration)
+  subs:
+      - I can demonstrate the actions of a helpful teammate or group member. 
+      - I can identify non-verbal cues that indicate how others may feel. 
+
+- id: 1.SEL.DEM.1
+  title: DeM1:1-2
+  text: Demonstrate the ability to evaluate, through reflection, the benefits and consequences of various actions within the decision-making process. (Critical Thinking) 
+  subs:
+    - I can classify a problem based on its size.
+    - I can list strategies to solve a problem. 
+    - I can recognize that I have choices in how to respond in a situation.
+
+- id: 1.SEL.DEM.2
+  title: DeM2:1-2
+  text: "Demonstrate the ability to make ethical decisions as a global citizen and evaluate outcomes based on one's own identity and the impact on humanity. (Citizenship)" 
+  subs:
+    - I can describe and appreciate ways that I am similar to and different from other people. 
+    - I can explain how the choices I make impact others. 
 

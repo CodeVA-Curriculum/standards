@@ -1,0 +1,68 @@
+  - id: 3.HE.EC.1
+    title: 3.1
+    text: The student will explain that health habits and practices impact personal growth and development. 
+    subs: 
+      - "BODY SYSTEMS: Identify the major structures and functions of the digestive system."
+      - "NUTRITION: Explain the importance of water and healthy food choices for digestion and body function."
+      - "NUTRITION: Identify whole grain and refined grain food items."
+      - "NUTRITION: Identify foods that most often cause a food allergy."
+      - "PHYSICAL HEALTH: Describe the benefits of getting enough sleep and the consequences of the use of electronic devices (i.e., screen time) on sleep."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Identify the steps for goal setting to adopt positive health practices."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Define noncommunicable and describe the difference between communicable and noncommunicable diseases."
+      - "SUBSTANCE ABUSE PREVENTION: Describe proper and improper use of prescription (e.g., taking medication prescribed for someone else) and nonprescription medications."
+      - "SUBSTANCE ABUSE PREVENTION: Identify body systems affected by the use of alcohol, tobacco, nicotine products (e.g., electronic smoking devices), inhalants, and other drugs."
+      - "SAFETY/INJURY PREVENTION: Explain safety rules at home and when riding in a motor vehicle."
+      - "SAFETY/INJURY PREVENTION: Explain the need for personal safety strategies when interacting with others online."
+      - "SAFETY/INJURY PREVENTION: Identify different safety drills that are important for home and school."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Describe feelings/emotions that result from experiencing change, such as the arrival of a new family member, making new friends, going to a new school, being accepted by peers, and losing a loved one."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Describe the benefits of friendship and list the qualities of a good friend."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Define conflict and identify possible situations where conflict can occur with family and friends."
+      - "VIOLENCE PREVENTION: Describe what bullying is and how to identify it."
+      - "VIOLENCE PREVENTION: Explain the benefits of positive communication on relationships with family and friends."
+      - "COMMUNITY/ENVIRONMENTAL HEALTH: Explain what happens with waste and recycled materials."
+
+  - id: 3.HE.HD.2
+    title: 3.2
+    text: The student will demonstrate the ability to use essential health concepts to improve personal health. 
+    subs: 
+      - "BODY SYSTEMS: Describe how the body uses digested food molecules."
+      - "NUTRITION: Describe why digestion is important for body function."
+      - "NUTRITION: Explain the difference between a whole grain and a refined grain and the nutritional benefits of eating whole grains."
+      - "NUTRITION: Explain your school's food policy as it relates to food allergens (e.g., peanut-free classrooms, cafeteria options for children with food allergies)."
+      - "PHYSICAL HEALTH: Evaluate how sleep, physical activity, screen time, and healthy food and beverage choices affect one’s personal health."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: List the benefits of goal setting for personal health."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Analyze the importance of prevention and early detection of communicable and noncommunicable diseases."
+      - "SUBSTANCE ABUSE PREVENTION: Explain the consequences of disregarding medical recommendations for prescription and nonprescription medications."
+      - "SUBSTANCE ABUSE PREVENTION: Analyze the harmful short- and long-term effects of alcohol, tobacco, nicotine products, common household inhalants, and other drugs on body systems."
+      - "SAFETY/INJURY PREVENTION: Explain the importance of following safety rules at home and when riding in a motor vehicle."
+      - "SAFETY/INJURY PREVENTION: Identify situations when adult assistance may be needed with online interactions."
+      - "SAFETY/INJURY PREVENTION: Demonstrate proper behavior during safety drills at school."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Explain how to identify, express, and respond to emotions in a healthy way."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Describe how to make and keep a friend and behaviors that may cause the friendship to end (e.g., being unaware of the attitudes and feelings of others, using inappropriate language and behavior, excluding a friend from activities, breaking promises)."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Describe how to make healthy decisions when dealing with conflict, including when help from an adult is needed."
+      - "VIOLENCE PREVENTION: Identify ways to safely stand up to bullying and how to get help."
+      - "VIOLENCE PREVENTION: Describe how to communicate directly, respectfully, and assertively with family and friends."
+      - "COMMUNITY/ENVIRONMENTAL HEALTH: Analyze how reducing, reusing, and recycling products promotes a healthier environment."
+
+  - id: 3.HE.AH.3
+    title: 3.3
+    text: The student will promote health and safety at school and at home.
+    subs: 
+      - "BODY SYSTEMS: Evaluate the role of the digestive system in providing energy for the body."
+      - "NUTRITION: Identify healthy food and beverage choices to support digestion and body function."
+      - "NUTRITION: Explore how grains are grown and the careers related to it (e.g., agriculture, farming, food science, environmental science)."
+      - "NUTRITION: List alternatives (e.g., stickers, pencils, games) for school celebrations that are safe for someone with a food allergy."
+      - "PHYSICAL HEALTH: Set a goal for a positive health practice and monitor progress."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Identify areas for improving personal health."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Identify healthcare professionals who can help prevent and detect health concerns."
+      - "SUBSTANCE ABUSE PREVENTION: Create a health message about the proper use of prescription and nonprescription medications." 
+      - "SUBSTANCE ABUSE PREVENTION: Encourage others to use refusal skills to avoid alcohol, tobacco, nicotine products, inhalants, other drugs, and unknown substances."
+      - "SAFETY/INJURY PREVENTION: Discuss and develop a family safety plan to prevent injuries at home and when riding in a motor vehicle." 
+      - "SAFETY/INJURY PREVENTION: Create strategies for personal safety when online."
+      - "SAFETY/INJURY PREVENTION: Practice disaster-preparedness procedures at home and at school."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Design and demonstrate effective strategies for expressing and managing emotions, which may include physical activity, talking about feelings, reading, or creative expressions such as writing, art, music, and dance."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Demonstrate behaviors to make and keep friends (e.g., effective communication skills; awareness of the attitudes, feelings, and opinions of others; appropriate language and behavior; sharing; reciprocal helping behavior)."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Demonstrate healthy ways to resolve conflict, including determining when adult help is needed."
+      - "VIOLENCE PREVENTION: Describe how to report bullying and how to advocate for oneself and for others who are bullied." 
+      - "VIOLENCE PREVENTION: Demonstrate positive ways to communicate with family and friends."
+      - "COMMUNITY/ENVIRONMENTAL HEALTH: Demonstrate ways to reduce, reuse, and recycle at home, at school, and in the community."

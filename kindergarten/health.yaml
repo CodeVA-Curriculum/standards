@@ -1,0 +1,68 @@
+  - id: K.HE.EC.1
+    title: K.1
+    text: The student will identify and describe key health and safety concepts.
+    subs: 
+      - "BODY SYSTEMS: Identify major body parts (e.g., head, torso, arms, legs, hands, feet, muscles, bones)."
+      - "BODY SYSTEMS: Describe the five senses (i.e., sight, hearing, smell, taste, touch)."
+      - "NUTRITION: Identify the MyPlate food groups (i.e., dairy, proteins, vegetables, fruits, grains) and a variety of foods and beverages from each group."
+      - "NUTRITION: Explain what it means to have a food allergy."
+      - "PHYSICAL HEALTH: Describe different types of physical activity and recognize the need for regular physical activity."
+      - "PHYSICAL HEALTH: Recognize the importance of a regular bedtime routine and enough sleep.
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Define germs and describe how germs (e.g., bacteria, viruses) may cause common diseases (e.g., cold, flu)."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Describe the function of the teeth, how to take care of them, and the health professionals that help care for teeth (e.g., dentist, hygienist)."
+      - "SUBSTANCE ABUSE PREVENTION: Identify medicine as a pill or liquid that can be taken to feel better when sick but can cause harm if misused"
+      - "SUBSTANCE ABUSE PREVENTION: Describe how medicine and other substances can be helpful or harmful, and recognize poison warning labels."
+      - "SAFETY/INJURY PREVENTION: Describe pedestrian, bike, bus, and playground safety practices."
+      - "SAFETY/INJURY PREVENTION: Describe emergency and nonemergency situations."
+      - "SAFETY/INJURY PREVENTION: Identify household products that are harmful or poisonous."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Identify a variety of feelings (e.g., happiness, sadness, anger, fear, frustration, calmness)."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Describe what it means to be a friend and how to show kindness, consideration, and concern for others (i.e., self-awareness, social awareness, and relationship skills)."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Describe personal space."
+      - "VIOLENCE PREVENTION: Recognize that classroom rules are important for school (e.g., sharing, respecting others)."
+      - "COMMUNITY/ENVIRONMENTAL HEALTH: Identify items and materials that can be reused (e.g., grocery bags, paper, water bottles, other containers)."
+
+  - id: K.HE.HD.2
+    title: K.2
+    text: The student will identify healthy decisions.
+    subs: 
+      - "BODY SYSTEMS: Recognize how the major body parts work together to move."
+      - "BODY SYSTEMS: Identify situations that require the use of each of the five senses."
+      - "NUTRITION: Describe healthy meal, snack, and beverage options that include food from the MyPlate food groups (i.e., dairy, proteins, vegetables, fruits, grains)."
+      - "NUTRITION: Identify foods that most often cause allergies."
+      - "PHYSICAL HEALTH: Identify positive physical activity options and the benefits of being physically active every day."
+      - "PHYSICAL HEALTH: Describe alternatives to screen time."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Explain how hand washing helps remove bacteria and viruses that can make people sick, and describe situations where it is important to wash hands."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Discuss the benefits of personal hygiene practices (e.g., tooth brushing, flossing, hand washing, grooming)."
+      - "SUBSTANCE ABUSE PREVENTION: Describe consequences of taking medications unsupervised."
+      - "SUBSTANCE ABUSE PREVENTION: Identify the meaning of safety signs, symbols, and warning labels and understand the dangers of white powder and other unknown substances."
+      - "SAFETY/INJURY PREVENTION: Describe how safety choices can prevent injuries (e.g., wearing a helmet, tying shoelaces, using seat belts and safety seats, sitting in the back seat of vehicles with airbags)."
+      - "SAFETY/INJURY PREVENTION: Identify people who can help in an emergency and in non-emergency situations."
+      - "SAFETY/INJURY PREVENTION: Recognize that not all products advertised or sold are healthy or safe."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Describe how feelings can influence actions.
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Identify strategies for making friends and how to show kindness, consideration, and concern for others, including how to cooperate and share with others."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Identify ways to tell someone they are entering one’s personal space."
+      - "VIOLENCE PREVENTION: Explain how classmates can support one another at school.
+      - "COMMUNITY/ENVIRONMENTAL HEALTH: Describe ways to reuse items and materials in the classroom."
+
+  - id: K.HE.AH.3
+    title: K.3
+    text: The student will describe and demonstrate behaviors that promote health and prevent injury and disease. 
+    subs: 
+      - "BODY SYSTEMS: a)	Describe the different body parts involved in one movement (e.g., jumping, walking, biking)."
+      - "BODY SYSTEMS: Describe ways to protect the five senses."
+      - "NUTRITION: Create a shopping list that includes foods from each MyPlate food group."
+      - "NUTRITION: Describe how to help people with food allergies (e.g., being respectful of restrictions in the classroom and cafeteria, not sharing food, getting help from an adult)."
+      - "PHYSICAL HEALTH: Describe ways to participate regularly in physical activities inside and outside of school.'
+      - "PHYSICAL HEALTH: Describe ways to calm down before bed to prepare for sleeping."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Demonstrate proper hand washing."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Demonstrate how to brush and floss teeth correctly."
+      - "SUBSTANCE ABUSE PREVENTION: Discuss why medicines should only be taken under the supervision of a parent/guardian."
+      - "SUBSTANCE ABUSE PREVENTION: Identify adults to ask for help and assistance with harmful and unknown substances."
+      - "SAFETY/INJURY PREVENTION: Describe common safety rules and practices at home, at school, and in communities."
+      - "SAFETY/INJURY PREVENTION: Describe why it is important to ask adults for help in an emergency, how to ask for help, and how to call 911."
+      - "SAFETY/INJURY PREVENTION: Recognize that some household products are harmful if touched, ingested, or inhaled and the importance of asking adults before touching, ingesting, or inhaling white powder or other unknown substances."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Demonstrate how to use words to express feelings."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Demonstrate strategies for making friends and showing kindness, consideration, and concern for others."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Demonstrate how to tell someone they are entering one’s personal space and when to ask an adult for help."
+      - "VIOLENCE PREVENTION: Demonstrate acceptable behavior in classrooms and during play, including showing respect for the personal space of others."
+      - "COMMUNITY/ENVIRONMENTAL HEALTH: r)	Share the importance of reusing items and materials with school and family."

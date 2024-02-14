@@ -3,8 +3,89 @@
   text: The student will demonstrate an understanding of scientific and engineering practices by...
   subs: 
     - asking questions and defining problems (ask questions based on observations, identify a problem based on need, make predictions based on observations)
-    - planning and carrying out investigations (make observations to collect data, identify characteristics and properties of objects through observations, measure the relative length and weight of common objects, record information from investigations)
-    - interpreting, analyzing, and evaluating data (describe patterns, classify and/or sequence objects based on a single physical characteristic or property, organize and represent data, read and interpret data in object graphs, picture graphs, and tables)
-    - constructing and critiquing conclusions and explanations (make simple conclusions based on data or observations)
-    - developing and using models (distinguish between a model and an actual object)
-    - obtaining, evaluating, and communicating information (communicate comparative measures, e.g., heavier, lighter, longer, shorter, more, less, hotter, colder; communicate observations using pictures, drawings, and/or speech)
+    - planning and carrying out investigations (with guidance, conduct investigations to produce data, identify characteristics and properties of objects by observations, use tools to measure relative length, weight, volume, and temperature of common objects)
+    - interpreting, analyzing, and evaluating data (use and share pictures, drawings, and/or writings of observations, describe patterns and relationships, classify and arrange objects based on a single physical characteristic or property, organize and represent various forms of data using tables, picture graphs, and object graphs, read and interpret data displayed in tables, picture graphs, and object graphs, using the vocabulary more, less, fewer, greater than, less than, and equal to)
+    - constructing and critiquing conclusions and explanations (make simple conclusions based on data or observations, recognize unusual or unexpected results)
+    - developing and using models (use physical models to demonstrate simple phenomena and natural processes)
+    - obtaining, evaluating, and communicating information (communicate observations and data using simple graphs, pictures, drawings, numbers, speech and/or writing)
+
+- id: K.SC.FM.2
+  title: K.2
+  text: The student will investigate and understand that pushes and pulls affect the motion of objects. Key ideas include
+  subs: 
+    - pushes and pulls can cause an object to move;
+    - pushes and pulls can change the direction of an object; and
+    - changes in motion are related to the strength of the push or pull.
+  
+- id: K.SC.MA.3
+  title: K.3
+  text: The student will investigate and understand that physical properties of an objectcan be described. Properties include
+  subs: 
+    - colors;
+    - shapes and forms;
+    - textures and feel; and
+    - relative sizes and weights of objects. 
+    
+- id: K.SC.LP.4
+  title: K.4
+  text: The student will investigate and understand that water is important in our daily lives and has properties. Key ideas include
+  subs: 
+  - water has many uses;
+  - water can be found in many places;
+  - water occurs in different phases; and 
+  - water flows downhill.
+  
+- id: K.SC.LP.5
+  title: K.5
+  text: The students will investigate and understand that senses allow humans to seek, find, take in, and react or respond to different information. Key ideas include
+  subs: 
+  - the five basic senses correspond to specific human body structures; and
+  - senses are used in our daily lives.
+  
+- id: K.SC.LP.6
+  title: K.6
+  text: The student will investigate and understand that there are differences between living organisms and nonliving objects. Key ideas include
+  subs: 
+    - all things can be classified as living or nonliving; and
+    - living organisms have certain characteristics that distinguish them from nonliving objects. 
+  
+- id: K.SC.LP.7
+  title: K.7
+  text: The student will investigate and understand that plants and animals have basic needs and life processes. Key ideas include
+  subs: 
+    - living things need adequate food, water, shelter, air, and space to survive;
+    - plants and animals have life cycles; and
+    - offspring of plants and animals are similar but not identical to their parents or to one another.
+  
+- id: K.SC.ES.8
+  title: K.8
+  text: The student will investigate and understand that light influences temperature on Earth’s surfaces and can cause shadows. Key ideas include
+  subs: 
+    - the sun provides light and warms Earth’s surface;
+    - shadows can be produced when sunlight or artificial light is blocked by an object; and
+    - objects in shadows and objects in sunlight have different temperatures.
+
+- id: K.SC.ES.9
+  title: K.9
+  text: The student will investigate and understand that there are patterns in nature. Key patterns include
+  subs: 
+    - daily weather;
+    - seasonal changes; and
+    - day and night.
+    
+- id: K.SC.ES.10
+  title: K.10
+  text: The student will investigate and understand that change occurs over time. Key ideas include
+  subs: 
+    - natural and human-made things change over time;
+    - living and nonliving things change over time;
+    - changes can be observed and measured; and
+    - changes may be fast or slow.
+
+ - id: K.SC.ER.11
+  title: K.11
+  text: The student will investigate and understand that humans use resources. Key ideas include
+  subs: 
+    - some materials and objects can be used over and over again;
+    - materials can be recycled; and
+    - choices we make impact the air, water, land and living things.

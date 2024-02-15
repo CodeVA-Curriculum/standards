@@ -53,7 +53,7 @@
 - id: MS.SC.PS.7
   title: PS.7
   text: The student will investigate and understand that electromagnetic radiation has characteristics. Key ideas include
- subs: 
+  subs: 
     - electromagnetic radiation, including visible light, has wave characteristics and behavior; and
     - regions of the electromagnetic spectrum have specific characteristics and uses.
   
@@ -64,7 +64,7 @@
     - motion can be described using position and time; an
     - motion is described by Newton’s laws.
 
-  - id: MS.SC.PS.9
+- id: MS.SC.PS.9
   title: PS.9
   text:  The student will investigate and understand that there are basic principles of electricity and magnetism. Key ideas include
   subs: 

@@ -53,8 +53,7 @@
   
 - id: MS.SC.LS.7
   title: LS.7
-  text: The student will investigate and understand that adaptations support an
-organism’s survival in an ecosystem. Key ideas include
+  text: The student will investigate and understand that adaptations support an organism’s survival in an ecosystem. Key ideas include
   subs: 
     - biotic and abiotic factors define land, marine, and freshwater ecosystems; and
     - physical and behavioral characteristics enable organisms to survive within a specific ecosystem.
@@ -67,7 +66,7 @@ organism’s survival in an ecosystem. Key ideas include
     - changes in the environment may increase or decrease population size; and
     - large-scale changes such as eutrophication, climate changes, and catastrophic disturbances affect ecosystems.
 
-  - id: MS.SC.LS.9
+- id: MS.SC.LS.9
   title: LS.9
   text: The student will investigate and understand that relationships exist between ecosystem dynamics and human activity. Key ideas include
   subs: 
@@ -75,7 +74,7 @@ organism’s survival in an ecosystem. Key ideas include
     - disruptions in ecosystems can change species competition; and
     - variations in biotic and abiotic factors can change ecosystems. 
 
-  - id: MS.SC.LS.10
+- id: MS.SC.LS.10
   title: LS.10
   text: The student will investigate and understand that organisms reproduce and transmit genetic information to new generations. Key ideas include
   subs: 
@@ -83,7 +82,7 @@ organism’s survival in an ecosystem. Key ideas include
     - the role of meiosis is to transfer traits to the next generation; and
     - Punnett squares are mathematical models used to predict the probability of traits in offspring.
     
-  - id: MS.SC.LS.11
+- id: MS.SC.LS.11
   title: LS.11
   text: The student will investigate and understand that populations of organisms can change over time. Key ideas include
   subs: 

@@ -1,5 +1,14 @@
 CS:
-    title: "Computer Science"
+    title: "Computer Science (2017)"
+    strands:
+        AP: "Algorithms & Programming"
+        SYS: "Computing Systems"
+        CY: Cybersecurity
+        DA: Data & Analysis
+        IC: Impacts of Computing
+        NI: Networking & the Internet
+CS24:
+    title: "Computer Science (2024)"
     strands:
         AP: "Algorithms & Programming"
         SYS: "Computing Systems"

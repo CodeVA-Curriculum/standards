@@ -11,8 +11,8 @@ CS24:
     title: "Computer Science (2024)"
     strands:
         AP: "Algorithms & Programming"
-        SYS: "Computing Systems"
-        CY: Cybersecurity
+        CSY: "Computing Systems"
+        CYB: Cybersecurity
         DA: Data & Analysis
         IC: Impacts of Computing
         NI: Networking & the Internet

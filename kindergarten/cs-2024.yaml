@@ -1,0 +1,89 @@
+- id: K.CS.AP.1
+  title: K.AP.1
+  text: The student will apply computational thinking to identify patterns and sort items into categories based on an attribute.
+  subs:
+    - Identify attributes of a set of objects.
+    - Compare two objects and list attributes they have in common.
+    - Sort and classify concrete objects based on one attribute.
+
+- id: K.CS.AP.2
+  title: K.AP.2
+  text: The student will plan and implement algorithms that include sequential order. 
+  subs:
+    - Identify tasks that are completed using sequential step-by-step instructions.
+    - Recall and state thoughts, ideas, and stories in the form of sequential steps.
+    - Create a design document to illustrate thoughts, ideas, and stories in a sequential manner.
+    - Create and test a sequential algorithm emphasizing beginning, middle, and end.
+    - Create and test a sequential algorithm to accomplish a predetermined task.
+
+- id: K.CS.CSY.1
+  title: K.CSY.1
+  text: The student will identify the purpose and components of a computing device.
+  subs:
+    - Identify and locate parts of a computing device, including sensors.
+    - Describe the function of common components in a computing device.
+    - Identify different types of computing devices with screens.
+    - Identify tasks and activities at home and at school that use screens.
+    - Demonstrate proper use of computing devices.
+
+- id: K.CS.CSY.2
+  title: K.CSY.2
+  text: The student will identify when a computing device might not work as expected.
+  subs:
+    - Identify a problem with a computing device when it is not working as expected.
+    - Explain what to do when a computing device is not working as expected.
+
+- id: K.CS.CYB.1
+  title: K.CYB.1
+  text: The student will demonstrate safe and responsible use of computing technologies.
+  subs:
+    - Identify safe and responsible uses of computing technologies based on the school rules and acceptable use policy (AUP).
+    - Demonstrate safe and responsible uses of computing technologies.
+    - Communicate the process(es) for reporting behaviors that do not comply with school rules or acceptable use policy
+
+- id: K.CS.CYB.2
+  title: K.CYB.2
+  text: The student will describe the importance of protecting personal information online.
+  subs:
+    - Describe what personal information should be shared and not shared.
+    - Determine to whom personal information should be shared.
+    - Identify safe practices to keep personal information private.
+
+- id: K.CS.DA.1
+  title: K.DA.1
+  text: The student will gather and record data with or without a computing device.
+  subs:
+    - Discuss the importance of data.
+    - Identify numeric and non-numeric data.
+    - Record data and communicate possible patterns
+
+- id: K.CS.DA.2
+  title: K.DA.2
+  text: The student will create representations of data to make predictions and draw conclusions.
+  subs:
+    - Create tables, object graphs, picture graphs, and/or models.
+    - Describe the information from a given data visualization.
+    - Use data to answer questions, make predictions, and draw conclusions.
+
+- id: K.CS.IC.1
+  title: K.IC.1
+  text: "The student will identify and discuss how computing technologies impact people's lives."
+  subs:
+    - List computing technologies found in the classroom, home, and the community.
+    - Identify how computing technologies are used in daily tasks.
+    - Discuss healthy habits for using computing technologies.
+
+- id: K.CS.IC.2
+  title: K.IC.2
+  text: The student will discuss and describe how different careers use computing technologies.
+  subs:
+    - Describe how computing technologies are used in various careers.
+    - Discuss the advantages of using computing technologies in different careers.
+    - Identify local jobs that utilize computing technologies.
+
+- id: K.CS.NI.1
+  title: K.NI.1
+  text: The student will describe how people can communicate with others by using connected computing devices and the Internet.
+  subs:
+    - Identify ways to communicate with others using connected computing devices and the Internet.
+    - Describe the benefits of communicating with others using connected computing devices and the Internet. 

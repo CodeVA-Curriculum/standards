@@ -1,6 +1,104 @@
 - id: 1.CS24.AP.1
-  title: 1.1
-  text: Lorem ipsum
+  title: 1.AP.1
+  text: The student will apply computational thinking by sorting items into categories based on multiple attributes and create patterns.
   subs: 
-    - sequencing (including ordinal numbers); and;
-    - simple loops (patterns and repetition).
+    - Describe attributes of a set of objects.
+    - List the attributes a set of objects have in common.
+    - Sort and classify concrete objects based on multiple attributes.
+    - Create repeating and increasing patterns.
+
+- id: 1.CS24.AP.2
+  title: 1.AP.2
+  text: The student will plan and implement algorithms that include the use of sequence and an event based on a predetermined task.
+  subs:
+    - Plan and create a design document that illustrates thoughts, ideas, and stories in a sequential manner.
+    - Construct step-by-step instructions that include decision-making and repetition.
+    - Identify and explain the role of events that are used in an algorithm.
+    - Test algorithms that are sequential and contain an event.
+
+- id: 1.CS24.AP.3
+  title: 1.AP.3
+  text: The student will use the iterative design process to construct, test, and debug algorithms that include sequencing and an event.
+  subs:
+    - Discuss and describe the concept of debugging.
+    - Analyze and explain the results of an algorithm.
+    - Revise and improve an algorithm to produce desired outcomes.
+
+- id: 1.CS24.CSY.1
+  title: 1.CSY.1
+  text: The student will describe how computing components work together to create a computing system.
+  subs:
+    - Identify and define hardware, software, and computing systems.
+    - Identify common components of computing systems in different types of computing devices.
+    - Describe how hardware and software work together to form a computing system.
+
+- id: 1.CS24.CSY.2
+  title: 1.CSY.2
+  text: The student will use accurate terminology to describe when a computing system might not work as expected.
+  subs:
+    - Identify and describe a problem with a device or computing system when it does not work as expected.
+    - Propose a solution to simple hardware or software issues
+
+- id: 1.CS24.CYB.1
+  title: 1.CYB.1
+  text: The student will demonstrate safe and responsible use of computing technologies. 
+  subs:
+    - Describe safe and responsible uses of computing technologies based on the school rules and acceptable use policy (AUP).
+    - Demonstrate safe and responsible behaviors when using computing technologies and online communication.
+    - Discuss the process for reporting inappropriate technology use at school or home.
+    - Classify appropriate and inappropriate uses of technology at school or at home.
+    - Explain the consequences of inappropriate uses of computing technologies. 
+
+- id: 1.CS24.CYB.2
+  title: 1.CYB.2
+  text: The student will discuss the importance of using a password to protect private information.
+  subs:
+    - Describe the purpose of usernames and passwords.
+    - Discuss how passwords are private information and are used to protect the privacy of information.
+
+- id: 1.CS24.DA.1
+  title: 1.DA.1
+  text: The student will explore how data can be stored and retrieved from various computing devices.
+  subs:
+    - Identify data formats used for various purposes, including audio, images, text, and video.
+    - Explore and identify computing devices that collect, store, and/or display data.
+
+- id: 1.CS24.DA.2
+  title: 1.DA.2
+  text: The student will create representations of data to make predictions and draw conclusions. 
+  subs:
+    - Collect and organize data with or without a computing device.
+    - Create tables, object graphs, picture graphs, and models using abstraction.
+    - Identify patterns and describe trends in data visualizations of various formats.
+    - Use data to answer questions, draw conclusions, and make predictions.
+
+- id: 1.CS24.IC.1
+  title: 1.IC.1
+  text: The student will describe how computing technologies impact daily tasks and communication.
+  subs:
+    - Determine when tasks should be completed with or without computing devices.
+    - Describe how computing devices are used in communication.
+    - Describe healthy habits for using computing technologies.
+
+- id: 1.CS24.IC.2
+  title: 1.IC.2
+  text: The student will describe tasks and activities that use screens and categorize them based on their use.
+  subs:
+    - Identify daily routines and activities that can be completed with or without screens.
+    - Classify the different uses of screen time as learning, entertainment, or communication.
+
+- id: 1.CS24.IC.3
+  title: 1.IC.3
+  text: The student will compare and contrast ways people complete tasks with and without computing technologies. 
+  subs:
+    - Identify tasks that can be completed with and without computing technologies.
+    - Discuss advantages and disadvantages of using and not using computing technologies.
+    - Describe how the appropriate use of computing technologies can improve efficiency.
+    - List computing technologies used in various careers.
+
+- id: 1.CS24.NI.1
+  title: 1.NI.1
+  text: The student will explain that computing devices and the use of the Internet allow people the ability to gather information and connect with others.
+  subs:
+    - Describe how the Internet can be used to gather information.
+    - Explain ways people communicate using computing devices and the Internet.

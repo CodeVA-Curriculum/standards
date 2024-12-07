@@ -1,0 +1,15 @@
+- id: HS.CSF.DA.3
+  title: CSF.DA.3
+  text: The student will investigate data collection practices and the role of consent, transparency, and responsible data handling. 
+  subs:
+    - "Evaluate the quality of training data: completeness, accuracy, consistency, and relevance."
+    - Analyze and discuss the ethical implications and social and economic impact of training data choices.
+
+- id: HS.CSF.IC.1
+  title: CSF.IC.1
+  text: The student will research and hypothesize the societal, environmental, and ethical impacts of present and future computing technologies. 
+  subs:
+    - Identify the societal impacts of computing technologies and the various aspects of daily life and industry.
+    - Evaluate the effect of advances in information technology on the economy, environment, and ethics, including advancements of Artificial Intelligence (AI), quantum computing, and emerging technologies.
+    - Examine the environmental impact of computing technologies.
+    - Propose strategies to address the ethical impacts and potential challenges of computing technologies. 

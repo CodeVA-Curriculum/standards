@@ -1,0 +1,17 @@
+- id: HS.CSP.DA.3
+  title: CSP.DA.3
+  text: The student will use supervised or unsupervised learning algorithm to train a model on real-world data. 
+  subs:
+    - Explain the difference between labeled and unlabeled data.
+    - Evaluate a dataset used to train an artificial intelligence system.
+    - Apply mathematical operations and algorithms to manipulate and extract insights from data sets.
+    - Describe how supervised or unsupervised learning algorithms find patterns and make predictions.
+    - Discuss how machines learn from data sets and derive new knowledge.
+    - Describe how natural language processors (NLP) analyze data and produce output.
+
+- id: HS.CSP.DA.4
+  title: CSP.DA.4
+  text: The student will create and refine predictive models based on patterns in data. 
+  subs:
+    - Create and refine models or computational artifacts that can be used to make predictions and communicate effectively.
+    - Justify tools and data visualizations selected to create and assess the model for accuracy.

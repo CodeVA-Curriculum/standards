@@ -1,0 +1,104 @@
+- id: 2.CS24.AP.1
+  title: 2.AP.1
+  text: The student will apply computational thinking to identify patterns, and design algorithms to compare and contrast objects based on attributes.
+  subs:
+    - Compare and contrast multiple ways to sort a set of objects.
+    - Create a table of features to organize objects.
+    - Design an algorithm to sort objects into categories based on multiple attributes.
+
+- id: 2.CS24.AP.2
+  title: 2.AP.2
+  text: The student will plan and implement algorithms that consists of events and loops using a block-based programming language. 
+  subs:
+    - Plan and create a design document to guide the construction of a program using plain language or pseudocode.
+    - Identify a section of repeated actions within an algorithm and replace it with a loop.
+    - Construct step-by-step instructions that include events and repetition.
+
+- id: 2.CS24.AP.3
+  title: 2.AP.3
+  text: The student will use the iterative design process to create, test, and debug a program containing events and loops in a block-based programming tool. 
+  subs:
+    - Define program.
+    - Read and interpret a program expressed in a block-based programming language.
+    - Analyze and describe the results of a program.
+    - Create and test a program that uses events and loops.
+    - Revise and improve a program to produce desired outcomes.
+
+- id: 2.CS24.CSY.1
+  title: 2.CSY.1
+  text: The student will describe the characteristics of computing systems including hardware, software, input, and output.
+  subs:
+    - Describe how hardware and software work together to accomplish a task.
+    - Define and categorize components as inputs and outputs.
+    - Describe how a computing system receives input and provides output.
+    - Discuss how computers use binary to communicate and process information.
+
+- id: 2.CS24.CSY.2
+  title: 2.CSY.2
+  text: The student will demonstrate an understanding of how to troubleshoot simple hardware and software problems that may occur during use.
+  subs:
+    - Propose solutions to simple hardware and software issues.
+    - Use appropriate steps to perform simple troubleshooting tasks.
+
+- id: 2.CS24.CYB.1
+  title: 2.CYB.1
+  text: The student will model safe and responsible behaviors when using information and computing technologies. 
+  subs:
+    - Explain the need for safe and responsible uses of computing technologies.
+    - Create a flowchart to illustrate the process for reporting inappropriate use of technology at school or at home.
+    - Demonstrate and model safe and responsible behaviors when using computing technologies and online communication.
+
+- id: 2.CS24.CYB.2
+  title: 2.CYB.2
+  text: The student will explain the importance of using passwords to protect private information.
+  subs:
+    - Identify and classify passwords as strong or weak.
+    - Explain how a strong password helps protect the privacy of information.
+    - Explain the risk of sharing passwords.
+
+- id: 2.CS24.DA.1
+  title: 2.DA.1
+  text: The student will analyze data to make decisions with or without a computing device.
+  subs:
+    - Collect and record numeric and non-numeric data and describe possible patterns.
+    - Create questions that can and cannot be answered by the data.
+    - Analyze data to draw conclusions and make decisions. 
+
+- id: 2.CS24.DA.2
+  title: 2.DA.2
+  text: The student will manipulate data, create representations, and evaluate data to solve a problem.
+  subs:
+    - Create charts, graphs, and models using abstraction to represent data.
+    - Analyze data visualizations to draw conclusions.
+    - Propose and evaluate a solution to a problem or question based on data and/or data visualization.
+
+- id: 2.CS24.IC.1
+  title: 2.IC.1
+  text: The student will examine the positive and negative impacts of how using computing technologies has changed the way people live, work, and interact. 
+  subs:
+    - Identify current uses of computing/emerging technologies and discuss how they impact society.
+    - Compare and contrast appropriate and inappropriate online behaviors that apply in the physical environment and the online environment.
+    - Model healthy habits for using computing technologies.
+
+- id: 2.CS24.IC.2
+  title: 2.IC.2
+  text: The student will explain the need to balance screen time and other activities.
+  subs:
+    - Discuss appropriate times and places for screen use.
+    - List and describe alternatives to screen time
+
+- id: 2.CS24.IC.3
+  title: 2.IC.3
+  text: The student will explain how computing technologies have an impact on the workforce.
+  subs:
+    - Explain how computing technology is used in various careers.
+    - Identify skills needed for careers that use computing technologies.
+    - Discuss how computing technologies have changed the workplace.
+
+- id: 2.CS24.NI.1
+  title: 2.NI.1
+  text: The student will demonstrate the use of the Internet in gathering information to accomplish a task. 
+  subs:
+    - Explore ways information is organized and shared on the Internet.
+    - Gather information from the Internet.
+    - Summarize collected information using own words. 

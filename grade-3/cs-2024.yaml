@@ -1,0 +1,126 @@
+- id: 3.CS24.AP.1
+  title: 3.AP.1
+  text: The student will apply computational thinking to design algorithms to extend patterns, processes, or components of a problem.
+  subs:
+    - Identify a pattern in an algorithm, process, or a problem.
+    - Decompose a problem or task into a subset of smaller problems.
+    - Design an algorithm to extend either a pattern, process, or component of a problem.
+
+- id: 3.CS24.AP.2
+  title: 3.AP.2
+  text: The student will plan and implement algorithms that consist of events and conditional control structures using a block-based programming language.
+  subs:
+    - Describe the concept of a conditional control structure.
+    - Create a design document to plan an algorithm using plain language, pseudocode, or diagrams. 
+
+- id: 3.CS24.AP.3
+  title: 3.AP.3
+  text: The student will use the iterative design process to create, test, and debug programs containing events, loops, and conditional structures in a block-based programming tool. 
+  subs:
+    - Create and test programs that consist of events, loops, and conditional structures.
+    - Analyze and describe program results to assess validity of outcome.
+    - Revise and improve programs to resolve errors or produce desired outcome.
+
+- id: 3.CS24.CSY.1
+  title: 3.CSY.1
+  text: The student will model how computing devices within a computing system work.
+  subs:
+    - Describe the role of a processor in a computing system.
+    - Explain the relationship between the inputs, processors, and outputs.
+    - Discuss various types of input data a computer can accept and use.
+    - Model how a computing system works including input and output, processors, and sensors. 
+
+- id: 3.CS24.CSY.2
+  title: 3.CSY.2
+  text: The student will use accurate terminology when troubleshooting problems when a computing system is not working as expected.
+  subs:
+    - Identify common troubleshooting strategies used to address a variety of hardware and software problems.
+    - Explain and apply troubleshooting strategies related to simple hardware and software problems. 
+
+- id: 3.CS24.CYB.1
+  title: 3.CYB.1
+  text: The student will apply safe practices to protect private information.
+  subs:
+    - Identify and distinguish personal information that should be private.
+    - Describe the importance of using a strong password.
+    - Create and use strong passwords to protect private information
+
+- id: 3.CS24.CYB.2
+  title: 3.CYB.2
+  text: The student will identify the relationship between passwords and security risk.
+  subs:
+    - Describe how authentication and authorization protect private information.
+    - Identify multiple authentication methods.
+    - Discuss the security risk posed by not having a strong password.
+
+- id: 3.CS24.CYB.3
+  title: 3.CYB.3
+  text: The student will define and explain cybersecurity.
+  subs:
+    - Define cybersecurity.
+    - Research and identify problems and consequences related to inappropriate use of computing devices and networks.
+    - Model safe and responsible behaviors when using computing technologies and online communication.
+
+- id: 3.CS24.DA.1
+  title: 3.DA.1
+  text: The student will gather, store, and organize data to evaluate trends and identify patterns using a computing device. 
+  subs:
+    - Formulate questions that require the collection or acquisition of data.
+    - Gather, organize, sort, and store data.
+    - Examine a labeled dataset to identify potential problems within the data.
+    - Discuss how data discrepancies or problems impact predictions and results.
+    - Draw conclusions and make predictions based on observed data.
+
+- id: 3.CS24.DA.2
+  title: 3.DA.2
+  text: The student will create and evaluate data representations and conclusions.
+  subs:
+    - Create charts and graphs based on data collection.
+    - Analyze data to identify patterns, draw conclusions, and make predictions.
+
+- id: 3.CS24.DA.3
+  title: 3.DA.3
+  text: The student will create models that can represent a physical object or process.
+  subs:
+    - Create a model to represent a physical object or process.
+    - Identify how computing devices are used to create models.
+    - Discuss the advantages and disadvantages of using computing devices to create models. 
+
+- id: 3.CS24.IC.1
+  title: 3.IC.1
+  text: The student will identify and examine the positive and negative impacts of the prevalence of computing technologies.
+  subs:
+    - Identify computing technologies that have changed the world.
+    - Examine and explain how computing technologies influence and are influenced by culture.
+    - Identify social and ethical issues related to the use of computing technologies.
+
+- id: 3.CS24.IC.2
+  title: 3.IC.2
+  text: The student will discuss and describe strategies to manage screen time.
+  subs:
+    - Define and describe screen time.
+    - Explain the importance of responsible screen time management.
+    - Discuss how screen time choices affect one's personal health and interactions with others
+
+- id: 3.CS24.IC.3
+  title: 3.IC.3
+  text: The student will identify and describe computing technology careers and their impact on society.
+  subs:
+    - Research computing technology careers.
+    - Describe the impact careers in computing technology have on society.
+
+- id: 3.CS24.IC.4
+  title: 3.IC.4
+  text: The student will demonstrate how to use information created by others with permission.
+  subs:
+    - Discuss copyright, piracy, and plagiarism.
+    - Demonstrate how to use information created by others.
+
+- id: 3.CS24.NI.1
+  title: 3.NI.1
+  text: The student will describe computing networks.
+  subs:
+    - Differentiate between a network and the Internet.
+    - Identify the components of a computing network.
+    - Describe how a computing device connects to a network.
+    - Identify ways networks are used to transmit information.

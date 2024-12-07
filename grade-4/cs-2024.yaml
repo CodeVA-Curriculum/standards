@@ -1,0 +1,144 @@
+- id: 4.CS24.AP.1
+  title: 4.AP.1
+  text: The student will apply computational thinking to identify patterns and design algorithms to compare and contrast multiple algorithms used for the same task.
+  subs:
+    - Decompose an algorithm, process, or problem into a subset of smaller problems.
+    - Identify multiple algorithms for the same task.
+    - Describe patterns within multiple algorithms.
+    - Determine which algorithm is most effective for a given task.
+
+- id: 4.CS24.AP.2
+  title: 4.AP.2
+  text: The student will plan and implement algorithms that consist of sequencing, loops, variables, user input, and conditional control structures using a blockbased programming language.
+  subs:
+    - Identify user input and its role in improving a program.
+    - Describe the concept of a variable.
+    - Read and explain a design document to trace and predict an algorithm using plain language, pseudocode, or diagrams.
+    - Create a design document to plan an algorithm using plain language, pseudocode, or diagrams.
+    - Write programs that initialize, assign values to, name, and modify variables.
+
+- id: 4.CS24.AP.3
+  title: 4.AP.3
+  text: The student will use the iterative design process to create, test, and debug programs containing sequencing, loops, variables, user inputs, and conditional control structures in a block-based programming tool.
+  subs:
+    - Create and test programs that consist of sequencing, loops, variables, user inputs, and conditional control structures.
+    - Create and use variables to store and process data.
+    - Trace and predict the value of variables that change over the course of the program's runtime.
+    - Analyze and describe program results to assess validity of outcomes.
+    - Revise and improve programs to resolve errors or produce desired outcomes.
+
+- id: 4.CS24.CSY.1
+  title: 4.CSY.1
+  text: The student will model how a computing system works to accomplish a task. 
+  subs:
+    - Describe how computing systems perceive the world through sensors and other inputs.
+    - Compare and contrast how humans and computers process information from inputs.
+    - Explain how computing devices may be used to classify and organize input.
+    - Diagram and describe a simple computing system indicating processors, inputs, and outputs.
+
+- id: 4.CS24.CSY.2
+  title: 4.CSY.2
+  text: The student will apply troubleshooting strategies when a computing system is not working as intended.
+  subs:
+    - Identify hardware, software, and connectivity problems using accurate terminology.
+    - Apply troubleshooting strategies to address hardware, software, and connectivity problems.
+
+- id: 4.CS24.CSY.3
+  title: 4.CSY.3
+  text: The student will describe the learning process of humans and computers.
+  subs:
+    - Compare and contrast how humans and computing technologies collect, store, and process data.
+    - Identify similarities and differences on how humans and computing technologies infer and extract meaning from data.
+    - "Define machine learning and identify machine learning approaches: supervised, unsupervised, and reinforcement learning."
+
+- id: 4.CS24.CYB.1
+  title: 4.CYB.1
+  text: The student will examine the impacts of appropriate and inappropriate use of computing technologies.
+  subs:
+    - Examine and explain scenarios for appropriate and inappropriate use of computing technologies.
+    - Develop possible solutions involving inappropriate use of computing technologies.
+
+- id: 4.CS24.CYB.2
+  title: 4.CYB.2
+  text: The student will identify and investigate best practices to safeguard information shared online and through online platforms.
+  subs:
+    - Classify personal, private, and public information.
+    - Research and evaluate tradeoffs of sharing information.
+    - Investigate and communicate best practices to limit unauthorized access to information on a computing device.
+    - Demonstrate proper use and protection of personal passwords.
+    - List methods used to safeguard online information.
+
+- id: 4.CS24.CYB.3
+  title: 4.CYB.3
+  text: The student will examine how information is shared online and explain the importance of cybersecurity. 
+  subs:
+    - Investigate multiple ways people share information online.
+    - Determine and describe when information should be shared and to whom it should be shared.
+    - Describe how personal information can be collected and shared online.
+    - Explain the importance of cybersecurity.
+
+- id: 4.CS24.DA.1
+  title: 4.DA.1
+  text: The student will identify the appropriate type of data needed to solve a problem or answer a question.
+  subs:
+    - Analyze a problem to determine the appropriate type of data needed.
+    - Evaluate the reliability of data sources.
+    - Use numeric values to represent non-numeric ideas to include binary, American Standard Code for Information Interchange (ASCII), and RGB values.
+    - Collect, store, clean, and organize data for analysis and to prepare visualizations.
+
+- id: 4.CS24.DA.2
+  title: 4.DA.2
+  text: The student will create and evaluate data representations to make predictions and conclusions.
+  subs:
+    - Formulate questions that require the collection or acquisition of data.
+    - Collect data to create charts and graphs.
+    - Recognize and analyze patterns and relationships within data sets.
+    - Analyze visual representations to make predictions and draw conclusions
+
+- id: 4.CS24.DA.3
+  title: 4.DA.3
+  text: The student will create a computational model that represents attributes and behaviors associated with a concept.
+  subs:
+    - Examine models of physical objects and processes.
+    - Create a computational model that reflects the attributes and behaviors associated with a concept.
+    - Explain how a computer model illustrates a given concept.
+
+- id: 4.CS24.IC.1
+  title: 4.IC.1
+  text: The student will identify and examine the positive and negative impacts of the prevalence of computing technologies.
+  subs:
+    - Identify computing technologies that have changed Virginia's economy.
+    - Examine and explain how computing technologies influence and are influenced by culture.
+    - Identify social and ethical issues related to computing devices and networks.
+
+- id: 4.CS24.IC.2
+  title: 4.IC.2
+  text: The student will describe the impact of screen time on relationships at home and at school.
+  subs:
+    - Describe the impact of excessive screen time on maintaining friendships and family dynamics.
+    - Explain how playing video games and the use of social media can impact relationships and personal health.
+
+- id: 4.CS24.IC.3
+  title: 4.IC.3
+  text: The student will examine the impact of computing technologies in the workforce.
+  subs:
+    - Research and analyze the skills needed for careers in computing technology fields.
+    - Examine the impacts of diversity and inclusivity in computing technology fields.
+
+- id: 4.CS24.IC.4
+  title: 4.IC.4
+  text: The student will describe the importance of copyrights and intellectual property rights.
+  subs:
+    - Demonstrate an understanding of copyright and the fair use of information.
+    - Explain how intellectual property can be protected.
+    - Give proper attribution to the original author of digital and online content. 
+
+- id: 4.CS24.NI.1
+  title: 4.NI.1
+  text: The student will identify the interrelationship between computing devices and a computing network. 
+  subs:
+    - Define client and server.
+    - Describe how packets are used to transmit information on a network.
+    - Describe factors that may affect the speed of data transmission.
+    - Differentiate between networking tasks that require Internet access and tasks that do not require Internet access.
+    - Model how computing devices in a network transmit and receive information. 

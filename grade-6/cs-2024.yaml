@@ -1,0 +1,166 @@
+- id: 6.CS24.AP.1
+  title: 6.AP.1
+  text:  The student will apply computational thinking to identify patterns, make use of decomposition to break down problems or processes into sub-components, and design algorithms.
+  subs:
+    - Identify patterns and repeated steps in an algorithm, problem, or process.
+    - Decompose an algorithm, problem, or process into sub-components.
+    - Abstract relevant information to identify essential details.
+    - Design algorithms using abstraction to accomplish a task or express a computational process.
+
+- id: 6.CS24.AP.2
+  title: 6.AP.2
+  text: The student will plan and implement algorithms that include conditional control structures and collection of numeric data using a block-based or textbased tool.
+  subs:
+    - Create a decision tree diagram to illustrate the decision-making process.
+    - Read and write programs that initialize Boolean, integer, and decimal number variables.
+    - Read and write programs that collect numeric data from users.
+    - Read and write programs that contain nested conditional control structures.
+    - 'Predict the results of logic expressions that use Boolean operators: and, or, and not; including expressions that use relational expressions as one or more operands.'
+
+- id: 6.CS24.AP.3
+  title: 6.AP.3
+  text: The student will use the iterative design process to create, test, and debug programs using a block-based or text-based programming language. 
+  subs:
+    - Create and test programs that uses multiple conditional control structures.
+    - Incorporate existing code, media, or libraries into original programs.
+    - Trace and predict outcomes of programs.
+    - Analyze and describe program results to assess validity of outcomes.
+    - Analyze the outcomes of programs to identify logic and syntax errors.
+    - Incorporate feedback from others to refine program.
+    - Revise and improve programs to resolve errors and produce desired outcomes.
+
+- id: 6.CS24.AP.4
+  title: 6.AP.4
+  text: The student will demonstrate proper attribution when incorporating ideas and works of others.
+  subs:
+    - Identify and give proper attribution of information and assets from the Internet and other sources. 
+
+- id: 6.CS24.CSY.1
+  title: 6.CSY.1
+  text: The student will define and explain application software and operating systems of a computing device within a computing system. 
+  subs:
+    - Define and describe the functions of an operating system and application software.
+    - List advantages and limitations of application software and operating systems based on the needs of the user.
+
+- id: 6.CS24.CSY.2
+  title: 6.CSY.2
+  text: The student will identify and explain hardware, software, and connectivity problems and troubleshooting solutions. 
+  subs:
+    - Identify and explain hardware, software, and connectivity problems and solutions with accurate terminology.
+    - Identify resources for troubleshooting hardware, software, and connectivityrelated problems. 
+
+- id: 6.CS24.CSY.3
+  title: 6.CSY.3
+  text: The student will identify and describe Artificial Intelligence (AI).
+  subs:
+    - Define artificial intelligence and identify the characteristics of artificial intelligence.
+    - Describe how AI technologies generate information or automate decision and how people interact with AI technologies.
+    - Define algorithmic bias and explain its consequences on AI technologies and systems.
+
+- id: 6.CS24.CYB.1
+  title: 6.CYB.1
+  text: The student will evaluate the risks and benefits associated with sharing personal and public resources or artifacts. 
+  subs:
+    - Identify and explain the difference between personal and public information.
+    - Discuss the consequences of sharing personal and confidential information online.
+    - Evaluate risks and benefits associated with sharing information online.
+
+- id: 6.CS24.CYB.2
+  title: 6.CYB.2
+  text: The student will investigate various usage agreements designed to protect individuals. 
+  subs:
+    - Identify laws governing privacy with computing devices and emerging technologies.
+    - Investigate and describe common components of usage agreements.
+    - Identify user and company protections in a usage agreement. 
+
+- id: 6.CS24.DA.1
+  title: 6.DA.1
+  text: The student will utilize computational tools to collect and organize data.
+  subs:
+    - Select and use appropriate computational tools to collect data.
+    - Organize data to make it easier to understand and use.
+    - Clean data to remove and correct errors.
+    - Analyze data sources for accuracy and reliability. 
+
+- id: 6.CS24.DA.2
+  title: 6.DA.2
+  text: The student will utilize computational tools to visualize and evaluate data.
+  subs:
+    - Identify different types of visual representations of data.
+    - Compare various visual representations and identify when each should be used.
+    - Create charts, graphs, models, and simulations to visualize data.
+    - Describe and synthesize information from a visual representation of data. 
+
+- id: 6.CS24.DA.3
+  title: 6.DA.3
+  text: The student will make predictions and draw conclusions from data visualizations. 
+  subs:
+    - Visualize data using appropriate graphs, charts, and data visualization techniques to enhance understanding and communicate findings effectively.
+    - Use computational tools to analyze patterns within data sets and identify trends.
+    - Draw conclusions and make predictions based on the analysis and interpretation of the data visualization.
+    - Utilize simulations and models to formulate, refine, and test hypotheses. 
+
+- id: 6.CS24.DA.4
+  title: 6.DA.4
+  text: The student will identify ways people curate and provide training data.
+  subs:
+    - Identify and list ways people provide data that is used as training data.
+    - Discuss the role of human intervention in curating training data.
+    - Identify and describe the effect training data has on the accuracy of artificial intelligence systems.
+
+- id: 6.CS24.IC.1
+  title: 6.IC.1
+  text: The student will assess the impact of computing technologies on local society. 
+  subs:
+    - Explain how computing impacts innovation and describe the development of new computing technologies in communication, entertainment, and business.
+    - Discuss how computing technologies have influenced various industries and sectors locally.
+    - Research simple and complex problems that computing systems can be used to solve.
+    - Analyze the implications of emerging technologies and potential real-world impact in the local community. 
+
+- id: 6.CS24.IC.2
+  title: 6.IC.2
+  text: The student will analyze the impact of screen time on physical and mental health. 
+  subs:
+    - Analyze and describe the impact of excessive technology usage may have on one's physical health.
+    - Examine the impact of blue light on sleep patterns and regulations.
+    - Propose strategies that provide alternatives of technology usage to promote physical activity.
+    - Discuss the potential impact the use of social media may have on self-identity and mental health.
+    - Define cyberbullying and its impact on one's health and well-being.
+    - Discuss the possible effects of cyberbullying.
+    - Identify ways to report illegal or psychologically maladaptive online behavior.
+
+- id: 6.CS24.IC.3
+  title: 6.IC.3
+  text: The student will explore career pathways and identify how computer science and computational thinking practices align with these pathways. 
+  subs:
+    - Investigate a career of interest and determine how computer science and computational thinking practices are used in the chosen career. 
+
+- id: 6.CS24.IC.4
+  title: 6.IC.4
+  text: The student will identify copyrighted and licensed software material.
+  subs:
+    - Identify the role of software licenses, including open-source, and why they are used.
+    - Compare and contrast the positives and negatives of various software licenses. 
+
+- id: 6.CS24.IC.5
+  title: 6.IC.5
+  text: The student will describe the impacts of computing network architecture, including the role of the Internet in society. 
+  subs:
+    - Discuss ethical issues and laws related to accessibility, censorship, privacy, access, and safety while using the Internet.
+    - Explain the role broadband connectivity has in social life, culture, and global economy.
+
+- id: 6.CS24.IC.6
+  title: 6.IC.6
+  text: The student will investigate and analyze the impact of the progression and advancement of AI technologies on industries. 
+  subs:
+    - Discuss the type of industries that may be impacted by the use and integration of Artificial Intelligence (AI).
+    - Compare and contrast the evolving nature of work across diverse industries because of the progression and advancement of Artificial Intelligence. 
+
+- id: 6.CS24.NI.1
+  title: 6.NI.1
+  text: The student will outline the advantages and disadvantages of transmitting information over the Internet, including speed, reliability, cost, and security. 
+  subs:
+    - Explain the role of the Internet in social life, culture, and the economy.
+    - Explain data transfer and the impact of connectivity speed when data is going from one device to another.
+    - Compare the speed and reliability of various data transmission media.
+    - Describe the advantages and disadvantages of transporting information over the Internet. 

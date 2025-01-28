@@ -20,22 +20,22 @@ CSF:
     title: Computer Science Foundations
     inherit: CS
     subject: CS
-    grades: HS
+    grade: HS
 CSP:
     title: Computer Science Principles
     inherit: CS
     subject: CS
-    grades: HS
+    grade: HS
 PRG:
     title: Computer Science Programming
     inherit: CS
     subject: CS
-    grades: HS
+    grade: HS
 CSE:
     title: Middle School CS Elective
     inherit: CS
     subject: CS
-    grades: MS
+    grade: MS
 MT:
     title: Mathematics
     strands:
@@ -50,7 +50,7 @@ ALG1:
     grade: HS
 DS:
     title: Data Science
-    grades: HS
+    grade: HS
     subject: MT
     strands:
         CXT: Data in Context

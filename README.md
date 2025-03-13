@@ -2,6 +2,10 @@
 
 This repository contains data about all the standards CodeVA uses for alignment in its curricular products.
 
+## Editing This Repository
+
+To remove a set of standards from the API, comment out or remove the subject object from the `id_key.yaml` file.
+
 ## Schema
 
 Standards are expressed in `.yaml` format. Each `.yaml` file contains all the standards associated with a given grade level and subject area. The file should be located in a folder corresponding to the grade level.

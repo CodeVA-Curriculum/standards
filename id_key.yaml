@@ -1,14 +1,5 @@
 CS:
-    title: "Computer Science (2017)"
-    strands:
-        AP: "Algorithms & Programming"
-        SYS: "Computing Systems"
-        CY: Cybersecurity
-        DA: Data & Analysis
-        IC: Impacts of Computing
-        NI: Networking & the Internet
-CS24:
-    title: "Computer Science (2024)"
+    title: "Computer Science"
     strands:
         AP: "Algorithms & Programming"
         CSY: "Computing Systems"
@@ -47,6 +38,7 @@ MT:
 ALG1:
     title: "Algebra 1"
     inherit: MT
+    subject: MT
     grade: HS
 DS:
     title: Data Science

@@ -1,15 +1,197 @@
+- id: HS.CSF.AP.1
+  title: CSF.AP.1
+  text: The student will apply computational thinking to address a computational problem.
+  subs:
+    - Identify real-world problems that are classification and prediction problems.
+    - Decompose a problem or process into sub-components.
+    - Implement abstractions to improve program modularity, reusability, and readability.
+    - Identify computing-based solutions to address a computational problem.
+- id: HS.CSF.AP.2
+  title: CSF.AP.2
+  text: The student will use the iterative design process to create, test, and refine programs using a text-based programming language.
+  subs:
+    - Create programs using a text-based programming language.
+    - Document programs to improve the ability to trace, test, and debug.
+    - Trace the execution of an algorithm and predict its results.
+    - Analyze the outcomes of programs to identify logic and syntax errors.
+    - Use multiple test cases to verify and refine the program.
+    - Revise and improve an algorithm to resolve errors or produce desired outcomes.
+    - Use version control and incorporate user feedback to refine program.
+- id: HS.CSF.AP.3
+  title: CSF.AP.3
+  text: The student will plan and implement algorithms and programs that include loops, variables, and compound and nested control structures using a text- based programming language.
+  subs:
+    - Read and interpret algorithms and programs expressed using plain language, pseudocode, and text-based programming languages.
+    - Create design documents using plain language, pseudocode, or diagrams.
+    - Read and write algorithms and programs that accept multiple input values, use variables, and produce output.
+    - Read and write algorithms and programs that include predefined functions and procedures with parameters and returns.
+    - Compare several implementations of the same algorithm using different control structures.
+- id: HS.CSF.AP.4
+  title: CSF.AP.4
+  text: The student will design programs that use and manipulate data.
+  subs:
+    - Determine appropriate data structures to address program specifications.
+    - Apply basic computations on numeric and non-numeric data types.
+    - Read and write programs that create, store, and manipulate primitive data.
+    - "Read and write programs that create, store, and manipulate linear collections of primitive data types: arrays or list."
+    - Read and write programs that use relational, logical, and arithmetic expressions.
+    - Read and write programs that traverse and manipulate data structures.
+- id: HS.CSF.AP.5
+  title: CSF.AP.5
+  text: The student will define and describe neural network learning algorithms.
+  subs:
+    - Define and describe neural network learning algorithms.
+    - Illustrate and describe a neural network structure.
+    - Identify and discuss examples of computing technologies that utilize neural networks.
+    - Compare and contrast a decision tree learning algorithm and a neural network learning algorithm.
+- id: HS.CSF.AP.6
+  title: CSF.AP.6
+  text: The student will investigate different coding languages.
+  subs:
+    - Identify and describe characteristics of block-based and text-based coding languages.
+    - Analyze the advantages and disadvantages of block-based and text-based coding languages.
+    - Analyze the advantages and disadvantages of various text-based coding languages.
+- id: HS.CSF.AP.7
+  title: CSF.AP.7
+  text: The student will use search algorithms and sort algorithms.
+  subs:
+    - Define the concept and role of a search algorithm.
+    - Define the concept and role of a sort algorithm.
+    - Compare and contrast bubble sort, quick sort, and merge sort.
+    - Compare and contrast linear search and binary search.
+    - Evaluate and determine the best search or sort algorithm to use based on intended results.
+- id: HS.CSF.AP.8
+  title: CSF.AP.8
+  text: The student will work collaboratively in an iterative design process to solve problems, including peer review and feedback.
+  subs:
+    - Identify project management frameworks and methodologies that emphasize iteration.
+    - Discuss the significance of communication and methods of communication when working collaboratively.
+    - Distribute roles and responsibilities and adhere to predetermined timeline and/or project scope.
+    - Collaboratively plan, design, and revise programs.
+    - Provide constructive feedback through peer review.
+    - Use project management tools to support collaboration.
+    - Justify and explain design choices, including constraints, and audiences.
+    - Reflect and discuss collaborative experience with team
+- id: HS.CSF.CSY.1
+  title: CSF.CSY.1
+  text: The student will explain the use of abstraction to hide underlying implementation of computing systems embedded in everyday objects.
+  subs:
+    - Provide real-world examples of abstraction in computing.
+    - Explain the role of abstraction to simplify complex systems.
+    - Identify and describe levels of abstraction between application software, system software, and hardware layers.
+- id: HS.CSF.CSY.2
+  title: CSF.CSY.2
+  text: The student will illustrate how computers create visual representations.
+  subs:
+    - Describe how computers receive visual data from various sensors and tools.
+    - Describe image processing techniques to include filtering, segmentation, and feature extraction.
+    - Explain how computers use pattern recognition and classify data to interpret and make decisions.
+    - Discuss ethical considerations related to the use of visual data and computer vision technologies.
+- id: HS.CSF.CSY.3
+  title: CSF.CSY.3
+  text: The student will illustrate how computers can use visual representations of the world to solve problems.
+  subs: 
+    - Describe the parts of a network diagram and how they are related.
+    - Explain the relationship between nodes, links, and other components of graphs.
+    - Explain how a computer can solve a maze, find a route on a map, and use reasoning to solve problems.
+- id: HS.CSF.CSY.4
+  title: CSF.CSY.4
+  text: The student will describe and explain the methods in which computers learn through the use of machine learning.
+  subs:
+    - Compare and contrast the learning process of humans and computers.
+    - Identify mathematical models used by supervised learning to produce classifications and predictions.
+- id: HS.CSF.CYB.1
+  title: CSF.CYB.1
+  text: The student will evaluate the methods of protecting data and computing systems, considering the context of the user and other stakeholders, with the level of cybersecurity risk.
+  subs:
+    - Describe ways data and computing systems can be threatened by malware, ransomware, social engineering, phishing, and other cyberattacks.
+    - Compare strategies to protect data and computing systems from malware, ransomware, social engineering, phishing, and other cyberattacks
+- id: HS.CSF.CYB.2
+  title: CSF.CYB.2
+  text: The student will identify and describe typical targets and perpetrators of cyberattacks.
+  subs:
+    - Identify common targets and perpetrators of cyberattacks.
+    - Identify ways data is automatically collected and generated that may or may not be evident to users.
+    - Describe potential vulnerabilities when using publicly available networks.
+    - Assess the impact of cyber threats on systems and people with diverse backgrounds, technical knowledge, or threat profiles.
+- id: HS.CSF.CYB.3
+  title: CSF.CYB.3
+  text: The student will compare various security measures, considering tradeoffs between the usability and security of a computing system
+  subs:
+    - Evaluate tradeoffs between usability and security.
+    - Analyze scenarios to determine tradeoffs between usability and security.
+    - Propose recommendations for optimizing balance between usability and security in a given computing system.
+- id: HS.CSF.DA.1
+  title: CSF.DA.1
+  text: The student will identify and explain specific examples of real-world problems that can be effectively addressed using data analysis.
+  subs:
+    - Describe the types of data that business, industry, and government entities collect and maintain.
+    - Identify privacy and consumer protection issues that impact data representation.
+    - Identify real-world problems that can be addressed through data analysis.
+    - Compare two real-world datasets to identify how the values of features are encoded and represented.
+    - Formulate questions to decompose a problem and develop a data project plan.
+- id: HS.CSF.DA.2
+  title: CSF.DA.2
+  text: The student will evaluate data collection and storage practices, including their impact on the stakeholders involved.
+  subs:
+    - Identify methods for collecting and storing data of different data sizes.
+    - Evaluate the technical and ethical implications of collecting and storing data from the perspectives of users, programmers, companies, and communities.
+    - Identify impacts of bias in data collection and storage practices.
+    - Analyze the impact of data quality, quantity, diversity, and other factors on the accuracy and reliability of data visualizations.
+    - Research emerging technologies that have the capability to construct reasoning from stakeholder data.
 - id: HS.CSF.DA.3
   title: CSF.DA.3
   text: The student will investigate data collection practices and the role of consent, transparency, and responsible data handling. 
   subs:
     - "Evaluate the quality of training data: completeness, accuracy, consistency, and relevance."
     - Analyze and discuss the ethical implications and social and economic impact of training data choices.
-
+- id: HS.CSF.DA.4
+  title: CSF.DA.4
+  text: The student will differentiate between the use of training data and reasoning models.
+  subs:
+    - Explain the use of training data and the role it has in the development of machine learning models.
+    - Explain the use of reasoning models and the role it has in the development of machine learning models.
+    - Identify and discuss the similarities and differences between training data and reasoning models in artificial intelligence systems.
+- id: HS.CSF.DA.5
+  title: CSF.dA.5
+  text: The student will utilize data analysis to solve computational problems that make an impact and create solutions.
+  subs:
+    - Formulate questions that require data collection.
+    - Identify appropriate data to address predetermined question.
+    - Define the stages of the data cycle and the interrelationship between each stage.
+    - Identify and explain constraints of a data-driven approach.
+    - Create a computational artifact of the data analysis results
 - id: HS.CSF.IC.1
   title: CSF.IC.1
-  text: The student will research and hypothesize the societal, environmental, and ethical impacts of present and future computing technologies. 
+  text: The student will research and hypothesize the societal, environmental, and ethical impacts of present and future computing technologies.
   subs:
     - Identify the societal impacts of computing technologies and the various aspects of daily life and industry.
     - Evaluate the effect of advances in information technology on the economy, environment, and ethics, including advancements of Artificial Intelligence (AI), quantum computing, and emerging technologies.
     - Examine the environmental impact of computing technologies.
-    - Propose strategies to address the ethical impacts and potential challenges of computing technologies. 
+    - Propose strategies to address the ethical impacts and potential challenges of computing technologies.
+- id: HS.CSF.IC.2
+  title: CSF.IC.2
+  text: The student will examine the impact of screen-related distractions on productivity.
+  subs:
+    - Identify digital tools and applications designed to monitor or regulate screen time usage.
+    - Evaluate the impact of screen time management on productivity and well-being.
+    - Examine and discuss the impact of screen time and social media on academic or workplace performance.
+- id: HS.CSF.IC.3
+  title: CSF.IC.3
+  text: The student will identify historical advancements in computer science and their parallels with changes in society
+  subs:
+    - Examine correlations between historical developments in computing technologies and changes in society.
+    - Appraise contributions of pioneers in the field of computer science.
+    - Explore the impact of Moore’s Law on scientific and mathematical advancements.
+- id: HS.CSF.IC.4
+  title: CSF.IC.4
+  text: The student will explore computer science careers in Virginia and globally.
+  subs:
+    - Research and explain the preparation and job outlook for computer science careers.
+    - Examine current and future computer science career pathways involving emerging technologies.
+- id: HS.CSF.NI.1
+  title: CSF.NI.1
+  text: The student will model the transmission of data across computing networks and the Internet.
+  subs:
+    - Identify the roles of computing devices: routers, switches, servers, and clients.
+    - Explain the role of Internet protocols: Hypertext Transfer Protocol Secure (HTTPS) and Transmission Control Protocol/Internet Protocol (TCP/IP) to provide reliable and secure data.

@@ -1,0 +1,71 @@
+  - id: 5.HE.EC.1
+    title: 5.1
+    text: The student will analyze the impact of positive health behaviors and risky behaviors on personal health.
+    subs: 
+      - "BODY SYSTEMS:a)	Identify the major structures and functions of the integumentary (skin, hair, and nails) system."
+      - "BODY SYSTEMS: Identify the major structures and functions of the eyes and ears."
+      - "NUTRITION: Define macronutrients and micronutrients and how the body uses each. 
+      - "NUTRITION: Explain Recommended Dietary Allowance (RDA) and the concepts of eating in moderation and energy balance in relation to healthy weight.
+      - "NUTRITION: Describe the effects of caffeine on the body."
+      - "PHYSICAL HEALTH/DISEASE PREVENTION/HEALTH PROMOTION: Explain the effects of physical activity, sleep, and personal health habits and behaviors on heart health."
+      - "PHYSICAL HEALTH/DISEASE PREVENTION/HEALTH PROMOTION: Examine the health risks associated with unprotected sun exposure."
+      - "PHYSICAL HEALTH/DISEASE PREVENTION/HEALTH PROMOTION: Describe hygiene habits that promote good health."
+      - "SUBSTANCE ABUSE PREVENTION: Analyze the effects of the use of alcohol, tobacco, nicotine products, marijuana, inhalants, and other drugs on relationships with family, peers, and other individuals."
+      - "SUBSTANCE ABUSE PREVENTION:Explain the connection between mental health and substance use."
+      - "SAFETY/INJURY PREVENTION: Analyze why people choose to follow or not follow safety rules at school."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Define stress and identify physical and emotional responses caused by stress."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Define positive self-image."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Identify components of healthy relationships and the social skills that are essential for building and sustaining relationships with family and friends."
+      - "VIOLENCE PREVENTION: Identify effective verbal and nonverbal communication skills for resolving conflict situations."
+      - "VIOLENCE PREVENTION: Define cyberbullying and its impact on one’s health and well-being."
+      - "VIOLENCE PREVENTION: Recognize the influence of violence in the media on behaviors."
+      - "VIOLENCE PREVENTION: Define and describe harassment."
+      - "COMMUNITY/ENVIRONMENTAL HEALTH: s)	Describe the effects of air and noise pollution on health and the environment."
+
+  - id: 5.HE.HD.2
+    title: 5.2
+    text: The student will demonstrate responsibility for developing personal health habits and practicing behaviors that promote an active, healthy lifestyle. 
+    subs: 
+      - "BODY SYSTEMS: Describe the importance of maintaining a healthy integumentary system."
+      - "BODY SYSTEMS: Identify behaviors and environments that can lead to vision and hearing loss."
+      - "NUTRITION: Explain the RDA for macronutrients and micronutrients."
+      - "NUTRITION: Analyze food labels for a selected meal that meets RDA and energy balance for health."      
+      - "NUTRITION: Identify the influence of marketing techniques on food and beverage choices (e.g., caffeinated beverages)."   
+      - "PHYSICAL HEALTH/DISEASE PREVENTION/HEALTH PROMOTION: Review personal health habits that support heart health and the ability to perform various physical activities."
+      - "PHYSICAL HEALTH/DISEASE PREVENTION/HEALTH PROMOTION: Determine strategies to protect against the harmful effects of the sun."
+      - "SUBSTANCE ABUSE PREVENTION: Describe effective communication skills to request assistance in situations where alcohol, tobacco, nicotine products, marijuana, inhalants, and other drugs are being abused."
+      - "SUBSTANCE ABUSE PREVENTION: Describe how to get help and assistance with mental health and substance use concerns."
+      - "SAFETY/INJURY PREVENTION: Examine one’s role and the role of others in causing or preventing injuries at school."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Identify positive and negative ways to manage stress in a variety of situations."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Recognize the importance of developing and maintaining a positive self-image."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Describe the benefits of healthy relationships with family, friends, and other adult mentors."
+      - "VIOLENCE PREVENTION: Ability to analyze the role of feelings/emotions in conflict resolution situations."
+      - "VIOLENCE PREVENTION: Describe how to report cyberbullying at school and at home."
+      - "VIOLENCE PREVENTION: Demonstrate how to show respect for individual differences."
+      - "VIOLENCE PREVENTION: Describe how to respond to and report harassing behaviors."
+      - "COMMUNITY/ENVIRONMENTAL HEALTH: Describe strategies to decrease the impact of air quality and noise pollution on body function and the environment."
+
+  - id: 5.HE.AH.3
+    title: 5.3
+    text: The student will explain how peers, families, and community groups work together to promote health, prevent disease, and create a healthy community.    
+    subs: 
+      - "BODY SYSTEMS: Describe ways to care for the integumentary system (e.g., personal hygiene, sun safety).
+      - "BODY SYSTEMS: Describe ways to prevent vision and hearing loss and the associated healthcare professionals (e.g., optometrist, ophthalmologist, audiologist).
+      - "NUTRITION: Analyze and interpret information on food packaging, including Nutrition Facts Labels, ingredient lists, and health claims."
+      - "NUTRITION: Design marketing materials to increase the sale and consumption of healthy foods and beverages that meet RDA and energy balance for health."
+      - "NUTRITION: Promote sale and consumption of healthy beverages."
+      - "PHYSICAL HEALTH/DISEASE PREVENTION/HEALTH PROMOTION: Support family and peers in making positive food, physical activity, and sleep choices that promote heart health."
+      - "PHYSICAL HEALTH/DISEASE PREVENTION/HEALTH PROMOTION: Identify strategies to protect against the harmful effects of the sun."
+      - "PHYSICAL HEALTH/DISEASE PREVENTION/HEALTH PROMOTION: Explore the role of parents/guardians and health professionals as resources to promote health, prevent disease, and create a healthy community."
+      - "SUBSTANCE ABUSE PREVENTION: Encourage others not to use alcohol, tobacco, nicotine products, marijuana, inhalants, or other harmful drugs."
+      - "SUBSTANCE ABUSE PREVENTION: Identify prevention resources and strategies for avoiding alcohol, tobacco, inhalants, and other drugs."
+      - "SAFETY/INJURY PREVENTION: Promote safety procedures school-wide."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Practice strategies for managing stress."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Analyze positive and negative influences on self-image (e.g., media, peers)."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Identify healthy activities that students can do with friends and family to build positive relationships."
+      - "VIOLENCE PREVENTION: Demonstrate effective communication skills to defuse or resolve conflict."
+      - "VIOLENCE PREVENTION: Describe ways to offer friendship and support to someone who has been cyberbullied."
+      - "VIOLENCE PREVENTION: Advocate for a caring school environment."
+      - "VIOLENCE PREVENTION: Practice ways to respond to and report harassing behaviors."
+      - "COMMUNITY/ENVIRONMENTAL HEALTH: Research community service opportunities to address air, noise, and other environmental health issues for peers and community groups to volunteer and work on together."
+

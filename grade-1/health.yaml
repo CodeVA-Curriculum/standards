@@ -1,0 +1,66 @@
+- id: 1.HE.EC.1
+    title: 1.1
+    text: The student will identify the basic components and functions of human body systems and the importance of safe practices, positive interpersonal relationships, and environmental health. 
+    subs: 
+      - "BODY SYSTEMS: Identify major body organs (e.g., heart, brain, lungs, stomach) and location of the organs."
+      - "NUTRITION: Identify why it is important to consume a variety of foods and beverages from the five MyPlate food groups (i.e., fruits, vegetables, grains, protein, dairy)."
+      - "NUTRITION: Explain what physical reactions may occur if someone is having an allergic reaction."
+      - "PHYSICAL HEALTH: Recognize that physical activity is a form of healthy entertainment."
+      - "PHYSICAL HEALTH: Identify behaviors that promote health and wellness, including personal hygiene, sleep, physical activity, and healthy food choices."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Identify adults who keep children healthy (e.g., parents/guardians, teachers, school counselors, nurses, dentists, doctors)."
+      - "SUBSTANCE ABUSE PREVENTION: Identify that medicines can be both helpful and harmful."
+      - "SAFETY/INJURY PREVENTION: Identify safety rules and guidelines for bus and automobile safety, pedestrian safety, playground safety, fire safety, water safety, Internet safety, and safety when biking and using other recreational equipment."
+      - "SAFETY/INJURY PREVENTION: Compare and contrast personal safety behaviors at home, at school, and in the community."
+      - "SAFETY/INJURY PREVENTION: Describe sun safety practices."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Identify comfortable and uncomfortable feelings and when one might experience these feelings"
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Describe positive characteristics that are unique to each individual."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Identify effective listening skills."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Identify cooperative and responsible behaviors, such as respect for others, adherence to school rules, acceptance of responsibility, and respect for the property of others."
+      - "VIOLENCE PREVENTION: Describe feelings that may result from hearing kind and unkind words and when experiencing problems (e.g., someone not sharing)."
+      - "VIOLENCE PREVENTION: Describe personal space and boundaries for oneself and others."
+      - "COMMUNITY/ENVIRONMENTAL HEALTH: Identify items and materials that can be reduced, recycled, repurposed, or reused."
+      
+- id: 1.HE.HD.2
+    title: 1.2
+    text: The student will explain that good health is related to healthy decisions. 
+    subs: 
+      - "BODY SYSTEMS: Describe the importance of having a healthy heart, brain, and lungs."
+      - "NUTRITION: Identify 'sometimes foods' (e.g., candy, cookies, chips, ice cream, soda) and recognize that not all food products advertised or sold are healthy."
+      - "NUTRITION: Explain how allergens remain on surfaces and why it is important to clean surfaces and hands before and after eating."
+      - "PHYSICAL HEALTH: Identify ways to increase physical activity."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Determine how sleep habits affect mood and academic performance."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Explain the need for regular health checkups and screenings (e.g., medical, dental)."
+      - "SUBSTANCE ABUSE PREVENTION: Explain the harmful effects of misusing medicines and drugs."
+      - "SAFETY/INJURY PREVENTION: Explain why it is important to follow safety rules and guidelines for personal safety."
+      - "SAFETY/INJURY PREVENTION: Describe how to report a dangerous situation."
+      - "SAFETY/INJURY PREVENTION: Identify the importance of sun safety."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Identify appropriate ways a person may express feelings (e.g., happy, unhappy, mad) and trusted adults to share feelings with at school and at home."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Explain the importance of showing kindness, consideration, and concern for others."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Explain how listening is important for effective communication."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Identify strategies for respecting others’ personal space, boundaries, and belongings."
+      - "VIOLENCE PREVENTION: Explain the importance of responsible behaviors when interacting with others."
+      - "VIOLENCE PREVENTION: Explain how to listen and use words to respond to and solve problems."
+      - "COMMUNITY/ENVIRONMENTAL HEALTH: Explain why it is important to dispose of trash properly, recycle materials, conserve water, and prevent water pollution."
+
+- id: 1.HE.AH.3
+    title: 1.3
+    text: The student will identify specific rules and practices to promote personal safety and socially responsible behaviors.
+    subs: 
+      - "BODY SYSTEMS: Share ways to maintain a healthy heart, brain, and lungs for lifelong health."
+      - "NUTRITION: Explain that all foods can fit into a healthful diet through balance, variety, and moderation."
+      - "NUTRITION: Describe how one can get help from an adult if a classmate is having an allergic reaction."
+      - "PHYSICAL HEALTH: Encourage classmates to be physically active inside and outside of school"
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Promote behaviors that impact health and wellness."
+      - "DISEASE PREVENTION/HEALTH PROMOTION: Describe how one selected health professional/adult helps keep children healthy."
+      - "SUBSTANCE ABUSE PREVENTION: Create safety rules for medications in the home."
+      - "SAFETY/INJURY PREVENTION: Promote positive behaviors for personal safety, including bus and automobile safety, pedestrian safety, playground safety, fire safety, water safety, Internet safety, and safety when biking and using other recreational equipment."
+      - "SAFETY/INJURY PREVENTION: Practice fire safety and emergency/disaster procedures."
+      - "SAFETY/INJURY PREVENTION: Describe the proper way to apply sunscreen."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Demonstrate ways to express feelings appropriately."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Demonstrate cooperation with friends and classmates."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Demonstrate effective listening skills."
+      - "MENTAL WELLNESS/SOCIAL AND EMOTIONAL SKILLS: Apply strategies for establishing and respecting others' personal space, boundaries, and belongings."
+      - "VIOLENCE PREVENTION: Demonstrate responsible behaviors when interacting with others.
+      - "VIOLENCE PREVENTION: Demonstrate best ways to solve social problems."
+      - "COMMUNITY/ENVIRONMENTAL HEALTH: Create strategies to keep the environment healthy, including proper disposal of trash, recycling or reusing, and water conservation."
+

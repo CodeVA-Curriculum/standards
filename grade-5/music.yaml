@@ -1,0 +1,121 @@
+  - id: 5.MU.CP.1
+    title: 5.1
+    text: The student will improvise and compose music.
+    subs: 
+      - Improvise melodies and rhythms of increasing complexity.
+      - Compose a short original composition within specified guidelines.
+
+  - id: 5.MU.CP.2
+    title: 5.2
+    text: The student will apply a creative process for music.
+    subs: 
+      - Investigate music by documenting questions and conducting research on a musical topic of interest.
+      - Explain the role of a creative process in developing a music product or performance.
+      - Share finished works of music with a group.
+
+  - id: 5.MU.CC.3
+    title: 5.3
+    text: The student will analyze and evaluate music. 
+    subs:
+      - Group a variety of instruments into categories based on how their sounds are produced.
+      - Experiment with the science of sound.
+      - Analyze elements of music through listening using music terminology.
+      - Explain theme-and-variation form.
+      - Apply accepted criteria when judging the quality of compositions and performances.
+
+  - id: 5.MU.CC.4
+    title: 5.4
+    text: The student will analyze personal preferences among music compositions using music terminology.
+    subs: []
+
+  - id: 5.MU.CC.5
+    title: 5.5
+    text: The student will apply collaboration and communication skills for music creation, rehearsal, and performance.
+    subs:
+      - Exhibit acceptable performance etiquette as a participant and/or listener in relation to the context and style of music performed.
+      - Collaborate with others to create a musical presentation and acknowledge individual contributions as an integral part of the whole.
+
+  - id: 5.MU.HC.6
+    title: 5.6
+    text: The student will explore historical and cultural aspects of music. 
+    subs: 
+      - Identify representative composers and music compositions from different periods of music history.
+      - Compare and contrast a variety of musical styles using music terminology.
+      - Examine factors that may inspire musicians to perform or compose.
+
+  - id: 5.MU.HC.7
+    title: 5.7
+    text: The student will describe how people may participate in music within the community as performers, consumers of music, and music advocates. 
+    subs: []
+
+  - id: 5.MU.HC.8
+    title: 5.8
+    text: The student will define intellectual property as it relates to music and the music industry.
+    subs: []
+
+  - id: 5.MU.IA.9
+    title: 5.9
+    text: The student will recognize various professional music careers (e.g., music producer, recording engineer, composer, arranger, music business, arts administrator, performer, music therapist, music teacher). 
+    subs: []
+
+  - id: 5.MU.IA.10
+    title: 5.10
+    text: The student will investigate and explore innovative ways to make music.
+    subs: []
+
+  - id: 5.MU.IA.11
+    title: 5.11
+    text: The student will compare and contrast relationships between music and other fields of knowledge for the development of problem-solving skills.
+    subs: []
+
+  - id: 5.MU.TA.12
+    title: 5.12
+    text: The student will demonstrate music literacy. 
+    subs: 
+      - Identify the treble (G) and bass (F) clefs.
+      - Use a system to sight-read melodies based on the diatonic scale.
+      - Use traditional notation to write melodies containing skips and leaps.
+      - Read and notate rhythmic patterns of increasing complexity.
+      - Identify the meaning of the upper and lower numbers of compound time signatures (6/8).
+      - Identify tempo markings.
+
+  - id: 5.MU.TA.13
+    title: 5.13
+    text: The student will demonstrate music literacy. 
+    subs: 
+      - Sing with attention to blend, balance, intonation, and expression.
+      - Sing melodies of increasing complexity notated in varying forms.
+      - Sing in two- and three-part harmony.
+      - Model proper posture for singing.
+      
+  - id: 5.MU.TA.14
+    title: 5.14
+    text: The student will develop skills for individual and ensemble instrumental performance. 
+    subs: 
+      - Play music of increasing difficulty in a variety of ensembles.
+      - Play melodies and accompaniments of increasing difficulty notated in varying forms.
+      - Play with expression.
+      - Apply proper playing techniques.
+
+  - id: 5.MU.TA.15
+    title: 5.15
+    text: The student will classify, perform, and count rhythmic patterns. 
+    subs: 
+      - Use a counting system. 
+      - Include patterns that suggest duple and triple meter.
+      - Use instruments, body percussion, and voice.
+      - Increase complexity, including syncopations.
+
+  - id: 5.MU.TA.16
+    title: 5.16
+    text: The student will demonstrate meter.
+    subs: 
+      - Apply accent.
+      - Identify duple and triple meter.
+
+  - id: 5.MU.TA.17
+    title: 5.17
+    text: The student will respond to music with movement.
+    subs: 
+      - Perform non-choreographed and choreographed movements including music in duple and triple meters.
+      - Perform dances and other music activities.
